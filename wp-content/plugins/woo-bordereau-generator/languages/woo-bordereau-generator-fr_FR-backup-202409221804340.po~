@@ -1,0 +1,2625 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bordereau Generator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-20 09:25+0000\n"
+"PO-Revision-Date: 2024-09-17 14:40+0000\n"
+"Last-Translator: Spiringo\n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: woo-bordereau-generator"
+
+#: shipping_methods/WC3MExpressFlatRate.php:12
+#: shipping_methods/WC3MExpressFlatRate.php:50
+msgid "3M Express Flat Rate"
+msgstr "3M Express livraison a domicile"
+
+#: shipping_methods/WC3MExpressFlatRate.php:13
+msgid "3M Express Flat Rate Shipping method"
+msgstr "3M Express méthode d'Expédition livraison a domicile"
+
+#: shipping_methods/WC3MExpressLocalPickup.php:18
+#: shipping_methods/WC3MExpressLocalPickup.php:55
+msgid "3M Express Local Pickup"
+msgstr "3M Express livraison au bureau"
+
+#: shipping_methods/WC3MExpressLocalPickup.php:19
+msgid "3M Express Local Pickup Shipping method"
+msgstr "3M Express méthode d'expédition livraison au bureau"
+
+#: admin/Partials/BordereauGeneratorProviders.php:1149
+msgid "Account Number"
+msgstr "Numéro de compte"
+
+#: admin/Partials/ShippingOrdersTable.php:52
+#: src/admin/js/components/BarcodeScanner.jsx:336
+msgid "Action"
+msgstr "Action"
+
+#: admin/Partials/BordereauGeneratorProviders.php:1093
+msgid "Active mode economic pour Guepex ?"
+msgstr "Active mode economic pour Guepex ?"
+
+#: src/admin/js/pages/ShippingPriceManager.jsx:118
+msgid "Add"
+msgstr "Ajouter"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/OrderStatusTab.jsx:391
+msgid "Add New Status"
+msgstr "Ajouter un nouveau statut"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/OrderStatusTab.jsx:374
+msgid "Add new status"
+msgstr "Ajouter un nouveau statut"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/OrderStatusTab.jsx:260
+#: src/admin/js/components/OrderStatusTab.jsx:349
+msgid "Add to bulk action"
+msgstr "Ajouter à l'action globale"
+
+#: admin/BordereauGeneratorAdmin.php:1214
+#: shipping_methods/EcotrackLocalPickup.php:87
+#: shipping_methods/WC3MExpressLocalPickup.php:74
+#: shipping_methods/YalidineLocalPickup.php:86
+#: shipping_methods/YalidineLocalPickup.php:100
+#: shipping_methods/ZimoExpressLocalPickup.php:77
+msgid "Address"
+msgstr "Adresse"
+
+#: public/BordereauGeneratorPublic.php:613
+msgid "address-line1"
+msgstr "adresse-ligne 1"
+
+#: shipping_methods/EcotrackLocalPickup.php:118
+msgid "Address:"
+msgstr "Adresse"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1288
+msgid "Adresse"
+msgstr "Adresse"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1460
+msgid "Ajouter"
+msgstr "Ajouter"
+
+#: admin/Partials/BordereauGeneratorProviders.php:1068
+msgid "Ajouter le frais des communes suppliments ?"
+msgstr "Ajouter le frais des communes suppliments ?"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:410
+msgid "Always show address"
+msgstr "Toujours afficher l'adresse"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:432
+msgid "Always show address in the checkout form"
+msgstr "Toujours afficher l’adresse dans le formulaire de paiement"
+
+#: admin/BordereauGeneratorAdmin.php:1215
+msgid "Amount"
+msgstr "Montant"
+
+#: admin/Shipping/PicoSolution.php:173
+msgid "An error has occurred. Please contact the developer "
+msgstr "Une erreur s’est produite. Veuillez contacter le développeur "
+
+#: admin/Shipping/ColivraisonExpress.php:205
+#: admin/Shipping/ConexlogShipping.php:221
+#: admin/Shipping/ConexlogShipping.php:229
+#: admin/Shipping/ConexlogShipping.php:239
+#: admin/Shipping/ConexlogShipping.php:249
+#: admin/Shipping/ConexlogShipping.php:365
+#: admin/Shipping/ConexlogShipping.php:373
+#: admin/Shipping/ConexlogShipping.php:383
+#: admin/Shipping/ConexlogShipping.php:393
+#: admin/Shipping/ConexlogShipping.php:632
+#: admin/Shipping/ConexlogShipping.php:641
+#: admin/Shipping/ConexlogShipping.php:681
+#: admin/Shipping/ConexlogShipping.php:689
+#: admin/Shipping/EcoTrackShipping.php:271
+#: admin/Shipping/EcoTrackShipping.php:279
+#: admin/Shipping/EcoTrackShipping.php:291
+#: admin/Shipping/EcoTrackShipping.php:301
+#: admin/Shipping/EcoTrackShipping.php:418
+#: admin/Shipping/EcoTrackShipping.php:426
+#: admin/Shipping/EcoTrackShipping.php:436
+#: admin/Shipping/EcoTrackShipping.php:446
+#: admin/Shipping/EcoTrackShipping.php:669
+#: admin/Shipping/EcoTrackShipping.php:678
+#: admin/Shipping/EcoTrackShipping.php:719
+#: admin/Shipping/EcoTrackShipping.php:727 admin/Shipping/EMSExpress.php:207
+#: admin/Shipping/MaystroShipping.php:231
+#: admin/Shipping/MaystroShipping.php:240
+#: admin/Shipping/MaystroShipping.php:249
+#: admin/Shipping/MaystroShipping.php:256
+#: admin/Shipping/MaystroShipping.php:266
+#: admin/Shipping/MaystroShippingSettings.php:955
+#: admin/Shipping/MaystroShippingSettings.php:964
+#: admin/Shipping/MaystroShippingSettings.php:973
+#: admin/Shipping/MaystroShippingSettings.php:980
+#: admin/Shipping/MaystroShippingSettings.php:995
+#: admin/Shipping/NoestShipping.php:393 admin/Shipping/NoestShipping.php:402
+#: admin/Shipping/NoestShipping.php:455 admin/Shipping/NoestShipping.php:463
+#: admin/Shipping/NoestShipping.php:661 admin/Shipping/NoestShipping.php:669
+#: admin/Shipping/NoestShipping.php:878 admin/Shipping/NoestShipping.php:886
+#: admin/Shipping/ThreeMExpress.php:207 admin/Shipping/TonColisAPI.php:600
+#: admin/Shipping/TonColisAPISettings.php:183
+#: admin/Shipping/ZimoExpress.php:205
+msgid "An error has occurred. Please see log file "
+msgstr "Une erreur s’est produite. S’il vous plaît voir le fichier journal "
+
+#: admin/Partials/BordereauGeneratorProviders.php:256
+#: admin/Partials/BordereauGeneratorProviders.php:298
+msgid "API Clé"
+msgstr "API Clé"
+
+#: admin/Partials/BordereauGeneratorProviders.php:251
+#: admin/Partials/BordereauGeneratorProviders.php:305
+#: admin/Partials/BordereauGeneratorProviders.php:435
+#: admin/Partials/BordereauGeneratorProviders.php:580
+#: admin/Partials/BordereauGeneratorProviders.php:950
+#: admin/Partials/BordereauGeneratorProviders.php:1206
+#: admin/Partials/BordereauGeneratorProviders.php:1270
+#: admin/Partials/BordereauGeneratorProviders.php:1405
+msgid "API Token"
+msgstr "API Token"
+
+#: src/admin/js/components/BarcodeScanner.jsx:375
+#: src/admin/js/pages/ShippingPriceManager.jsx:132
+msgid "Apply"
+msgstr "Appliquer"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:193
+msgid "Are you sure you want to clear cache ?"
+msgstr "Êtes-vous sûr de vouloir effacer le cache ?"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:218
+msgid "Are you sure you want to clear shipping zones ?"
+msgstr "Êtes-vous sûr de vouloir effacer zones de frais de port ?"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1100
+msgid "Are you sure you want to clear the cache ?"
+msgstr "Êtes-vous sûr de vouloir effacer le cache ?"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/OrderStatusTab.jsx:121
+msgid ""
+"Are you sure you want to delete all the custom status ? this cannot be "
+"undone!"
+msgstr ""
+"Êtes-vous sûr de vouloir supprimer tous les statuts personnalisés ? Cela ne "
+"peut pas être annulé !"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/OrderStatusTab.jsx:144
+msgid ""
+"Are you sure you want to delete this order status ? this cannot be undone !"
+msgstr ""
+"Êtes-vous sûr de vouloir supprimer tous les statuts personnalisés ? Cela ne "
+"peut pas être annulé !"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:889
+msgid "Assurer le colis ?"
+msgstr "Assurer le colis ?"
+
+#: src/admin/js/components/CompanyCard.jsx:120
+#: src/admin/js/components/CompanyCard.jsx:121
+msgid "Authorization"
+msgstr "Autorisation"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:290
+#: src/admin/js/components/ShippingZonesTab.jsx:124
+msgid ""
+"Auto update allow you to get the latest updates from your shipping provider "
+"in the background"
+msgstr ""
+"La mise à jour automatique vous permet d’obtenir les dernières mises à jour "
+"de votre fournisseur d’expédition en arrière-plan"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:458
+msgid "Auto update orders when the actionSchedule runs"
+msgstr ""
+"Mise à jour automatique des commandes lors de l’exécution d’actionSchedule"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:487
+msgid ""
+"Automatically insert orders in shipping provider when the status changed"
+msgstr ""
+"Insérez automatiquement les commandes dans le fournisseur d’expédition "
+"lorsque le statut a changé"
+
+#: admin/Partials/BordereauGeneratorProviders.php:124
+#: admin/Partials/BordereauGeneratorProviders.php:172
+#: admin/Partials/BordereauGeneratorProviders.php:220
+#: admin/Partials/BordereauGeneratorProviders.php:272
+#: admin/Partials/BordereauGeneratorProviders.php:319
+#: admin/Partials/BordereauGeneratorProviders.php:369
+#: admin/Partials/BordereauGeneratorProviders.php:468
+#: admin/Partials/BordereauGeneratorProviders.php:595
+#: admin/Partials/BordereauGeneratorProviders.php:1180
+#: admin/Partials/BordereauGeneratorProviders.php:1221
+#: admin/Partials/BordereauGeneratorProviders.php:1285
+#: admin/Partials/BordereauGeneratorProviders.php:1332
+#: admin/Partials/BordereauGeneratorProviders.php:1420
+msgid "Avec Livraison"
+msgstr "Avec Livraison"
+
+#: admin/Partials/BordereauGeneratorProviders.php:975
+msgid "Avec Livraison (Livraison gratuit sera activé)"
+msgstr "Avec Livraison (Livraison gratuit sera activé)"
+
+#: src/admin/js/components/BarcodeScanner.jsx:274
+msgid "Barcode Scanner Bulk Action"
+msgstr "Scanner De Code À Barres De L'Action Globale"
+
+#: admin/BordereauGeneratorAdmin.php:637
+msgid "Bordereau"
+msgstr "Bordereau"
+
+#. Plugin Name of the plugin
+#: woocommerce-bordereau-generator.php admin/BordereauGeneratorAdmin.php:613
+#: admin/BordereauGeneratorAdmin.php:637
+#: src/admin/js/components/Checking.jsx:107 src/admin/js/pages/homepage.jsx:152
+msgid "Bordereau Generator"
+msgstr "Bordereau Generator"
+
+#: src/admin/js/pages/Welcome.jsx:13
+msgid ""
+"Bordereau Generator is here to redefine your shipping experience, "
+"consolidating complex tasks into intuitive actions, all while saving time "
+"and reducing errors."
+msgstr ""
+"Bordereau Generator est là pour redéfinir votre expérience d’expédition, en "
+"consolidant les tâches complexes en actions intuitives, tout en gagnant du "
+"temps et en réduisant les erreurs."
+
+#: woocommerce-bordereau-generator.php:105
+msgid "Bordereau Generator requires WooCommerce to be installed and active."
+msgstr "Bordereau Générateur nécessite Thème à être installé et actif."
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/pages/Settings.jsx:25
+msgid "Bordereau generator settings"
+msgstr "Paramètres du générateur Bordereau"
+
+#: admin/BordereauGeneratorAdmin.php:618
+msgid "Bordereau Tracking"
+msgstr "Bordereau De Suivi"
+
+#. Author of the plugin
+#: woocommerce-bordereau-generator.php
+msgid "Boukraa Mohamed"
+msgstr "Boukraa Mohamed"
+
+#: src/admin/js/pages/ShippingPriceManager.jsx:111
+msgid "Bulk Action"
+msgstr "Actions groupé"
+
+#: public/BordereauGeneratorPublic.php:110
+#: public/BordereauGeneratorPublic.php:649
+#: public/BordereauGeneratorPublic.php:834
+msgid "Bureau de livraison"
+msgstr "Bureau de livraison"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:207
+msgid "Cache has been cleared"
+msgstr "Cache a été effacé"
+
+#: admin/Partials/BordereauGeneratorProviders.php:1074
+msgid "Calcule avec commune suppliment"
+msgstr "Calculer avec commune supplément"
+
+#: admin/Partials/BordereauGeneratorProviders.php:1081
+msgid "Calcule sans commune suppliment"
+msgstr "Calculer sans commune supplément"
+
+#: public/BordereauGeneratorPublic.php:918
+#: public/BordereauGeneratorPublic.php:923
+msgid "Center field is required for local pickup."
+msgstr "Le champ bureau de livraison est requis pour la livraison au bureau."
+
+#: shipping_methods/WC3MExpressLocalPickup.php:81
+#: shipping_methods/YalidineLocalPickup.php:107
+#: shipping_methods/ZimoExpressLocalPickup.php:84
+msgid "Center ID"
+msgstr "Centre d'ID"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1298
+msgid "Centers"
+msgstr "Les centres de"
+
+#: admin/BordereauGeneratorAdmin.php:1711
+msgid "Change status to awaiting shipping"
+msgstr "Changement de statut en attente d'expédition"
+
+#: admin/BordereauGeneratorAdmin.php:1714
+msgid "Change status to dispatched"
+msgstr "Changer de statut à distribué"
+
+#: admin/BordereauGeneratorAdmin.php:1713
+msgid "Change status to payment awaiting"
+msgstr "Changer le statut de paiement en attente"
+
+#: admin/BordereauGeneratorAdmin.php:1712
+msgid "Change status to payment received"
+msgstr "Changer le statut de paiement reçu"
+
+#: admin/BordereauGeneratorAdmin.php:1717
+msgid "Change tracking status to attempt delivery"
+msgstr "Changement de l'état de suivi de tentative de livraison"
+
+#: admin/BordereauGeneratorAdmin.php:1719
+msgid "Change tracking status to delivered"
+msgstr "Changement de statut de suivi de livraison"
+
+#: admin/BordereauGeneratorAdmin.php:1715
+msgid "Change tracking status to dispatched"
+msgstr "Le suivi des modifications d'état à distribué"
+
+#: admin/BordereauGeneratorAdmin.php:1716
+msgid "Change tracking status to failed"
+msgstr "Le suivi des modifications d'état de l'échec de la"
+
+#: admin/BordereauGeneratorAdmin.php:1718
+msgid "Change tracking status to returned"
+msgstr "Changement de l'état de suivi du retour des"
+
+#: src/admin/js/pages/ShippingPriceManager.jsx:90
+msgid "Changes saved successfully!"
+msgstr ""
+"Modifications enregistrées avec succès !\n"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/OrderStatusTab.jsx:208
+msgid "characters max allowed"
+msgstr "Nombre maximum de caractères autorisés"
+
+#: admin/BordereauGeneratorAdmin.php:942
+msgid "Check for updates"
+msgstr "Vérifier les mises à jour"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1303
+msgid "Choisir un Center"
+msgstr "Choisir des nations unies Centre"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1281
+msgid "Choisir une commune"
+msgstr "Choisir une commune"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1448
+msgid "Choisis une option"
+msgstr "Choisis une option"
+
+#. translators: Translate it to the name of the City level territory division, e.g. "City, "Municipality", "District"
+#: admin/Partials/ShippingOrdersTable.php:49
+#: public/BordereauGeneratorPublic.php:945
+msgid "City"
+msgstr "Ville"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:557
+#: src/admin/js/components/SettingsTab.jsx:562
+msgid "Clear Cache"
+msgstr "Vider le cache"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:567
+#: src/admin/js/components/SettingsTab.jsx:571
+msgid "Clear Shipping Zones"
+msgstr "Claire Zones De Frais De Port"
+
+#: admin/Partials/BordereauGeneratorProviders.php:1134
+msgid "Client ID"
+msgstr "Client ID"
+
+#: admin/Partials/BordereauGeneratorProviders.php:1142
+msgid "Client Secret"
+msgstr "Client Secret"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BarcodeScanner.jsx:385
+#: src/admin/js/components/BordereauSelector.jsx:1496
+#: src/admin/js/components/CredentialsPopup.jsx:153
+#: src/admin/js/components/ImportPopup.jsx:202
+#: src/admin/js/components/OrderStatusTab.jsx:412
+#: src/admin/js/components/TrackingModal.jsx:170
+#: src/admin/js/components/WebhookPopup.jsx:136
+msgid "Close"
+msgstr "Fermer"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/WebhookPopup.jsx:124
+msgid "Clé secrète"
+msgstr "Clé secrète"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1436
+msgid "Code Suivi"
+msgstr "Code De Suivi"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:742
+msgid "Colis dépasse les 5 KG?"
+msgstr "Colis dépasse les 5 KG?"
+
+#: admin/Partials/BordereauGeneratorProviders.php:117
+#: admin/Partials/BordereauGeneratorProviders.php:165
+#: admin/Partials/BordereauGeneratorProviders.php:213
+#: admin/Partials/BordereauGeneratorProviders.php:265
+#: admin/Partials/BordereauGeneratorProviders.php:312
+#: admin/Partials/BordereauGeneratorProviders.php:362
+#: admin/Partials/BordereauGeneratorProviders.php:461
+#: admin/Partials/BordereauGeneratorProviders.php:588
+#: admin/Partials/BordereauGeneratorProviders.php:968
+#: admin/Partials/BordereauGeneratorProviders.php:1173
+#: admin/Partials/BordereauGeneratorProviders.php:1214
+#: admin/Partials/BordereauGeneratorProviders.php:1278
+#: admin/Partials/BordereauGeneratorProviders.php:1325
+#: admin/Partials/BordereauGeneratorProviders.php:1413
+msgid "Comment calculer le cout total ?"
+msgstr "Comment calculer le cout total ?"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1276
+msgid "Commune"
+msgstr "Commune"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/ConditionShippingStatus.jsx:322
+#: src/admin/js/pages/Settings.jsx:58
+msgid "Conditions"
+msgstr "Conditions"
+
+#: shipping_methods/ConexlogFlatRate.php:12
+msgid "Conexlog Flat Rate"
+msgstr ""
+
+#: shipping_methods/ConexlogFlatRate.php:13
+msgid "Conexlog Flat Rate Shipping method"
+msgstr ""
+
+#: shipping_methods/ConexlogLocalPickup.php:15
+msgid "Conexlog Local Pickup"
+msgstr ""
+
+#: shipping_methods/ConexlogLocalPickup.php:16
+msgid "Conexlog Local Pickup Shipping method"
+msgstr ""
+
+#: admin/BordereauGeneratorAdmin.php:924
+msgid "Configure"
+msgstr "Configurer"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1230
+msgid "Copy billing address"
+msgstr "Copier l'adresse de facturation"
+
+#: shipping_methods/ConexlogFlatRate.php:51
+#: shipping_methods/ConexlogLocalPickup.php:54
+#: shipping_methods/DefaultLocalPickup.php:65
+#: shipping_methods/EcotrackFlatRate.php:53
+#: shipping_methods/EcotrackLocalPickup.php:64
+#: shipping_methods/ElogistiaFlatRate.php:51
+#: shipping_methods/ElogistiaLocalPickup.php:54
+#: shipping_methods/MaystroDeliveryFlatRate.php:52
+#: shipping_methods/MaystroDeliveryLocalPickup.php:54
+#: shipping_methods/MylerzExpressFlatRate.php:52
+#: shipping_methods/MylerzExpressLocalPickup.php:54
+#: shipping_methods/NordOuestFlatRate.php:53
+#: shipping_methods/NordOuestLocalPickup.php:55
+#: shipping_methods/TonColisFlatRate.php:53
+#: shipping_methods/TonColisLocalPickup.php:53
+#: shipping_methods/WC3MExpressFlatRate.php:54
+#: shipping_methods/WC3MExpressLocalPickup.php:59
+#: shipping_methods/YalidineFlatRate.php:59
+#: shipping_methods/YalidineLocalPickup.php:71
+#: shipping_methods/ZimoExpressFlatRate.php:59
+#: shipping_methods/ZimoExpressLocalPickup.php:62
+#: shipping_methods/ZRExpressFlatRate.php:53
+#: shipping_methods/ZRExpressLocalPickup.php:53
+msgid "Cost"
+msgstr "Coût"
+
+#: shipping_methods/ConexlogFlatRate.php:54
+#: shipping_methods/EcotrackFlatRate.php:56
+#: shipping_methods/ElogistiaFlatRate.php:54
+#: shipping_methods/MaystroDeliveryFlatRate.php:55
+#: shipping_methods/MylerzExpressFlatRate.php:55
+#: shipping_methods/NordOuestFlatRate.php:56
+#: shipping_methods/TonColisFlatRate.php:56
+#: shipping_methods/WC3MExpressFlatRate.php:57
+#: shipping_methods/YalidineFlatRate.php:62
+#: shipping_methods/ZimoExpressFlatRate.php:62
+#: shipping_methods/ZRExpressFlatRate.php:56
+msgid "Cost for flat rate."
+msgstr "Le coût de livraison a domicile."
+
+#: shipping_methods/ConexlogLocalPickup.php:57
+#: shipping_methods/DefaultLocalPickup.php:68
+#: shipping_methods/EcotrackLocalPickup.php:67
+#: shipping_methods/ElogistiaLocalPickup.php:57
+#: shipping_methods/MaystroDeliveryLocalPickup.php:57
+#: shipping_methods/MylerzExpressLocalPickup.php:57
+#: shipping_methods/NordOuestLocalPickup.php:58
+#: shipping_methods/TonColisLocalPickup.php:56
+#: shipping_methods/WC3MExpressLocalPickup.php:62
+#: shipping_methods/YalidineLocalPickup.php:74
+#: shipping_methods/ZimoExpressLocalPickup.php:65
+#: shipping_methods/ZRExpressLocalPickup.php:56
+msgid "Cost for local Pickup."
+msgstr "Coût pour la livraison au bureau."
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/OrderStatusTab.jsx:370
+msgid "Customize the order status as your need"
+msgstr "Personnaliser le statut de la commande en fonction de vos besoins"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:249
+msgid "Customize the plugin to your need"
+msgstr "Personnalisez le plugin selon vos besoins"
+
+#: admin/BordereauGeneratorAdmin.php:2530
+#: admin/Partials/views/table_list_orders_header.php:10
+msgid "Date Range"
+msgstr "La Plage De Dates"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:521
+msgid "Default Note"
+msgstr "Note Par Défaut"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:527
+msgid "Default note for all the orders"
+msgstr "Note par défaut pour toutes les commandes"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:256
+msgid "Default Order Status"
+msgstr "Statut De Commande Par Défaut"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:264
+msgid "Default status for the commands you receive"
+msgstr "État par défaut des commandes que vous recevez"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1493
+msgid "Delete"
+msgstr "Supprimer"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1473
+msgid "Delete Tracking Number"
+msgstr "Supprimer Un Numéro De Suivi"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:384
+msgid "Disable Custom Cities"
+msgstr "Désactiver Personnalisé Villes"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:406
+msgid "Disable custom naming the cities"
+msgstr "Désactiver la dénomination personnalisée des villes"
+
+#: src/admin/js/components/BarcodeScanner.jsx:117
+msgid "Duplicate barcode!"
+msgstr "Code-barres dupliqué !"
+
+#: admin/BordereauGeneratorAdmin.php:661
+msgid "Easy and speed Orders"
+msgstr "Commandes Easy and speed"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:859
+#: src/admin/js/components/BordereauSelector.jsx:880
+msgid "Echange"
+msgstr "Echange"
+
+#: admin/BordereauGeneratorAdmin.php:466
+msgid "Echèc livraison"
+msgstr "Echèc livraison"
+
+#: shipping_methods/EcotrackFlatRate.php:12
+msgid "Ecotrack Flat Rate"
+msgstr "Ecotrack livraison a domicile"
+
+#: shipping_methods/EcotrackLocalPickup.php:19
+msgid "Ecotrack Local Pickup"
+msgstr "Ecotrack livraison au bureau"
+
+#: shipping_methods/ElogistiaFlatRate.php:12
+msgid "Elogistia Flat Rate"
+msgstr "Elogistia livraison a domicile"
+
+#: shipping_methods/ElogistiaFlatRate.php:13
+msgid "Elogistia Flat Rate Shipping method"
+msgstr "Elogistia méthode d'Expédition livraison a domicile"
+
+#: shipping_methods/ConexlogLocalPickup.php:50
+#: shipping_methods/ElogistiaLocalPickup.php:15
+#: shipping_methods/ElogistiaLocalPickup.php:50
+msgid "Elogistia Local Pickup"
+msgstr "Elogistia livraison au bureau"
+
+#: shipping_methods/ElogistiaLocalPickup.php:16
+msgid "Elogistia Local Pickup Shipping method"
+msgstr "Elogistia méthode d'expédition livraison au bureau"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:268
+msgid "Enable Auto update"
+msgstr "Activer la fonction d'Auto mise à jour"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:436
+msgid "Enable Auto update Orders"
+msgstr "Activer la mise à jour Automatique des Commandes"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:464
+msgid "Enable Automatically insert Order"
+msgstr "Permettre d'insérer Automatiquement Afin"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:358
+msgid "Enable Custom actions"
+msgstr "Activer les actions Personnalisées"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:294
+msgid "Enable custom status"
+msgstr "Activer le statut personnalisé"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:316
+msgid "Enable custom status for your orders like \"attempt delivery\""
+msgstr ""
+"Activez un statut personnalisé pour vos commandes, comme \"tentative de "
+"livraison\"\n"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:531
+msgid "Enable Debug"
+msgstr "Activer Le Débogage"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:553
+msgid "Enable debug for better logging"
+msgstr "Activer le débogage pour une meilleure journalisation"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/ImportPopup.jsx:169
+msgid "Enable Economic Import Shipping Rates"
+msgstr ""
+"Activer les tarifs d'importation économiques\n"
+"\n"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/ImportPopup.jsx:109
+msgid "Enable Flat Rate Import Shipping Rates"
+msgstr "Importater les tarifs d'expédition pour livraison a domicile"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:320
+msgid "Enable green list (user rating)"
+msgstr "Activer la liste verte (évaluation des utilisateurs)"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:342
+msgid ""
+"Enable green list to check user rating to avoid spammers this will make the "
+"order page slower"
+msgstr ""
+"Activez la liste verte pour vérifier l'évaluation des utilisateurs afin "
+"d'éviter les spammeurs, cela rendra la page de commande plus lente.\n"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/ImportPopup.jsx:147
+msgid "Enable local pickup agencies import"
+msgstr "Permettre d'importation des bureaux de livraison "
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/ImportPopup.jsx:127
+msgid "Enable Local Pickup Import Shipping Rates"
+msgstr "Activer l'Importation des farifs d'expédition livraison au bureau"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1390
+msgid "Envoi économique ?"
+msgstr "Envoi économique ?"
+
+#: src/admin/js/pages/ShippingPriceManager.jsx:33
+msgid "Error fetching zones"
+msgstr ""
+"Erreur lors de la récupération des zones\n"
+
+#: src/admin/js/pages/ShippingPriceManager.jsx:37
+msgid "Error fetching zones. Please try again."
+msgstr ""
+"Erreur lors de la récupération des zones. Veuillez réessayer.\n"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauProvidersList.jsx:79
+#: src/admin/js/components/BordereauProvidersList.jsx:238
+#: src/admin/js/components/BordereauProvidersList.jsx:270
+#: src/admin/js/components/BordereauProvidersList.jsx:300
+#: src/admin/js/components/CredentialsPopup.jsx:119
+#: src/admin/js/components/ImportPopup.jsx:72
+#: src/admin/js/components/OrderStatusTab.jsx:40
+#: src/admin/js/components/SettingsTab.jsx:103
+#: src/admin/js/components/SettingsTab.jsx:156
+#: src/admin/js/components/SettingsTab.jsx:210
+#: src/admin/js/components/SettingsTab.jsx:235
+#: src/admin/js/components/ShippingZonesTab.jsx:49
+#: src/admin/js/components/WebhookPopup.jsx:99
+msgid "Error occurred contact the developer"
+msgstr "Erreur s'est produite contacter le développeur"
+
+#: src/admin/js/pages/ShippingPriceManager.jsx:96
+msgid "Error saving changes. Please try again."
+msgstr ""
+"Erreur lors de l'enregistrement des modifications. Veuillez réessayer.\n"
+
+#: src/admin/js/pages/ShippingPriceManager.jsx:92
+msgid "Error updating prices"
+msgstr ""
+"Erreur lors de la mise à jour des prix\n"
+
+#: src/admin/js/components/ShippingZonesTab.jsx:108
+msgid "Export Shipping zones"
+msgstr ""
+"Exporter les zones de livraison\n"
+
+#: src/admin/js/components/ShippingZonesTab.jsx:103
+msgid "Export shipping zones"
+msgstr ""
+"Exporter les zones de livraison\n"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1431
+msgid "Expédition sélectionnée"
+msgstr "Expédition sélectionnée"
+
+#: admin/BordereauGeneratorAdmin.php:940
+msgid "FAQ"
+msgstr "FAQ"
+
+#: admin/Partials/views/table_list_orders_header.php:12
+msgid "Filter by status"
+msgstr "Filtrer par statut"
+
+#: shipping_methods/DefaultFlatRate.php:23
+#: shipping_methods/EcotrackFlatRate.php:49
+#: shipping_methods/NordOuestFlatRate.php:49
+msgid "Flat Rate"
+msgstr "Livraison a domicile"
+
+#: admin/Shipping/ColivraisonExpressSettings.php:290
+#: admin/Shipping/EMSExpressSettings.php:293
+#: admin/Shipping/MaystroShippingSettings.php:721
+#: admin/Shipping/MylerzExpressSettings.php:284
+#: admin/Shipping/PicoSolutionSettings.php:284
+#: admin/Shipping/ThreeMExpressSettings.php:290
+#: admin/Shipping/YalidineShippingSettings.php:238
+#: admin/Shipping/ZimoExpressSettings.php:232
+msgid "Flat rate"
+msgstr "Livraison a domicile"
+
+#: shipping_methods/EcotrackFlatRate.php:13
+msgid "Flat Rate for Ecotrack Shipping method"
+msgstr "Méthode d’expédition Ecotrack livraison a domicile"
+
+#: shipping_methods/NordOuestFlatRate.php:13
+msgid "Flat Rate for Nord et Ouest Express Shipping method"
+msgstr "Tarif d’expédition express Nord et Ouest pour livraison a domicile"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/ImportPopup.jsx:176
+msgid "Flat Rate Label"
+msgstr "Livraison a domicile étiquette"
+
+#: shipping_methods/DefaultFlatRate.php:24
+msgid "Flat Rate Shipping method"
+msgstr "Méthode d’expédition livraison a domicile"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1423
+msgid "Fragile Parcel"
+msgstr "Fragile Colis"
+
+#: admin/Partials/wc-bordereau-generator-settings-provider.php:11
+#: admin/Partials/wc-bordereau-generator-settings-provider.php:16
+#: admin/Partials/wc-bordereau-generator-settings-provider.php:21
+msgid "General Configuration"
+msgstr "Configuration Générale"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/pages/Settings.jsx:46
+msgid "General Settings"
+msgstr "Paramètres Généraux"
+
+#. Description of the plugin
+#: woocommerce-bordereau-generator.php
+msgid "Generate slip automatically using Yalidine and EcoTrack API."
+msgstr "Générer slip automatiquement à l'aide de Yalidine et EcoTrack API."
+
+#: shipping_methods/WC3MExpressLocalPickup.php:67
+msgid "Google Maps Link"
+msgstr "Lien Google Maps"
+
+#: shipping_methods/EcotrackLocalPickup.php:80
+#: shipping_methods/YalidineLocalPickup.php:79
+#: shipping_methods/ZimoExpressLocalPickup.php:70
+msgid "GPS"
+msgstr "GPS"
+
+#: admin/BordereauGeneratorAdmin.php:338
+msgid "Green List"
+msgstr "La Liste Verte"
+
+#: admin/BordereauGeneratorAdmin.php:646
+msgid "Guepex Orders"
+msgstr "Commandes Guepex"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:755
+msgid "Hauteur"
+msgstr "Hauteur"
+
+#: src/admin/js/pages/homepage.jsx:67
+msgid "Homepage"
+msgstr "Page d'accueil"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: woocommerce-bordereau-generator.php
+msgid "https://amineware.me"
+msgstr ""
+
+#: src/admin/js/components/Checking.jsx:65
+msgid "If you didn't buy the extension please head to amineware.me to buy it"
+msgstr ""
+"Si vous n'avez pas acheté l'extension, veuillez vous rendre sur amineware.me "
+"pour l'acheter"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauProvidersList.jsx:349
+#: src/admin/js/pages/Settings.jsx:26
+msgid "If you have't found your provider in the list please contact us at"
+msgstr ""
+"Si vous avez pas trouvé votre fournisseur dans la liste, veuillez nous "
+"contacter à"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:899
+msgid ""
+"Il est préférable de désactiver l'assurance si la valeur de votre colis est "
+"inférieure à 5000 DA."
+msgstr ""
+"Il est préférable de désactiver l'assurance si la valeur de votre colis est "
+"inférieure à 5000 DA."
+
+#: src/admin/js/components/CompanyCard.jsx:95
+#: src/admin/js/components/CompanyCard.jsx:96
+msgid "Import"
+msgstr "L'importation"
+
+#: src/admin/js/components/ShippingZonesTab.jsx:113
+msgid "Import shipping zones"
+msgstr ""
+"Importer des zones de livraison\n"
+
+#: src/admin/js/components/CompanyCard.jsx:86
+msgid "Importing"
+msgstr "L'importation de"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/ImportPopup.jsx:67
+msgid "Importing shipping class has been finished"
+msgstr "L'importation d'expédition classe a été terminé"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/ImportPopup.jsx:197
+msgid "Importing..."
+msgstr "De l'importation..."
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1512
+#: src/admin/js/components/TrackingModal.jsx:177
+msgid "Imprimer le bordereau"
+msgstr "Imprimer le bordereau"
+
+#: shipping_methods/YalidineFlatRate.php:79
+#: shipping_methods/YalidineLocalPickup.php:125
+msgid "Is Economic Shipping company?."
+msgstr ""
+"Est-ce une société de livraison économique ?\n"
+
+#: shipping_methods/YalidineFlatRate.php:76
+#: shipping_methods/YalidineLocalPickup.php:122
+msgid "Is Economic?"
+msgstr ""
+"Est-ce économique ?\n"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:751
+msgid "Largeur"
+msgstr "Largeur"
+
+#: admin/Partials/ShippingOrdersTable.php:51
+msgid "Latest Update"
+msgstr "Dernière Mise À Jour"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/LicenseTab.jsx:97 src/admin/js/pages/Settings.jsx:94
+msgid "License"
+msgstr "Licence"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/LicenseTab.jsx:103
+msgid "License key"
+msgstr "Clé de licence"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:855
+#: src/admin/js/components/BordereauSelector.jsx:876
+msgid "Livraison"
+msgstr "Livraison"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1257
+msgid "Livraison en point relais"
+msgstr "Livraison en point relais"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1374
+msgid "Livraison gratuite?"
+msgstr "Livraison gratuite?"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1253
+msgid "Livraison à domicile"
+msgstr "Livraison à domicile"
+
+#: admin/BordereauGeneratorAdmin.php:463
+msgid "Livré"
+msgstr "Livré"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1459
+msgid "Loading"
+msgstr "Chargement"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:604
+msgid "Loading..."
+msgstr "Chargement..."
+
+#: admin/Shipping/ColivraisonExpressSettings.php:315
+#: admin/Shipping/EMSExpressSettings.php:318
+#: admin/Shipping/MaystroShippingSettings.php:746
+#: admin/Shipping/MylerzExpressSettings.php:309
+#: admin/Shipping/PicoSolutionSettings.php:303
+#: admin/Shipping/ThreeMExpressSettings.php:315
+#: admin/Shipping/YalidineShippingSettings.php:309
+#: admin/Shipping/ZimoExpressSettings.php:257
+#: shipping_methods/DefaultLocalPickup.php:24
+#: shipping_methods/DefaultLocalPickup.php:61
+#: shipping_methods/EcotrackLocalPickup.php:60
+#: shipping_methods/NordOuestLocalPickup.php:51
+msgid "Local Pickup"
+msgstr "Livraison au bureau"
+
+#: shipping_methods/EcotrackLocalPickup.php:20
+msgid "Local Pickup for Ecotrack Shipping method"
+msgstr "Ecotrack méthode d’expédition livraison au bureau"
+
+#: shipping_methods/NordOuestLocalPickup.php:15
+msgid "Local Pickup for Nord et Ouest Express Shipping method"
+msgstr "Nord et Ouest Express méthode d’expédition livraison au bureau"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/ImportPopup.jsx:183
+msgid "Local Pickup Label"
+msgstr "Étiquette livraison au bureau"
+
+#: shipping_methods/DefaultLocalPickup.php:25
+msgid "Local Pickup Shipping method"
+msgstr "Méthode d’expédition livraison au bureau"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:747
+msgid "Longueur"
+msgstr "Longueur"
+
+#: src/admin/js/components/ShippingZonesTab.jsx:97
+msgid "Manager your shipping zones import and export them easily"
+msgstr ""
+"Gérez vos zones de livraison, importez-les et exportez-les facilement\n"
+
+#: shipping_methods/EcotrackLocalPickup.php:94
+#: shipping_methods/YalidineLocalPickup.php:93
+msgid "Maps"
+msgstr "Cartes"
+
+#: shipping_methods/EcotrackLocalPickup.php:120
+#| msgid "Marsa"
+msgid "Maps:"
+msgstr "Cartes"
+
+#: admin/Partials/BordereauGeneratorProviders.php:567
+msgid "Maystro Delivery"
+msgstr "Maystro De Livraison"
+
+#: shipping_methods/MaystroDeliveryFlatRate.php:12
+#: shipping_methods/MaystroDeliveryFlatRate.php:48
+#: shipping_methods/MylerzExpressFlatRate.php:48
+msgid "Maystro Delivery Flat Rate"
+msgstr "Maystro Delivery livraison a domicile"
+
+#: shipping_methods/MaystroDeliveryFlatRate.php:13
+msgid "Maystro Delivery Flat Rate Shipping method"
+msgstr "Maystro Delivery méthode d'expédition livraison a domicile"
+
+#: shipping_methods/MaystroDeliveryLocalPickup.php:15
+#: shipping_methods/MaystroDeliveryLocalPickup.php:50
+#: shipping_methods/MylerzExpressLocalPickup.php:50
+msgid "Maystro Delivery Local Pickup"
+msgstr "Maystro Delivery livraison au bureau"
+
+#: shipping_methods/MaystroDeliveryLocalPickup.php:16
+msgid "Maystro Delivery Local Pickup Shipping method"
+msgstr "Maystro Delivery méthode d'expédition livraison au bureau"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1460
+msgid "Modifier"
+msgstr "Modificateur"
+
+#: shipping_methods/MylerzExpressLocalPickup.php:15
+msgid "Mylerz Express  Local Pickup"
+msgstr ""
+
+#: shipping_methods/MylerzExpressFlatRate.php:12
+msgid "Mylerz Express Flat Rate"
+msgstr ""
+
+#: shipping_methods/MylerzExpressFlatRate.php:13
+msgid "Mylerz Express Flat Rate Shipping method"
+msgstr ""
+
+#: shipping_methods/MylerzExpressLocalPickup.php:16
+msgid "Mylerz Express Local Pickup Shipping method"
+msgstr ""
+
+#: admin/BordereauGeneratorAdmin.php:1213
+#: admin/Partials/ShippingOrdersTable.php:47
+msgid "Name"
+msgstr "Nom"
+
+#: shipping_methods/DefaultLocalPickup.php:76
+#: shipping_methods/EcotrackFlatRate.php:65
+#: shipping_methods/EcotrackLocalPickup.php:75
+msgid "Name of Shipping company."
+msgstr "Nom de la société d'Expédition."
+
+#: shipping_methods/DefaultFlatRate.php:98
+#: shipping_methods/DefaultLocalPickup.php:87
+msgid "No"
+msgstr "Non"
+
+#: src/admin/js/components/BarcodeScanner.jsx:363
+msgid "No barcode has been added to this list, scan or type to add"
+msgstr ""
+"Pas de code-barres a été ajoutée à cette liste, de numérisation ou de type à "
+"ajouter"
+
+#: admin/Partials/ShippingOrdersTable.php:58
+msgid "No orders available."
+msgstr "Pas de commandes disponibles."
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/TrackingModal.jsx:127
+msgid "No tracking informations has been found"
+msgstr ""
+"Aucune information de suivi n'a été trouvée\n"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1234
+msgid "Nom"
+msgstr "Nom"
+
+#: admin/Partials/BordereauGeneratorProviders.php:395
+#: admin/Partials/BordereauGeneratorProviders.php:415
+#: admin/Partials/BordereauGeneratorProviders.php:494
+#: admin/Partials/BordereauGeneratorProviders.php:514
+#: admin/Partials/BordereauGeneratorProviders.php:534
+#: admin/Partials/BordereauGeneratorProviders.php:554
+#: admin/Partials/BordereauGeneratorProviders.php:621
+#: admin/Partials/BordereauGeneratorProviders.php:641
+#: admin/Partials/BordereauGeneratorProviders.php:1001
+#: admin/Partials/BordereauGeneratorProviders.php:1021
+#: admin/Partials/BordereauGeneratorProviders.php:1041
+#: admin/Partials/BordereauGeneratorProviders.php:1061
+#: admin/Partials/BordereauGeneratorProviders.php:1106
+#: admin/Partials/BordereauGeneratorProviders.php:1446
+msgid "Non"
+msgstr "Non"
+
+#: shipping_methods/NordOuestFlatRate.php:12
+msgid "Nord et Ouest Express Flat Rate"
+msgstr "Nord et Ouest Express livraison a domicile"
+
+#: shipping_methods/NordOuestLocalPickup.php:14
+msgid "Nord et Ouest Express Local Pickup"
+msgstr "Nord et Ouest Express livraison au bureau"
+
+#: admin/BordereauGeneratorAdmin.php:1217
+msgid "Note"
+msgstr "Remarque"
+
+#: admin/BordereauGeneratorAdmin.php:1211
+msgid "Number"
+msgstr "Nombre"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1328
+msgid "Numéro de commande"
+msgstr "Numéro de commande"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1402
+msgid "Open parcel"
+msgstr "Colis ouvert"
+
+#: src/admin/js/components/CompanyCard.jsx:103
+#: src/admin/js/components/CompanyCard.jsx:104
+msgid "Option"
+msgstr "Option"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/WebhookPopup.jsx:124
+msgid "Optional"
+msgstr "En option"
+
+#: src/admin/js/components/BarcodeScanner.jsx:333
+msgid "Order"
+msgstr "Afin"
+
+#: admin/BordereauGeneratorAdmin.php:334
+msgid "Order Notes"
+msgstr ""
+"Notes de commande\n"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/pages/Settings.jsx:71
+msgid "Order Status"
+msgstr "Statut De La Commande"
+
+#: woocommerce-bordereau-generator.php:418
+msgctxt "Order status"
+msgid "Awaiting shipping"
+msgstr "En attente d’expédition"
+
+#: woocommerce-bordereau-generator.php:417
+msgctxt "Order status"
+msgid "Dispatched"
+msgstr "Expédié"
+
+#: admin/BordereauGeneratorAdmin.php:3814
+msgid "Order status already exist cannot create the same twice"
+msgstr ""
+"Le statut de la commande existe déjà ne peut pas créer la même chose deux "
+"fois"
+
+#: admin/BordereauGeneratorAdmin.php:3821
+msgid "Order status created successfully"
+msgstr "Statut de la commande créée avec succès"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/OrderStatusTab.jsx:369
+msgid "Order Status Manager"
+msgstr "Statut De La Commande Gestionnaire De"
+
+#: admin/views/partials-wp-list-table-display.php:3
+msgid "Orders List"
+msgstr "Les Commandes De La Liste"
+
+#: admin/BordereauGeneratorAdmin.php:814 admin/BordereauGeneratorAdmin.php:835
+msgid "Orders Per Page"
+msgstr "Les Commandes Par Page"
+
+#: admin/Partials/BordereauGeneratorProviders.php:388
+#: admin/Partials/BordereauGeneratorProviders.php:408
+#: admin/Partials/BordereauGeneratorProviders.php:487
+#: admin/Partials/BordereauGeneratorProviders.php:507
+#: admin/Partials/BordereauGeneratorProviders.php:528
+#: admin/Partials/BordereauGeneratorProviders.php:547
+#: admin/Partials/BordereauGeneratorProviders.php:615
+#: admin/Partials/BordereauGeneratorProviders.php:635
+#: admin/Partials/BordereauGeneratorProviders.php:994
+#: admin/Partials/BordereauGeneratorProviders.php:1014
+#: admin/Partials/BordereauGeneratorProviders.php:1034
+#: admin/Partials/BordereauGeneratorProviders.php:1054
+#: admin/Partials/BordereauGeneratorProviders.php:1099
+#: admin/Partials/BordereauGeneratorProviders.php:1440
+msgid "Oui"
+msgstr "Oui"
+
+#: admin/BordereauGeneratorAdmin.php:522
+msgid "Paiement effectué"
+msgstr "Paiement effectué"
+
+#: admin/BordereauGeneratorAdmin.php:525
+msgid "Paiement en attente"
+msgstr "Paiement en attente"
+
+#: admin/BordereauGeneratorAdmin.php:519
+msgid "Paiement prêt"
+msgstr "Paiement de prêt"
+
+#: admin/BordereauGeneratorAdmin.php:516
+msgid "Pas prêt"
+msgstr "Pas prêt"
+
+#: admin/Partials/BordereauGeneratorProviders.php:109
+#: admin/Partials/BordereauGeneratorProviders.php:157
+#: admin/Partials/BordereauGeneratorProviders.php:205
+#: admin/Partials/BordereauGeneratorProviders.php:353
+#: admin/Partials/BordereauGeneratorProviders.php:453
+#: admin/Partials/BordereauGeneratorProviders.php:1317
+msgid "Password"
+msgstr "Mot de passe"
+
+#: admin/BordereauGeneratorAdmin.php:336
+msgid "Payment"
+msgstr "Paiement"
+
+#: admin/BordereauGeneratorAdmin.php:2551
+msgid "Payment awaiting"
+msgstr "Paiement en attente"
+
+#: admin/BordereauGeneratorAdmin.php:2555
+msgid "Payment not ready"
+msgstr "Le paiement n'est pas prêt"
+
+#: admin/BordereauGeneratorAdmin.php:2561
+msgid "Payment payed"
+msgstr "Paiement payé"
+
+#: admin/BordereauGeneratorAdmin.php:2557
+msgid "Payment ready"
+msgstr "De paiement de prêt"
+
+#: admin/BordereauGeneratorAdmin.php:2559
+msgid "Payment receivable"
+msgstr "Paiement à recevoir"
+
+#: admin/BordereauGeneratorAdmin.php:2553
+msgid "Payment received"
+msgstr "Paiement reçu"
+
+#: admin/BordereauGeneratorAdmin.php:2549
+msgid "Payment Status"
+msgstr "L'État De Paiement"
+
+#: admin/BordereauGeneratorAdmin.php:513
+msgid "Payé"
+msgstr "Payé"
+
+#: admin/Partials/ShippingOrdersTable.php:48
+#: shipping_methods/EcotrackLocalPickup.php:101
+msgid "Phone"
+msgstr "Téléphone"
+
+#: shipping_methods/EcotrackLocalPickup.php:119
+msgid "Phone:"
+msgstr "Téléphone"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:863
+msgid "Pickup"
+msgstr "Ramassage"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/ConditionShippingStatus.jsx:86
+msgid ""
+"Please confirm if you wish to reset your shipping conditions. Be aware that "
+"this action is irreversible."
+msgstr ""
+"Merci de confirmer si vous souhaitez réinitialiser vos conditions de "
+"livraison. Sachez que cette action est irréversible."
+
+#: src/admin/js/components/Checking.jsx:64
+msgid ""
+"Please insert the license you receive in your email to enable the extension"
+msgstr ""
+"Veuillez insérer la licence que vous avez reçue par email pour activer "
+"l'extension\n"
+
+#: public/BordereauGeneratorPublic.php:655
+#: public/BordereauGeneratorPublic.php:840
+msgid "Please select a center"
+msgstr "Veuillez sélectionner un centre de"
+
+#: public/BordereauGeneratorPublic.php:614
+#: public/BordereauGeneratorPublic.php:622
+#: public/BordereauGeneratorPublic.php:633
+#: public/BordereauGeneratorPublic.php:644
+#: public/BordereauGeneratorPublic.php:817
+#: public/BordereauGeneratorPublic.php:828
+msgid "Please select a city"
+msgstr "Veuillez choisir une ville"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:759
+msgid "Poids"
+msgstr "Poids"
+
+#: src/admin/js/components/BarcodeScanner.jsx:289
+msgid "Press \"Enter\" after scanning or typing to add the barcode"
+msgstr ""
+"Appuyez sur \"Entrée\" après la numérisation ou la saisie d'ajouter le code "
+"à barres"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/OrderStatusTab.jsx:265
+#: src/admin/js/components/OrderStatusTab.jsx:352
+msgid "Preview"
+msgstr "Aperçu"
+
+#: src/admin/js/components/BarcodeScanner.jsx:381
+msgid "Print"
+msgstr "Imprimer"
+
+#: admin/Partials/ShippingOrdersTable.php:251
+msgid "Print Labels"
+msgstr "Imprimer Des Étiquettes"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1335
+msgid "Prix du colis"
+msgstr "Prix du colis"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:510
+msgid "Product String Format"
+msgstr "Produit Format De Chaîne De Caractères"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:517
+msgid ""
+"Product string format to show in the bordereau {title} {attributes} {sku} "
+"{qty} {id}"
+msgstr ""
+"Format de chaîne de produit à afficher dans le bordereau {title} {attributes}"
+" {sku} {qty} {id}"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1360
+msgid "Produit à récuperer"
+msgstr "Produit à récuperer"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1313
+msgid "Produit(s)"
+msgstr "Produit(s)"
+
+#: src/admin/js/components/BordereauProvidersList.jsx:183
+msgid "Providers"
+msgstr "Les fournisseurs de"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1238
+msgid "Prénom"
+msgstr "Prénom"
+
+#: src/admin/js/components/BordereauProvidersList.jsx:353
+msgid "Quick search..."
+msgstr "Recherche rapide..."
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:867
+msgid "Recouvrement"
+msgstr "Recouvrement de l'"
+
+#: admin/Partials/ShippingOrdersTable.php:250
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauTracking.jsx:109
+msgid "Refresh"
+msgstr "Actualiser"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1351
+msgid "Remarque"
+msgstr "Remarque"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/ConditionShippingStatus.jsx:328
+msgid "Reset Shipping condition"
+msgstr "Réinitialisation de Livraison condition"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/OrderStatusTab.jsx:376
+msgid "Reset status"
+msgstr "Réinitialiser les états de la commande"
+
+#: admin/Partials/BordereauGeneratorProviders.php:130
+#: admin/Partials/BordereauGeneratorProviders.php:178
+#: admin/Partials/BordereauGeneratorProviders.php:226
+#: admin/Partials/BordereauGeneratorProviders.php:278
+#: admin/Partials/BordereauGeneratorProviders.php:325
+#: admin/Partials/BordereauGeneratorProviders.php:375
+#: admin/Partials/BordereauGeneratorProviders.php:474
+#: admin/Partials/BordereauGeneratorProviders.php:601
+#: admin/Partials/BordereauGeneratorProviders.php:981
+#: admin/Partials/BordereauGeneratorProviders.php:1186
+#: admin/Partials/BordereauGeneratorProviders.php:1227
+#: admin/Partials/BordereauGeneratorProviders.php:1291
+#: admin/Partials/BordereauGeneratorProviders.php:1338
+#: admin/Partials/BordereauGeneratorProviders.php:1426
+msgid "Sans Livraison"
+msgstr "Sans Livraison"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/Checking.jsx:74
+#: src/admin/js/components/CredentialsPopup.jsx:150
+#: src/admin/js/components/ImportPopup.jsx:197
+#: src/admin/js/components/LicenseTab.jsx:113
+#: src/admin/js/components/OrderStatusTab.jsx:406
+#: src/admin/js/components/SettingsTab.jsx:604
+#: src/admin/js/components/WebhookPopup.jsx:144
+msgid "Save"
+msgstr "Enregistrer"
+
+#: src/admin/js/pages/ShippingPriceManager.jsx:139
+#: src/admin/js/pages/ShippingPriceManager.jsx:164
+msgid "Save Changes"
+msgstr ""
+"Enregistrer les modifications\n"
+
+#: src/admin/js/components/BarcodeScanner.jsx:324
+msgid "Search By ID"
+msgstr "Recherche Par ID"
+
+#: src/admin/js/components/BarcodeScanner.jsx:306
+msgid "Search By SKU"
+msgstr "Recherche Par référence SKU"
+
+#: admin/Partials/views/table_list_orders_header.php:4
+msgid "Search by tracking"
+msgstr "Recherche par le suivi de"
+
+#: public/BordereauGeneratorPublic.php:628
+#: public/BordereauGeneratorPublic.php:639
+msgid "Select a City"
+msgstr "Sélectionner une commune"
+
+#: public/BordereauGeneratorPublic.php:460
+msgid "Select a state"
+msgstr "Sélectionner une wilaya"
+
+#: public/BordereauGeneratorPublic.php:379
+#: public/BordereauGeneratorPublic.php:512
+msgid "Select agency"
+msgstr "Sélectionner un bureau de livraison"
+
+#: public/BordereauGeneratorPublic.php:225
+#: public/BordereauGeneratorPublic.php:312
+#: public/BordereauGeneratorPublic.php:351
+#: public/BordereauGeneratorPublic.php:486
+#: public/BordereauGeneratorPublic.php:532
+#: public/BordereauGeneratorPublic.php:548
+msgid "Select City"
+msgstr "Sélectionner une commune"
+
+#: public/BordereauGeneratorPublic.php:452
+msgid "Select state"
+msgstr "Sélectionner une wilaya"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:494
+#: src/admin/js/components/SettingsTab.jsx:500
+msgid "Select Status"
+msgstr "Sélectionnez Le Statut De"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:504
+msgid ""
+"Select the status you want to use so when the order change to that status it "
+"will be added to the shipping company"
+msgstr ""
+"Sélectionnez le statut que vous souhaitez utiliser, de sorte que lorsque la "
+"commande passera à ce statut, il sera ajouté à la société de transport"
+
+#: admin/BordereauGeneratorAdmin.php:638 admin/BordereauGeneratorAdmin.php:996
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/CredentialsPopup.jsx:129
+#: src/admin/js/components/ImportPopup.jsx:82
+#: src/admin/js/components/SettingsTab.jsx:248
+#: src/admin/js/pages/homepage.jsx:97 src/admin/js/pages/Settings.jsx:24
+msgid "Settings"
+msgstr "Réglages"
+
+#: admin/BordereauGeneratorAdmin.php:1462
+#: admin/BordereauGeneratorAdmin.php:1590
+msgid "Settings has been saved"
+msgstr "Les paramètres ont été enregistrés"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauProvidersList.jsx:77
+#: src/admin/js/components/BordereauProvidersList.jsx:276
+#: src/admin/js/components/BordereauProvidersList.jsx:306
+#: src/admin/js/components/CredentialsPopup.jsx:115
+#: src/admin/js/components/SettingsTab.jsx:153
+msgid "Settings has been updated"
+msgstr "Paramètres a été mis à jour"
+
+#: shipping_methods/ConexlogFlatRate.php:59
+#: shipping_methods/ConexlogLocalPickup.php:62
+#: shipping_methods/DefaultLocalPickup.php:73
+#: shipping_methods/EcotrackFlatRate.php:62
+#: shipping_methods/EcotrackLocalPickup.php:72
+#: shipping_methods/ElogistiaFlatRate.php:59
+#: shipping_methods/ElogistiaLocalPickup.php:62
+#: shipping_methods/MaystroDeliveryFlatRate.php:60
+#: shipping_methods/MaystroDeliveryLocalPickup.php:63
+#: shipping_methods/WC3MExpressFlatRate.php:62
+#: shipping_methods/WC3MExpressLocalPickup.php:89
+#: shipping_methods/YalidineFlatRate.php:67
+#: shipping_methods/YalidineLocalPickup.php:114
+#: shipping_methods/ZRExpressFlatRate.php:62
+#: shipping_methods/ZRExpressLocalPickup.php:62
+msgid "Shipping Company"
+msgstr "Société De Transport"
+
+#: shipping_methods/WC3MExpressLocalPickup.php:92
+#| msgid "Shipping Company Slug"
+msgid "Shipping company."
+msgstr "Société de livraison"
+
+#: src/admin/js/pages/ShippingPriceManager.jsx:102
+msgid "Shipping Price Manager"
+msgstr ""
+"Gestionnaire de prix de livraison\n"
+
+#: src/admin/js/components/BordereauProvidersList.jsx:347
+#: src/admin/js/pages/homepage.jsx:82
+msgid "Shipping Providers"
+msgstr "Fournisseur expéditions"
+
+#: src/admin/js/components/ShippingZonesTab.jsx:96
+msgid "Shipping Zones"
+msgstr ""
+"Zones de livraison\n"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:232
+msgid "Shipping Zones has been cleared"
+msgstr "L'expédition des Zones a été effacé"
+
+#: admin/BordereauGeneratorAdmin.php:1216
+msgid "Signature"
+msgstr "Signature"
+
+#: shipping_methods/ConexlogFlatRate.php:62
+#: shipping_methods/ConexlogLocalPickup.php:65
+#: shipping_methods/ElogistiaFlatRate.php:62
+#: shipping_methods/ElogistiaLocalPickup.php:65
+#: shipping_methods/MaystroDeliveryFlatRate.php:63
+#: shipping_methods/MaystroDeliveryLocalPickup.php:66
+#: shipping_methods/WC3MExpressFlatRate.php:65
+#: shipping_methods/YalidineFlatRate.php:70
+#: shipping_methods/YalidineLocalPickup.php:117
+#: shipping_methods/ZRExpressFlatRate.php:65
+#: shipping_methods/ZRExpressLocalPickup.php:65
+msgid "Slug of Shipping company."
+msgstr "Slug de la société d'Expédition."
+
+#: admin/BordereauGeneratorAdmin.php:656
+msgid "Speedmail Orders"
+msgstr "Commandes Speedmail"
+
+#. translators: Translate it to the name of the State level territory division, e.g. "State", "Province",  "Department"
+#: admin/Partials/ShippingOrdersTable.php:50
+#: public/BordereauGeneratorPublic.php:943
+msgid "State"
+msgstr "État"
+
+#: public/BordereauGeneratorPublic.php:1762
+#, fuzzy
+msgctxt "states"
+msgid "01  Adrar أدرار"
+msgstr "01 Adrar أدرار"
+
+#: public/BordereauGeneratorPublic.php:1763
+#, fuzzy
+msgctxt "states"
+msgid "02\tChlef  الشلف"
+msgstr "02 Chlef الشلف"
+
+#: public/BordereauGeneratorPublic.php:1764
+#, fuzzy
+msgctxt "states"
+msgid "03\tLaghouat\tالأغواط"
+msgstr "03 Laghouat الأغواط"
+
+#: public/BordereauGeneratorPublic.php:1765
+#, fuzzy
+msgctxt "states"
+msgid "04\tOum El Bouaghi\tأم البواقي"
+msgstr "04 Oum El Bouaghi أم البواقي"
+
+#: public/BordereauGeneratorPublic.php:1766
+#, fuzzy
+msgctxt "states"
+msgid "05\tBatna\tباتنة"
+msgstr "05 Batna باتنة"
+
+#: public/BordereauGeneratorPublic.php:1767
+#, fuzzy
+msgctxt "states"
+msgid "06\tBéjaïa\tبجاية"
+msgstr "06 Béjaïa بجاية"
+
+#: public/BordereauGeneratorPublic.php:1768
+#, fuzzy
+msgctxt "states"
+msgid "07\tBiskra\tبسكرة"
+msgstr "07 Biskra بسكرة"
+
+#: public/BordereauGeneratorPublic.php:1769
+#, fuzzy
+msgctxt "states"
+msgid "08\tBéchar\tبشار"
+msgstr "08 Béchar بشار"
+
+#: public/BordereauGeneratorPublic.php:1770
+#, fuzzy
+msgctxt "states"
+msgid "09\tBlida\tالبليدة"
+msgstr "09 Blida البليدة"
+
+#: public/BordereauGeneratorPublic.php:1771
+#, fuzzy
+msgctxt "states"
+msgid "10\tBouïra\tالبويرة\t"
+msgstr "10  Bouïra\tالبويرة\t"
+
+#: public/BordereauGeneratorPublic.php:1772
+#, fuzzy
+msgctxt "states"
+msgid "11\tTamanrasset\tتمنراست"
+msgstr "11 Tamanrasset تمنراست"
+
+#: public/BordereauGeneratorPublic.php:1773
+#, fuzzy
+msgctxt "states"
+msgid "12\tTébessa\tتبسة"
+msgstr "12 Tébessa تبسة"
+
+#: public/BordereauGeneratorPublic.php:1774
+#, fuzzy
+msgctxt "states"
+msgid "13\tTlemcen\tتلمسان"
+msgstr "13 Tlemcen تلمسان"
+
+#: public/BordereauGeneratorPublic.php:1775
+#, fuzzy
+msgctxt "states"
+msgid "14\tTiaret\tتيارت"
+msgstr "14 Tiaret تيارت"
+
+#: public/BordereauGeneratorPublic.php:1776
+#, fuzzy
+msgctxt "states"
+msgid "15\tTizi Ouzou\tتيزي وزو"
+msgstr "15 Tizi Ouzou تيزي وزو"
+
+#: public/BordereauGeneratorPublic.php:1777
+#, fuzzy
+msgctxt "states"
+msgid "16\tAlger\tالجزائر"
+msgstr "16 Alger الجزائر"
+
+#: public/BordereauGeneratorPublic.php:1778
+#, fuzzy
+msgctxt "states"
+msgid "17\tDjelfa\tالجلفة"
+msgstr "17 Djelfa الجلفة"
+
+#: public/BordereauGeneratorPublic.php:1779
+msgctxt "states"
+msgid "18\tJijel\tجيجل"
+msgstr ""
+
+#: public/BordereauGeneratorPublic.php:1780
+msgctxt "states"
+msgid "19\tSétif\tسطيف"
+msgstr ""
+
+#: public/BordereauGeneratorPublic.php:1781
+#, fuzzy
+msgctxt "states"
+msgid "20\tSaïda\tسعيدة"
+msgstr "20 Saïda سعيدة"
+
+#: public/BordereauGeneratorPublic.php:1782
+#, fuzzy
+msgctxt "states"
+msgid "21\tSkikda\tسكيكدة"
+msgstr "21 Skikda سكيكدة"
+
+#: public/BordereauGeneratorPublic.php:1783
+#, fuzzy
+msgctxt "states"
+msgid "22\tSidi Bel Abbès\tسيدي بلعباس"
+msgstr "22 Sidi Bel Abbès سيدي بلعباس"
+
+#: public/BordereauGeneratorPublic.php:1784
+#, fuzzy
+msgctxt "states"
+msgid "23\tAnnaba\tعنابة"
+msgstr "23 Annaba عنابة"
+
+#: public/BordereauGeneratorPublic.php:1785
+#, fuzzy
+msgctxt "states"
+msgid "24\tGuelma\tقالمة"
+msgstr "24 Guelma قالمة"
+
+#: public/BordereauGeneratorPublic.php:1786
+#, fuzzy
+msgctxt "states"
+msgid "25\tConstantine\tقسنطينة"
+msgstr "25 Constantin قسنطينة"
+
+#: public/BordereauGeneratorPublic.php:1787
+#, fuzzy
+msgctxt "states"
+msgid "26\tMédéa\tالمدية"
+msgstr "26 Médéa المدية"
+
+#: public/BordereauGeneratorPublic.php:1788
+#, fuzzy
+msgctxt "states"
+msgid "27\tMostaganem\tمستغانم"
+msgstr "27 Mostaganem مستغانم"
+
+#: public/BordereauGeneratorPublic.php:1789
+#, fuzzy
+#| msgid "28\tM'Sila\tالمسيلة"
+msgctxt "states"
+msgid "28\tM\\'Sila\tالمسيلة"
+msgstr "28 M Sila المسيلة"
+
+#: public/BordereauGeneratorPublic.php:1790
+#, fuzzy
+msgctxt "states"
+msgid "29\tMascara\tمعسكر"
+msgstr "29 Mascara معسكر"
+
+#: public/BordereauGeneratorPublic.php:1791
+#, fuzzy
+msgctxt "states"
+msgid "30\tOuargla\tورقلة"
+msgstr "30 Ouargla ورقلة"
+
+#: public/BordereauGeneratorPublic.php:1792
+msgctxt "states"
+msgid "31\tOran\tوهران"
+msgstr ""
+
+#: public/BordereauGeneratorPublic.php:1793
+#, fuzzy
+msgctxt "states"
+msgid "32\tEl Bayadh\tالبيض"
+msgstr "32 El Bayadh البيض"
+
+#: public/BordereauGeneratorPublic.php:1794
+#, fuzzy
+msgctxt "states"
+msgid "33\tIllizi\tاليزي"
+msgstr "33 Illizi اليزي"
+
+#: public/BordereauGeneratorPublic.php:1795
+#, fuzzy
+msgctxt "states"
+msgid "34\tBordj Bou Arréridj\tبرج بوعريريج"
+msgstr "34 Bordj Bou Arréridj برج بوعريريج"
+
+#: public/BordereauGeneratorPublic.php:1796
+#, fuzzy
+msgctxt "states"
+msgid "35\tBoumerdès\tبومرداس"
+msgstr "35 Boumerdès بومرداس"
+
+#: public/BordereauGeneratorPublic.php:1797
+#, fuzzy
+msgctxt "states"
+msgid "36\tEl Tarf\tالطارف"
+msgstr "36 El Tarf الطارف"
+
+#: public/BordereauGeneratorPublic.php:1798
+#, fuzzy
+msgctxt "states"
+msgid "37\tTindouf\tتندوف"
+msgstr "37 Tindouf تندوف"
+
+#: public/BordereauGeneratorPublic.php:1799
+#, fuzzy
+msgctxt "states"
+msgid "38\tTissemsilt\tتسمسيلت"
+msgstr "38 Tissemsilt تسمسيلت"
+
+#: public/BordereauGeneratorPublic.php:1800
+#, fuzzy
+msgctxt "states"
+msgid "39\tEl Oued\tالوادي"
+msgstr "39 El Oued الوادي"
+
+#: public/BordereauGeneratorPublic.php:1801
+#, fuzzy
+msgctxt "states"
+msgid "40\tKhenchela\tخنشلة"
+msgstr "40 Khenchela خنشلة"
+
+#: public/BordereauGeneratorPublic.php:1802
+#, fuzzy
+msgctxt "states"
+msgid "41\tSouk Ahras\tسوق أهراس"
+msgstr "41 Souk Ahras سوق أهراس"
+
+#: public/BordereauGeneratorPublic.php:1803
+#, fuzzy
+msgctxt "states"
+msgid "42\tTipaza\tتيبازة"
+msgstr "42 Tipaza تيبازة"
+
+#: public/BordereauGeneratorPublic.php:1804
+msgctxt "states"
+msgid "43\tMila\tميلة"
+msgstr ""
+
+#: public/BordereauGeneratorPublic.php:1805
+#, fuzzy
+msgctxt "states"
+msgid "44\tAïn Defla\tعين الدفلى"
+msgstr "44 Aïn Defla عين الدفلى"
+
+#: public/BordereauGeneratorPublic.php:1806
+#, fuzzy
+msgctxt "states"
+msgid "45\tNaâma\tالنعامة"
+msgstr "45 Naâma النعامة"
+
+#: public/BordereauGeneratorPublic.php:1807
+#, fuzzy
+msgctxt "states"
+msgid "46\tAïn Témouchent\tعين تموشنت"
+msgstr "46 Aïn Témouchent عين تموشنت"
+
+#: public/BordereauGeneratorPublic.php:1808
+#, fuzzy
+msgctxt "states"
+msgid "47\tGhardaïa\tغرداية"
+msgstr "47 Ghardaïa غرداية"
+
+#: public/BordereauGeneratorPublic.php:1809
+#, fuzzy
+msgctxt "states"
+msgid "48\tRelizane\tغليزان"
+msgstr "48 Relizane غليزان"
+
+#: public/BordereauGeneratorPublic.php:1815
+#, fuzzy
+msgctxt "states"
+msgid "49\tTimimoun\tتيميمون"
+msgstr "49 Timimoun تيميمون"
+
+#: public/BordereauGeneratorPublic.php:1816
+#, fuzzy
+msgctxt "states"
+msgid "50\tBordj Baji Mokhtar\tبرج باجي مختار"
+msgstr "50 Bordj Baji Mokhtar برج باجي مختار"
+
+#: public/BordereauGeneratorPublic.php:1817
+#, fuzzy
+msgctxt "states"
+msgid "51\tOuled Djellal\tأولاد جلال"
+msgstr "51 Ouled Djellal أولاد جلال"
+
+#: public/BordereauGeneratorPublic.php:1818
+#, fuzzy
+msgctxt "states"
+msgid "52\tBéni Abbès\tبني عباس"
+msgstr "52 Béni Abbès بني عباس"
+
+#: public/BordereauGeneratorPublic.php:1819
+#, fuzzy
+msgctxt "states"
+msgid "53\tIn Salah\tعين صالح"
+msgstr "53 In Salah عين صالح"
+
+#: public/BordereauGeneratorPublic.php:1820
+#, fuzzy
+msgctxt "states"
+msgid "54\tIn Guezzam\tعين قزّام"
+msgstr "54 Dans Guezzam عين قزّام"
+
+#: public/BordereauGeneratorPublic.php:1821
+#, fuzzy
+msgctxt "states"
+msgid "55\tTouggourt\tتقرت"
+msgstr "55 Touggourt تقرت"
+
+#: public/BordereauGeneratorPublic.php:1822
+msgctxt "states"
+msgid "56\tDjanet\tجانت"
+msgstr ""
+
+#: public/BordereauGeneratorPublic.php:1823
+#, fuzzy
+msgctxt "states"
+msgid "57\tEl M'Ghair\tالمغير"
+msgstr "57 El M'Ghair المغير"
+
+#: public/BordereauGeneratorPublic.php:1824
+#, fuzzy
+msgctxt "states"
+msgid "58\tEl Menia\tالمنيعة"
+msgstr "58 El Menia المنيعة"
+
+#: admin/Partials/ShippingOrdersTable.php:46
+#: src/admin/js/components/BarcodeScanner.jsx:334
+msgid "Status"
+msgstr "Statut"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/OrderStatusTab.jsx:234
+#: src/admin/js/components/OrderStatusTab.jsx:323
+msgid "Status background"
+msgstr "Le statut d'arrière-plan"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/OrderStatusTab.jsx:225
+#: src/admin/js/components/OrderStatusTab.jsx:314
+msgid "Status Color"
+msgstr "Couleur De La Condition De"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/OrderStatusTab.jsx:202
+#: src/admin/js/components/OrderStatusTab.jsx:303
+msgid "Status Name"
+msgstr "Nom D'État"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/OrderStatusTab.jsx:214
+msgid "Status slug"
+msgstr "Le statut de slug"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1442
+msgid "Statut"
+msgstr "Statut"
+
+#: public/BordereauGeneratorPublic.php:610
+#: public/BordereauGeneratorPublic.php:619
+#: public/BordereauGeneratorPublic.php:802
+msgid "Street address"
+msgstr "Adresse"
+
+#: src/admin/js/pages/ShippingPriceManager.jsx:119
+msgid "Subtract"
+msgstr "Soustraire"
+
+#: admin/Shipping/YalidineShipping.php:616
+#: admin/Shipping/YalidineShippingSettings.php:463
+#: public/BordereauGeneratorPublic.php:1057
+#: public/BordereauGeneratorPublic.php:1083
+#: public/BordereauGeneratorPublic.php:1221
+msgid "Supplément commune"
+msgstr "Supplément de la commune"
+
+#: admin/BordereauGeneratorAdmin.php:941
+msgid "Support"
+msgstr "Soutien"
+
+#: admin/Shipping/NoestShippingSettings.php:229
+#: admin/Shipping/PicoSolutionSettingsNew.php:450
+#: admin/Shipping/YalidineShipping.php:621
+#: admin/Shipping/YalidineShippingSettings.php:483
+#: public/BordereauGeneratorPublic.php:1165
+#: public/BordereauGeneratorPublic.php:1181
+#: public/BordereauGeneratorPublic.php:1195
+#: public/BordereauGeneratorPublic.php:1238
+#: public/BordereauGeneratorPublic.php:1250
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:765
+msgid "Surpoids (+5KG)"
+msgstr "Surpoids (+5KG)"
+
+#: src/admin/js/components/CompanyCard.jsx:111
+#: src/admin/js/components/CompanyCard.jsx:112
+msgid "Sync"
+msgstr "Synchronisation"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1457
+msgid "Sélectionner"
+msgstr "Sélectionner"
+
+#: admin/Partials/BordereauGeneratorProviders.php:1234
+msgid "Sélectionner la taille de bordereau"
+msgstr "Sélectionner la taille de bordereau"
+
+#: public/BordereauGeneratorPublic.php:203
+#: public/BordereauGeneratorPublic.php:390
+#: public/BordereauGeneratorPublic.php:394
+#: public/BordereauGeneratorPublic.php:523
+msgid "Sélectionnez un bureau"
+msgstr ""
+"Sélectionnez un bureau\n"
+
+#: admin/BordereauGeneratorAdmin.php:470
+msgid "Tentative échouée"
+msgstr "Tentative échouée"
+
+#: src/admin/js/components/Checking.jsx:61
+msgid "Thank you for purchasing Bordreau Generator"
+msgstr ""
+"Merci d'avoir acheté Bordreau Generator\n"
+
+#: admin/Shipping/ConexlogShipping.php:650
+#: admin/Shipping/ConexlogShipping.php:715
+#: admin/Shipping/EcoTrackShipping.php:687
+#: admin/Shipping/EcoTrackShipping.php:753
+msgid "There is no token has been set"
+msgstr "Il n'y a pas de jeton a été mis en"
+
+#: shipping_methods/ConexlogFlatRate.php:46
+#: shipping_methods/ConexlogLocalPickup.php:49
+#: shipping_methods/DefaultLocalPickup.php:60
+#: shipping_methods/EcotrackFlatRate.php:48
+#: shipping_methods/EcotrackLocalPickup.php:59
+#: shipping_methods/ElogistiaFlatRate.php:46
+#: shipping_methods/ElogistiaLocalPickup.php:49
+#: shipping_methods/MaystroDeliveryFlatRate.php:47
+#: shipping_methods/MaystroDeliveryLocalPickup.php:49
+#: shipping_methods/MylerzExpressFlatRate.php:47
+#: shipping_methods/MylerzExpressLocalPickup.php:49
+#: shipping_methods/NordOuestFlatRate.php:48
+#: shipping_methods/NordOuestLocalPickup.php:50
+#: shipping_methods/TonColisFlatRate.php:48
+#: shipping_methods/TonColisLocalPickup.php:48
+#: shipping_methods/WC3MExpressFlatRate.php:49
+#: shipping_methods/WC3MExpressLocalPickup.php:54
+#: shipping_methods/YalidineFlatRate.php:54
+#: shipping_methods/YalidineLocalPickup.php:66
+#: shipping_methods/ZimoExpressFlatRate.php:54
+#: shipping_methods/ZimoExpressLocalPickup.php:57
+#: shipping_methods/ZRExpressFlatRate.php:48
+#: shipping_methods/ZRExpressLocalPickup.php:48
+msgid "This controls the title which the user sees during checkout."
+msgstr "Ceci contrôle le titre qui voit l'utilisateur lors de la commande."
+
+#: shipping_methods/WC3MExpressLocalPickup.php:83
+#: shipping_methods/YalidineLocalPickup.php:109
+#: shipping_methods/ZimoExpressLocalPickup.php:86
+msgid "This will save the center ID for the agency."
+msgstr "Cela permettra d'économiser le centre d'identification de l'agence."
+
+#: shipping_methods/EcotrackLocalPickup.php:89
+#: shipping_methods/WC3MExpressLocalPickup.php:76
+#: shipping_methods/YalidineLocalPickup.php:88
+#: shipping_methods/YalidineLocalPickup.php:102
+#: shipping_methods/ZimoExpressLocalPickup.php:79
+msgid "This will show the address of the local pickup in the checkout."
+msgstr "Cela permettra d'afficher l'adresse du local au livraison au bureau."
+
+#: shipping_methods/EcotrackLocalPickup.php:82
+msgid "This will show the geolocation lat,lng of the local pickup."
+msgstr ""
+"Cela affichera la géolocalisation (lat, lng) du point de retrait local.\n"
+
+#: shipping_methods/WC3MExpressLocalPickup.php:69
+#: shipping_methods/YalidineLocalPickup.php:81
+#: shipping_methods/ZimoExpressLocalPickup.php:72
+msgid "This will show the geolocation of the local pickup."
+msgstr ""
+"Cela permettra de montrer à la géolocalisation de la local de livraison au "
+"bureau."
+
+#: shipping_methods/EcotrackLocalPickup.php:96
+#: shipping_methods/YalidineLocalPickup.php:95
+msgid "This will show the link maps of the local pickup in the checkout."
+msgstr ""
+"Cela affichera le lien des cartes du point de retrait local dans la caisse.\n"
+
+#: shipping_methods/EcotrackLocalPickup.php:103
+msgid "This will show the phone of the local pickup in the checkout."
+msgstr ""
+"Cela affichera le numéro de téléphone du point de retrait local dans la "
+"caisse.\n"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:354
+msgid ""
+"Time between updates this used to set the intervan between requests to "
+"update the tracking status for all your packages"
+msgstr ""
+"Temps entre les mises à jour : il permet de définir l’intervalle entre les "
+"demandes de mise à jour de l’état de suivi de tous vos colis"
+
+#: shipping_methods/ConexlogFlatRate.php:44
+#: shipping_methods/ConexlogLocalPickup.php:47
+#: shipping_methods/DefaultLocalPickup.php:58
+#: shipping_methods/EcotrackFlatRate.php:46
+#: shipping_methods/EcotrackLocalPickup.php:57
+#: shipping_methods/ElogistiaFlatRate.php:44
+#: shipping_methods/ElogistiaLocalPickup.php:47
+#: shipping_methods/MaystroDeliveryFlatRate.php:45
+#: shipping_methods/MaystroDeliveryLocalPickup.php:47
+#: shipping_methods/MylerzExpressFlatRate.php:45
+#: shipping_methods/MylerzExpressLocalPickup.php:47
+#: shipping_methods/NordOuestFlatRate.php:46
+#: shipping_methods/NordOuestLocalPickup.php:48
+#: shipping_methods/TonColisFlatRate.php:46
+#: shipping_methods/TonColisLocalPickup.php:46
+#: shipping_methods/WC3MExpressFlatRate.php:47
+#: shipping_methods/WC3MExpressLocalPickup.php:52
+#: shipping_methods/YalidineFlatRate.php:52
+#: shipping_methods/YalidineLocalPickup.php:64
+#: shipping_methods/ZimoExpressFlatRate.php:52
+#: shipping_methods/ZimoExpressLocalPickup.php:55
+#: shipping_methods/ZRExpressFlatRate.php:46
+#: shipping_methods/ZRExpressLocalPickup.php:46
+msgid "Title"
+msgstr "Titre"
+
+#: admin/BordereauGeneratorAdmin.php:3489
+msgid "Token has been saved"
+msgstr "Jeton a été enregistré"
+
+#: shipping_methods/TonColisFlatRate.php:11
+#: shipping_methods/TonColisFlatRate.php:49
+msgid "TonColis Flat Rate"
+msgstr ""
+
+#: shipping_methods/TonColisFlatRate.php:12
+msgid "TonColis Flat Rate Shipping method"
+msgstr ""
+
+#: shipping_methods/TonColisLocalPickup.php:14
+#: shipping_methods/TonColisLocalPickup.php:49
+msgid "TonColis Local Pickup"
+msgstr ""
+
+#: shipping_methods/TonColisLocalPickup.php:15
+msgid "TonColis Local Pickup Shipping method"
+msgstr ""
+
+#: admin/BordereauGeneratorAdmin.php:1212
+#: admin/Partials/ShippingOrdersTable.php:45
+msgid "Tracking"
+msgstr "Suivi"
+
+#: woocommerce/templates/order/order-detail.php:6
+msgid "Tracking details"
+msgstr "Les détails de suivi"
+
+#: admin/BordereauGeneratorAdmin.php:331
+msgid "Tracking Number"
+msgstr "Numéro De Suivi"
+
+#: admin/MetaBox/BordereauGeneratorMetaBox.php:233
+msgid "Tracking number has been deleted successfully"
+msgstr "Numéro de suivi a été supprimé avec succès"
+
+#: admin/Shipping/ColivraisonExpress.php:293
+#: admin/Shipping/ConexlogShipping.php:331
+#: admin/Shipping/EcoTrackShipping.php:384 admin/Shipping/EMSExpress.php:292
+#: admin/Shipping/MaystroShipping.php:378 admin/Shipping/MylerzExpress.php:281
+#: admin/Shipping/PicoSolution.php:250 admin/Shipping/ThreeMExpress.php:295
+msgid "Tracking number has been successfully created"
+msgstr "Numéro de suivi a été créé avec succès"
+
+#: admin/BordereauGeneratorAdmin.php:332 admin/BordereauGeneratorAdmin.php:2535
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BarcodeScanner.jsx:335
+#: src/admin/js/components/TrackingModal.jsx:147
+msgid "Tracking Status"
+msgstr "L'État De Suivi"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1413
+msgid "Try Product"
+msgstr "Essayez De Produit"
+
+#: src/admin/js/pages/homepage.jsx:112
+msgid "Tutorial"
+msgstr "Tutoriel"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1342
+msgid "Type d'opération"
+msgstr "Type d'opération"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1250
+msgid "Type de livraison"
+msgstr "Type de livraison"
+
+#: src/admin/js/components/BarcodeScanner.jsx:284
+msgid "Type or scan your barcode"
+msgstr "Type ou de scan de code-barres"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1242
+msgid "Téléphone"
+msgstr "Téléphone"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1246
+msgid "Téléphone 2"
+msgstr "Téléphone 2"
+
+#: admin/BordereauGeneratorAdmin.php:3755
+msgid "Unable to reset all the order status"
+msgstr "Impossible de réinitialiser tous les statuts de la commande"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/OrderStatusTab.jsx:391
+msgid "Update"
+msgstr "Mise à jour"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:346
+msgid "Update Interval (min)"
+msgstr "Intervalle de mise à jour (min)"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/SettingsTab.jsx:380
+msgid "Use customs actions to set tracking and payments status manually"
+msgstr ""
+"Utiliser les actions groupes pour définir manuellement le suivi et le statut "
+"des paiements"
+
+#: admin/Partials/BordereauGeneratorProviders.php:104
+#: admin/Partials/BordereauGeneratorProviders.php:152
+#: admin/Partials/BordereauGeneratorProviders.php:200
+#: admin/Partials/BordereauGeneratorProviders.php:348
+#: admin/Partials/BordereauGeneratorProviders.php:447
+#: admin/Partials/BordereauGeneratorProviders.php:1312
+msgid "Username"
+msgstr "Nom d’utilisateur"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:896
+msgid "Valeur déclarée"
+msgstr "Valeur déclarée"
+
+#: shipping_methods/EcotrackLocalPickup.php:120
+msgid "View on Google Maps"
+msgstr ""
+"Voir sur Google Maps\n"
+
+#: admin/Partials/BordereauGeneratorProviders.php:947
+msgid "Votre API ID de %s voir dans espace Développement > Tableau de bord"
+msgstr "Votre API ID de %s voir dans espace Développement > Tableau de bord"
+
+#: admin/Partials/BordereauGeneratorProviders.php:577
+msgid "Votre API ID de Maystro Delivery voir avec le service commercial"
+msgstr "Votre API ID de Maystro Delivery voir avec le service commercial"
+
+#: admin/Partials/BordereauGeneratorProviders.php:253
+#: admin/Partials/BordereauGeneratorProviders.php:259
+#: admin/Partials/BordereauGeneratorProviders.php:301
+#: admin/Partials/BordereauGeneratorProviders.php:307
+msgid "Votre API Key pour acceder au platform "
+msgstr "Votre API Key pour acceder au platform "
+
+#: admin/Partials/BordereauGeneratorProviders.php:955
+msgid "Votre API Token de %s voir dans espace Développement > Tableau de bord"
+msgstr "Votre API Token de %s voir dans espace Développement > Tableau de bord"
+
+#: admin/Partials/BordereauGeneratorProviders.php:1209
+#: admin/Partials/BordereauGeneratorProviders.php:1273
+#: admin/Partials/BordereauGeneratorProviders.php:1408
+msgid "Votre API Token de %s voir dans votre espace à Configuration API"
+msgstr "Votre API Token de %s voir dans votre espace à Configuration API"
+
+#: admin/Partials/BordereauGeneratorProviders.php:583
+msgid "Votre API Token de Maystro Delivery voir avec le service commercial"
+msgstr "Votre API Token de Maystro Delivery voir avec le service commercial"
+
+#: admin/Partials/BordereauGeneratorProviders.php:438
+msgid ""
+"Votre API Token de Nord et ouest express voir dans votre espace à "
+"Configuration API"
+msgstr ""
+"Votre API Token de Nord et ouest express voir dans votre espace à "
+"Configuration API"
+
+#: admin/Partials/BordereauGeneratorProviders.php:1139
+msgid ""
+"Votre Client ID de %s sera visible apres cree une application voir le video "
+"formation"
+msgstr ""
+"Votre Client ID de %s sera visible apres cree une application voir le video "
+"formation"
+
+#: admin/Partials/BordereauGeneratorProviders.php:1146
+msgid ""
+"Votre Client Secret de %s sera visible apres cree une application voir le "
+"video formation"
+msgstr ""
+"Votre Client Secret de %s sera visible apres cree une application voir le "
+"video formation"
+
+#: admin/Partials/BordereauGeneratorProviders.php:444
+msgid ""
+"Votre Guid Token de Nord et ouest express voir dans votre espace à "
+"Configuration API"
+msgstr ""
+"Votre Guid Token de Nord et ouest express voir dans votre espace à "
+"Configuration API"
+
+#: admin/Partials/BordereauGeneratorProviders.php:456
+msgid "Votre Mot de pass pour acceder au platform"
+msgstr "Votre Mot de pass pour acceder au platform "
+
+#: admin/Partials/BordereauGeneratorProviders.php:112
+#: admin/Partials/BordereauGeneratorProviders.php:160
+#: admin/Partials/BordereauGeneratorProviders.php:208
+#: admin/Partials/BordereauGeneratorProviders.php:356
+#: admin/Partials/BordereauGeneratorProviders.php:1320
+msgid "Votre Mot de pass pour acceder au platform "
+msgstr "Votre Mot de pass pour acceder au platform "
+
+#: admin/Partials/BordereauGeneratorProviders.php:450
+msgid "Votre Nom d'utilisateur pour acceder au platform"
+msgstr "Votre Nom d’utilisateur pour accéder au platform "
+
+#: admin/Partials/BordereauGeneratorProviders.php:106
+#: admin/Partials/BordereauGeneratorProviders.php:154
+#: admin/Partials/BordereauGeneratorProviders.php:202
+#: admin/Partials/BordereauGeneratorProviders.php:350
+#: admin/Partials/BordereauGeneratorProviders.php:1314
+msgid "Votre Nom d'utilisateur pour acceder au platform "
+msgstr "Votre Nom d’utilisateur pour accéder au platform "
+
+#: admin/Partials/BordereauGeneratorProviders.php:1153
+msgid "Votre Number de compte pour %s"
+msgstr "Votre numero de compt pour %s"
+
+#: admin/Partials/BordereauGeneratorProviders.php:1167
+msgid "Votre Phone Number de compte pour %s"
+msgstr "Votre Telephone pour %s"
+
+#: admin/Partials/BordereauGeneratorProviders.php:1160
+msgid "Votre Store name sur %s"
+msgstr "Nom de votre boutique sur %s"
+
+#: admin/Partials/BordereauGeneratorProviders.php:963
+msgid ""
+"Votre Webhook Token de %s voir dans espace Développement > Gérer les Webhooks"
+msgstr ""
+"Votre Webhook Token de %s voir dans espace Développement > Gérer les Webhooks"
+
+#: admin/Partials/BordereauGeneratorProviders.php:938
+msgid "Votre Wilaya"
+msgstr ""
+"Votre Wilaya\n"
+
+#: admin/Partials/BordereauGeneratorProviders.php:1008
+msgid ""
+"Voulez-vous activer la synchronisation des prix avec %s pour calculer la "
+"différence?"
+msgstr ""
+"Voulez-vous activer la synchronisation des prix avec %s pour calculer la "
+"différence?"
+
+#: admin/Partials/BordereauGeneratorProviders.php:402
+#: admin/Partials/BordereauGeneratorProviders.php:501
+#: admin/Partials/BordereauGeneratorProviders.php:1048
+msgid ""
+"Voulez-vous activer le calcule le Surpoids (+5KG) pour %s  au formulaire de "
+"checkout?"
+msgstr ""
+"Voulez-vous activer le calcule le Surpoids (+5KG) pour %s  au formulaire de "
+"checkout?"
+
+#: admin/Partials/BordereauGeneratorProviders.php:382
+#: admin/Partials/BordereauGeneratorProviders.php:481
+#: admin/Partials/BordereauGeneratorProviders.php:1028
+msgid "Voulez-vous activer le calcule le Surpoids (+5KG) pour %s ?"
+msgstr "Voulez-vous activer le calcule le Surpoids (+5KG) pour %s ?"
+
+#: admin/Partials/BordereauGeneratorProviders.php:541
+msgid "Voulez-vous activer les colis fragil par default pour %s ?"
+msgstr "Voulez-vous activer les colis fragil par default pour %s ?"
+
+#: admin/Partials/BordereauGeneratorProviders.php:1433
+msgid "Vous avez un stock avec %s ?"
+msgstr "Vous avez un stock avec %s ?"
+
+#: admin/Partials/BordereauGeneratorProviders.php:521
+msgid "Vous avez un stock avec Nordouest ?"
+msgstr "Vous avez un stock avec Nordouest ?"
+
+#: admin/Partials/BordereauGeneratorProviders.php:628
+msgid "Vous voulez active la confirmation ?"
+msgstr "Vous voulez active la confirmation ?"
+
+#: admin/Partials/BordereauGeneratorProviders.php:988
+msgid "Vous voulez afficher les centers?"
+msgstr "Vous voulez afficher les centers?"
+
+#: admin/Partials/BordereauGeneratorProviders.php:608
+msgid "Vous voulez geré les produits dans la commande ?"
+msgstr "Vous voulez gérer les produits dans la commande ?"
+
+#: src/admin/js/components/CompanyCard.jsx:129
+#: src/admin/js/components/CompanyCard.jsx:130
+msgid "WebHook"
+msgstr "WebHook"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/WebhookPopup.jsx:109
+msgid "Webhook"
+msgstr "Webhook"
+
+#: admin/Partials/BordereauGeneratorProviders.php:958
+msgid "Webhook Token"
+msgstr "Jeton de webhook"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/WebhookPopup.jsx:95
+msgid "Webhook token has been saved"
+msgstr "Webhook jeton a été enregistré"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/WebhookPopup.jsx:65
+msgid "Webhook url has been copied"
+msgstr "Webhook url a été copié"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/WebhookPopup.jsx:119
+msgid "Webhook url you can copy it to use in"
+msgstr "Webhook url, vous pouvez le copier à utiliser dans"
+
+#: src/admin/js/pages/Welcome.jsx:12
+msgid "Welcome !"
+msgstr "Bienvenu!"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauWizard.jsx:9
+msgid "Welcome to bordreau Generator Wizard"
+msgstr ""
+"Bienvenue dans l'assistant de Bordreau Generator\n"
+"\n"
+
+#: admin/js/wc-bordereau-generator-admin.js:2
+#: src/admin/js/components/BordereauSelector.jsx:1266
+msgid "Wilaya"
+msgstr "Au niveau de la Wilaya"
+
+#: admin/Shipping/ConexlogShipping.php:91
+#: admin/Shipping/EcoTrackShipping.php:91 admin/Shipping/MaystroShipping.php:95
+#: admin/Shipping/MaystroShippingSettings.php:797
+msgid "Wilaya has not been selected"
+msgstr "Au niveau de la Wilaya n'a pas été sélectionné"
+
+#: src/admin/js/components/BordereauProvidersList.jsx:348
+msgid "Working currently with %d providers and counting"
+msgstr "Nous travaillons actuellement avec %d fournisseurs et de comptage"
+
+#: shipping_methods/ConexlogFlatRate.php:47
+#: shipping_methods/ElogistiaFlatRate.php:47
+#: shipping_methods/YalidineFlatRate.php:15
+#: shipping_methods/YalidineFlatRate.php:55
+msgid "Yalidine Flat Rate"
+msgstr "Yalidine livraison a domicile"
+
+#: shipping_methods/YalidineFlatRate.php:16
+msgid "Yalidine Flat Rate Shipping method"
+msgstr "Yalidine méthode d'expédition livraison a domicile"
+
+#: shipping_methods/YalidineLocalPickup.php:22
+#: shipping_methods/YalidineLocalPickup.php:67
+#: shipping_methods/YalidineLocalPickup.php:82
+msgid "Yalidine Local Pickup"
+msgstr "Yalidine livraison au bureau"
+
+#: shipping_methods/YalidineLocalPickup.php:23
+msgid "Yalidine Local Pickup Shipping method"
+msgstr "Yalidine méthode d'expédition livraison au bureau"
+
+#: admin/BordereauGeneratorAdmin.php:641
+msgid "Yalidine Orders"
+msgstr "Commandes Yalidine"
+
+#: admin/BordereauGeneratorAdmin.php:651
+msgid "Yalitec Orders"
+msgstr "Commandes Yalitec"
+
+#: shipping_methods/DefaultFlatRate.php:97
+#: shipping_methods/DefaultLocalPickup.php:86
+msgid "Yes"
+msgstr "Oui"
+
+#: admin/Shipping/MaystroShippingSettings.php:322
+msgid "Your products has been synced with Maystro delivery"
+msgstr "Vos produits ont été synchronisées avec Maystro de livraison"
+
+#: shipping_methods/ZimoExpressFlatRate.php:13
+msgid "Zimo Express Flat Rate"
+msgstr ""
+
+#: shipping_methods/ZimoExpressFlatRate.php:14
+msgid "Zimo Express Flat Rate Shipping method"
+msgstr ""
+
+#: shipping_methods/ZimoExpressLocalPickup.php:18
+msgid "Zimo Express Local Pickup"
+msgstr ""
+
+#: shipping_methods/ZimoExpressLocalPickup.php:19
+msgid "Zimo Express Local Pickup Shipping method"
+msgstr ""
+
+#: shipping_methods/ZimoExpressFlatRate.php:55
+msgid "zimoexpress Flat Rate"
+msgstr ""
+
+#: shipping_methods/ZimoExpressLocalPickup.php:58
+#: shipping_methods/ZimoExpressLocalPickup.php:73
+msgid "zimoexpress Local Pickup"
+msgstr ""
+
+#: shipping_methods/ZRExpressFlatRate.php:11
+#: shipping_methods/ZRExpressFlatRate.php:49
+msgid "ZR Express Flat Rate"
+msgstr "ZR Express livraison a domicile"
+
+#: shipping_methods/ZRExpressFlatRate.php:12
+msgid "ZR Express Flat Rate Shipping method"
+msgstr "ZR Express méthode d'Expédition livraison a domicile"
+
+#: shipping_methods/ZRExpressLocalPickup.php:14
+#: shipping_methods/ZRExpressLocalPickup.php:49
+msgid "ZR Express Local Pickup"
+msgstr "ZR Express, méthode d'expédition livraison au bureau"
+
+#: shipping_methods/ZRExpressLocalPickup.php:15
+msgid "ZR Express Local Pickup Shipping method"
+msgstr "ZR Express, méthode d'expédition livraison au bureau"

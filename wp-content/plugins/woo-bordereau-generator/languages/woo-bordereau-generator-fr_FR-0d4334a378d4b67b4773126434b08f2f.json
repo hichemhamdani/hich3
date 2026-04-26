@@ -1,0 +1,1371 @@
+{
+    "translation-revision-date": "2026-01-24 17:14+0000",
+    "generator": "Loco https:\/\/localise.biz\/",
+    "source": "admin\/js\/wc-bordereau-generator-admin.js",
+    "domain": "woo-bordereau-generator",
+    "locale_data": {
+        "woo-bordereau-generator": {
+            "": {
+                "domain": "",
+                "lang": "fr_FR",
+                "plural-forms": "nplurals=2; plural=n > 1;"
+            },
+            "Add New Status": [
+                "Ajouter un nouveau statut"
+            ],
+            "Add new status": [
+                "Ajouter un nouveau statut"
+            ],
+            "Add to bulk action": [
+                "Ajouter à l'action globale"
+            ],
+            "Adresse": [
+                "Adresse"
+            ],
+            "Ajouter": [
+                "Ajouter"
+            ],
+            "Always show address": [
+                "Toujours afficher l'adresse"
+            ],
+            "Always show address in the checkout form": [
+                "Toujours afficher l’adresse dans le formulaire de paiement"
+            ],
+            "Are you sure you want to clear cache ?": [
+                "Êtes-vous sûr de vouloir effacer le cache ?"
+            ],
+            "Are you sure you want to clear shipping zones ?": [
+                "Êtes-vous sûr de vouloir effacer zones de frais de port ?"
+            ],
+            "Are you sure you want to clear the cache ?": [
+                "Êtes-vous sûr de vouloir effacer le cache ?"
+            ],
+            "Are you sure you want to delete all the custom status ? this cannot be undone!": [
+                "Êtes-vous sûr de vouloir supprimer tous les statuts personnalisés ? Cela ne peut pas être annulé !"
+            ],
+            "Are you sure you want to delete this order status ? this cannot be undone !": [
+                "Êtes-vous sûr de vouloir supprimer tous les statuts personnalisés ? Cela ne peut pas être annulé !"
+            ],
+            "Assurer le colis ?": [
+                "Assurer le colis ?"
+            ],
+            "Auto update allow you to get the latest updates from your shipping provider in the background": [
+                "La mise à jour automatique vous permet d’obtenir les dernières mises à jour de votre fournisseur d’expédition en arrière-plan"
+            ],
+            "Auto update orders when the actionSchedule runs": [
+                "Mise à jour automatique des commandes lors de l’exécution d’actionSchedule"
+            ],
+            "Automatically insert orders in shipping provider when the status changed": [
+                "Insérez automatiquement les commandes dans le fournisseur d’expédition lorsque le statut a changé"
+            ],
+            "Bordereau generator settings": [
+                "Paramètres du générateur Bordereau"
+            ],
+            "Cache has been cleared": [
+                "Cache a été effacé"
+            ],
+            "Centers": [
+                "Les centres de"
+            ],
+            "characters max allowed": [
+                "Nombre maximum de caractères autorisés"
+            ],
+            "Choisir un Center": [
+                "Choisir des nations unies Centre"
+            ],
+            "Choisir une commune": [
+                "Choisir une commune"
+            ],
+            "Choisis une option": [
+                "Choisis une option"
+            ],
+            "Clear Cache": [
+                "Vider le cache"
+            ],
+            "Clear Shipping Zones": [
+                "Claire Zones De Frais De Port"
+            ],
+            "Close": [
+                "Fermer"
+            ],
+            "Clé secrète": [
+                "Clé secrète"
+            ],
+            "Code Suivi": [
+                "Code De Suivi"
+            ],
+            "Colis dépasse les 5 KG?": [
+                "Colis dépasse les 5 KG?"
+            ],
+            "Commune": [
+                "Commune"
+            ],
+            "Conditions": [
+                "Conditions"
+            ],
+            "Copy billing address": [
+                "Copier l'adresse de facturation"
+            ],
+            "Customize the order status as your need": [
+                "Personnaliser le statut de la commande en fonction de vos besoins"
+            ],
+            "Customize the plugin to your need": [
+                "Personnalisez le plugin selon vos besoins"
+            ],
+            "Default Note": [
+                "Note Par Défaut"
+            ],
+            "Default note for all the orders": [
+                "Note par défaut pour toutes les commandes"
+            ],
+            "Default Order Status": [
+                "Statut De Commande Par Défaut"
+            ],
+            "Default status for the commands you receive": [
+                "État par défaut des commandes que vous recevez"
+            ],
+            "Delete": [
+                "Supprimer"
+            ],
+            "Delete Tracking Number": [
+                "Supprimer Un Numéro De Suivi"
+            ],
+            "Disable Custom Cities": [
+                "Désactiver Personnalisé Villes"
+            ],
+            "Disable custom naming the cities": [
+                "Désactiver la dénomination personnalisée des villes"
+            ],
+            "Echange": [
+                "Echange"
+            ],
+            "Enable Auto update": [
+                "Activer la fonction d'Auto mise à jour"
+            ],
+            "Enable Auto update Orders": [
+                "Activer la mise à jour Automatique des Commandes"
+            ],
+            "Enable Automatically insert Order": [
+                "Permettre d'insérer Automatiquement Afin"
+            ],
+            "Enable Custom actions": [
+                "Activer les actions Personnalisées"
+            ],
+            "Enable custom status": [
+                "Activer le statut personnalisé"
+            ],
+            "Enable custom status for your orders like \"attempt delivery\"": [
+                "Activez un statut personnalisé pour vos commandes, comme \"tentative de livraison\"\n"
+            ],
+            "Enable Debug": [
+                "Activer Le Débogage"
+            ],
+            "Enable debug for better logging": [
+                "Activer le débogage pour une meilleure journalisation"
+            ],
+            "Enable Economic Import Shipping Rates": [
+                "Activer les tarifs d'importation économiques\n\n"
+            ],
+            "Enable Flat Rate Import Shipping Rates": [
+                "Importater les tarifs d'expédition pour livraison a domicile"
+            ],
+            "Enable green list (user rating)": [
+                "Activer la liste verte (évaluation des utilisateurs)"
+            ],
+            "Enable green list to check user rating to avoid spammers this will make the order page slower": [
+                "Activez la liste verte pour vérifier l'évaluation des utilisateurs afin d'éviter les spammeurs, cela rendra la page de commande plus lente.\n"
+            ],
+            "Enable local pickup agencies import": [
+                "Permettre d'importation des bureaux de livraison "
+            ],
+            "Enable Local Pickup Import Shipping Rates": [
+                "Activer l'Importation des farifs d'expédition livraison au bureau"
+            ],
+            "Envoi économique ?": [
+                "Envoi économique ?"
+            ],
+            "Error occurred contact the developer": [
+                "Erreur s'est produite contacter le développeur"
+            ],
+            "Expédition sélectionnée": [
+                "Expédition sélectionnée"
+            ],
+            "Flat Rate Label": [
+                "Livraison a domicile étiquette"
+            ],
+            "Fragile Parcel": [
+                "Fragile Colis"
+            ],
+            "General Settings": [
+                "Paramètres Généraux"
+            ],
+            "Hauteur": [
+                "Hauteur"
+            ],
+            "If you have't found your provider in the list please contact us at": [
+                "Si vous avez pas trouvé votre fournisseur dans la liste, veuillez nous contacter à"
+            ],
+            "Il est préférable de désactiver l'assurance si la valeur de votre colis est inférieure à 5000 DA.": [
+                "Il est préférable de désactiver l'assurance si la valeur de votre colis est inférieure à 5000 DA."
+            ],
+            "Importing shipping class has been finished": [
+                "L'importation d'expédition classe a été terminé"
+            ],
+            "Importing...": [
+                "De l'importation..."
+            ],
+            "Imprimer le bordereau": [
+                "Imprimer le bordereau"
+            ],
+            "Largeur": [
+                "Largeur"
+            ],
+            "License": [
+                "Licence"
+            ],
+            "License key": [
+                "Clé de licence"
+            ],
+            "Livraison": [
+                "Livraison"
+            ],
+            "Livraison en point relais": [
+                "Livraison en point relais"
+            ],
+            "Livraison gratuite?": [
+                "Livraison gratuite?"
+            ],
+            "Livraison à domicile": [
+                "Livraison à domicile"
+            ],
+            "Loading": [
+                "Chargement"
+            ],
+            "Loading...": [
+                "Chargement..."
+            ],
+            "Local Pickup Label": [
+                "Étiquette livraison au bureau"
+            ],
+            "Longueur": [
+                "Longueur"
+            ],
+            "Modifier": [
+                "Modificateur"
+            ],
+            "No tracking informations has been found": [
+                "Aucune information de suivi n'a été trouvée\n"
+            ],
+            "Nom": [
+                "Nom"
+            ],
+            "Numéro de commande": [
+                "Numéro de commande"
+            ],
+            "Open parcel": [
+                "Colis ouvert"
+            ],
+            "Optional": [
+                "En option"
+            ],
+            "Order Status": [
+                "Statut De La Commande"
+            ],
+            "Order Status Manager": [
+                "Statut De La Commande Gestionnaire De"
+            ],
+            "Pickup": [
+                "Ramassage"
+            ],
+            "Please confirm if you wish to reset your shipping conditions. Be aware that this action is irreversible.": [
+                "Merci de confirmer si vous souhaitez réinitialiser vos conditions de livraison. Sachez que cette action est irréversible."
+            ],
+            "Poids": [
+                "Poids"
+            ],
+            "Preview": [
+                "Aperçu"
+            ],
+            "Prix du colis": [
+                "Prix du colis"
+            ],
+            "Product String Format": [
+                "Produit Format De Chaîne De Caractères"
+            ],
+            "Produit à récuperer": [
+                "Produit à récuperer"
+            ],
+            "Produit(s)": [
+                "Produit(s)"
+            ],
+            "Prénom": [
+                "Prénom"
+            ],
+            "Recouvrement": [
+                "Recouvrement de l'"
+            ],
+            "Refresh": [
+                "Actualiser"
+            ],
+            "Remarque": [
+                "Remarque"
+            ],
+            "Reset Shipping condition": [
+                "Réinitialisation de Livraison condition"
+            ],
+            "Reset status": [
+                "Réinitialiser les états de la commande"
+            ],
+            "Save": [
+                "Enregistrer"
+            ],
+            "Select Status": [
+                "Sélectionnez Le Statut De"
+            ],
+            "Select the status you want to use so when the order change to that status it will be added to the shipping company": [
+                "Sélectionnez le statut que vous souhaitez utiliser, de sorte que lorsque la commande passera à ce statut, il sera ajouté à la société de transport"
+            ],
+            "Settings": [
+                "Paramètres"
+            ],
+            "Settings has been updated": [
+                "Paramètres a été mis à jour"
+            ],
+            "Shipping Zones has been cleared": [
+                "L'expédition des Zones a été effacé"
+            ],
+            "Status background": [
+                "Le statut d'arrière-plan"
+            ],
+            "Status Color": [
+                "Couleur De La Condition De"
+            ],
+            "Status Name": [
+                "Nom D'État"
+            ],
+            "Status slug": [
+                "Le statut de slug"
+            ],
+            "Statut": [
+                "Statut"
+            ],
+            "Surpoids (+5KG)": [
+                "Surpoids (+5KG)"
+            ],
+            "Sélectionner": [
+                "Sélectionner"
+            ],
+            "Time between updates this used to set the intervan between requests to update the tracking status for all your packages": [
+                "Temps entre les mises à jour : il permet de définir l’intervalle entre les demandes de mise à jour de l’état de suivi de tous vos colis"
+            ],
+            "Tracking Status": [
+                "L'État De Suivi"
+            ],
+            "Try Product": [
+                "Essayez De Produit"
+            ],
+            "Type d'opération": [
+                "Type d'opération"
+            ],
+            "Type de livraison": [
+                "Type de livraison"
+            ],
+            "Téléphone": [
+                "Téléphone"
+            ],
+            "Téléphone 2": [
+                "Téléphone 2"
+            ],
+            "Update": [
+                "Mise à jour"
+            ],
+            "Update Interval (min)": [
+                "Intervalle de mise à jour (min)"
+            ],
+            "Use customs actions to set tracking and payments status manually": [
+                "Utiliser les actions groupes pour définir manuellement le suivi et le statut des paiements"
+            ],
+            "Valeur déclarée": [
+                "Valeur déclarée"
+            ],
+            "Webhook": [
+                "Webhook"
+            ],
+            "Webhook token has been saved": [
+                "Webhook jeton a été enregistré"
+            ],
+            "Webhook url has been copied": [
+                "Webhook url a été copié"
+            ],
+            "Webhook url you can copy it to use in": [
+                "Webhook url, vous pouvez le copier à utiliser dans"
+            ],
+            "Welcome to bordreau Generator Wizard": [
+                "Bienvenue dans l'assistant de Bordreau Generator\n\n"
+            ],
+            "Wilaya": [
+                "Au niveau de la Wilaya"
+            ],
+            "Select a City": [
+                "Sélectionner une commune"
+            ],
+            "Name": [
+                "Nom"
+            ],
+            "Enter name": [
+                "Entrez le nom"
+            ],
+            "Phone": [
+                "Téléphone"
+            ],
+            "Enter phone number": [
+                "Entrez le numéro de téléphone"
+            ],
+            "Remove contact": [
+                "Supprimer le contact"
+            ],
+            "Add Contact": [
+                "Ajouter un contact"
+            ],
+            "Select a product": [
+                "Sélectionner un produit"
+            ],
+            "Qty": [
+                "Qté"
+            ],
+            "Frais remboursement: %s DA": [
+                "Frais de remboursement: %s DA"
+            ],
+            "Close modal panel": [
+                "Fermer le panneau modal"
+            ],
+            "Duplicate barcode!": [
+                "Code-barres dupliqué !"
+            ],
+            "Order Not Found check if it's an ID or SKU": [
+                "Commande introuvable, vérifiez si c'est un ID ou SKU"
+            ],
+            "Bulk actions": [
+                "Actions groupées"
+            ],
+            "version": [
+                "version"
+            ],
+            "About": [
+                "À propos"
+            ],
+            "Contact": [
+                "Contact"
+            ],
+            "Cancelled": [
+                "Annulé"
+            ],
+            "Delivered": [
+                "Livré"
+            ],
+            "From Wilaya": [
+                "Au niveau de la Wilaya"
+            ],
+            "Livreur": [
+                "Livré"
+            ],
+            "Choisis une livreur": [
+                "Choisis une option"
+            ],
+            "Webhook has been configured successfully": [
+                "Webhook url a été copié"
+            ],
+            "Welcome !": [
+                "Bienvenu!"
+            ],
+            "Bordereau Generator is here to redefine your shipping experience, consolidating complex tasks into intuitive actions, all while saving time and reducing errors.": [
+                "Bordereau Generator est là pour redéfinir votre expérience d’expédition, en consolidant les tâches complexes en actions intuitives, tout en gagnant du temps et en réduisant les erreurs."
+            ],
+            "Quick Start Guide": [
+                "Guide de Démarrage Rapide"
+            ],
+            "New to Bordereau Generator? Follow these steps to get started:": [
+                "Nouveau sur Bordereau Generator ? Suivez ces étapes pour commencer :"
+            ],
+            "Configure shipping providers": [
+                "Configurer les fournisseurs d'expédition"
+            ],
+            "Set up your default settings": [
+                "Configurer vos paramètres par défaut"
+            ],
+            "Generate your first shipping label": [
+                "Générer votre première étiquette d'expédition"
+            ],
+            "View full documentation →": [
+                "Voir la documentation complète →"
+            ],
+            "Latest Updates": [
+                "Dernières Mises à Jour"
+            ],
+            "Version %s includes:": [
+                "La version %s inclut :"
+            ],
+            "Improved UPS integration": [
+                "Amélioration de l'intégration UPS"
+            ],
+            "Fixed PDF generation bugs": [
+                "Correction des bugs de génération PDF"
+            ],
+            "Added support for bulk label printing": [
+                "Ajout du support d'impression d'étiquettes en masse"
+            ],
+            "View changelog →": [
+                "Voir le journal des modifications →"
+            ],
+            "Need Help?": [
+                "Besoin d'Aide ?"
+            ],
+            "Our support team is ready to assist you with any questions or issues.": [
+                "Notre équipe de support est prête à vous aider avec toutes vos questions ou problèmes."
+            ],
+            "FAQ": [
+                "FAQ"
+            ],
+            "Contact Support": [
+                "Contacter le Support"
+            ],
+            "Developer Docs": [
+                "Documentation Développeur"
+            ],
+            "Homepage": [
+                "Accueil"
+            ],
+            "Shipping Providers": [
+                "Fournisseurs de livraison"
+            ],
+            "Tutorial": [
+                "Tutoriel"
+            ],
+            "Docs": [
+                "Documentation"
+            ],
+            "Getting Started": [
+                "Commencer"
+            ],
+            "API Reference": [
+                "Référence API"
+            ],
+            "Troubleshooting": [
+                "Dépannage"
+            ],
+            "Documentation": [
+                "Documentation"
+            ],
+            "Search documentation...": [
+                "Rechercher dans la documentation..."
+            ],
+            "\"\nmsgstr \"\"\n\"Project-Id-Version: Bordereau Generator\n\"\n\"Report-Msgid-Bugs-To: \n\"\n\"POT-Creation-Date: 2023-11-20 09:25+0000\n\"\n\"PO-Revision-Date: 2024-09-30 20:30+0000\n\"\n\"Last-Translator: Spiringo\n\"\n\"Language-Team: Français\n\"\n\"Language: fr_FR\n\"\n\"MIME-Version: 1.0\n\"\n\"Content-Type: text\/plain; charset=UTF-8\n\"\n\"Content-Transfer-Encoding: 8bit\n\"\n\"Plural-Forms: nplurals=2; plural=n > 1;\n\"\n\"X-Generator: Loco https:\/\/localise.biz\/\n\"\n\"X-Loco-Version: 2.6.11; wp-6.6.2\n\"\n\"X-Domain: woo-bordereau-generator\n\"\n\n#: src\/admin\/js\/components\/BordereauSelector.jsx:1079\nmsgid \"Pickup": [
+                "Ramassage"
+            ],
+            "Ecommerce": [
+                "\"\n\n#: src\/admin\/js\/components\/BordereauSelector.jsx:1129\nmsgid "
+            ],
+            "Dropship": [
+                "\"\n\n#: src\/admin\/js\/components\/BordereauSelector.jsx:1142\nmsgid "
+            ],
+            "\"\n\"Il est préférable de désactiver l'assurance si la valeur de votre colis est \"\n\"inférieure à 5000 DA.": [
+                "\"\n"
+            ],
+            "The product cache has been cleared you can reload the page now": [
+                "\"\n\n#: src\/admin\/js\/components\/BordereauSelector.jsx:1502\nmsgid "
+            ],
+            "\"\n\"Select From Wilaya in case you want to change the default wilaya of your \"\n\"store": [
+                "\"\n\n#: src\/admin\/js\/components\/BordereauSelector.jsx:1555\nmsgid "
+            ],
+            "Select warehouse product": [
+                "\"\n\n#: src\/admin\/js\/components\/WebhookPopup.jsx:109\nmsgid "
+            ],
+            "\"\n\"This webhook URL will be automatically registered with ZR Express 2.0. You \"\n\"can optionally provide a security token.": [
+                "\"\n\n#: src\/admin\/js\/components\/WebhookPopup.jsx:126\nmsgid "
+            ],
+            "Webhook Signing Secret": [
+                "\"\n\n#: src\/admin\/js\/components\/WebhookPopup.jsx:138\nmsgid "
+            ],
+            "Signing secret from ZR Express dashboard": [
+                "\"\n\n#: src\/admin\/js\/components\/WebhookPopup.jsx:143\nmsgid "
+            ],
+            "\"\n\"The signing secret will be saved automatically if returned by the API, or \"\n\"you can enter it manually from your ZR Express webhook settings": [
+                "\"\n\n#: src\/admin\/js\/components\/WebhookPopup.jsx:172\nmsgid "
+            ],
+            "Failed to configure webhook": [
+                "\"\n\n#: src\/admin\/js\/components\/WebhookPopup.jsx:98\nmsgid "
+            ],
+            "\"\n\"Bordereau Generator is here to redefine your shipping experience, \"\n\"consolidating complex tasks into intuitive actions, all while saving time \"\n\"and reducing errors.": [
+                "\"\n"
+            ],
+            "3M Express Flat Rate\"\n#~ msgstr \"3M Express livraison a domicile\"\n\n#~ msgid \"3M Express Flat Rate Shipping method\"\n#~ msgstr \"3M Express méthode d'Expédition livraison a domicile\"\n\n#~ msgid \"3M Express Local Pickup\"\n#~ msgstr \"3M Express livraison au bureau\"\n\n#~ msgid \"3M Express Local Pickup Shipping method\"\n#~ msgstr \"3M Express méthode d'expédition livraison au bureau\"\n\n#~ msgid \"Account Number\"\n#~ msgstr \"Numéro de compte\"\n\n#~ msgid \"Action\"\n#~ msgstr \"Action\"\n\n#~ msgid \"Active mode economic pour Guepex ?\"\n#~ msgstr \"Active mode economic pour Guepex ?\"\n\n#~ msgid \"Add\"\n#~ msgstr \"Ajouter\"\n\n#~ msgid \"Add New Status\"\n#~ msgstr \"Ajouter un nouveau statut\"\n\n#~ msgid \"Add new status\"\n#~ msgstr \"Ajouter un nouveau statut\"\n\n#~ msgid \"Add to bulk action\"\n#~ msgstr \"Ajouter à l'action globale\"\n\n#~ msgid \"Address\"\n#~ msgstr \"Adresse\"\n\n#~ msgid \"address-line1\"\n#~ msgstr \"adresse-ligne 1\"\n\n#~ msgid \"Address:\"\n#~ msgstr \"Adresse\"\n\n#~ msgid \"Ajouter le frais des communes suppliments ?\"\n#~ msgstr \"Ajouter le frais des communes suppliments ?\"\n\n#~ msgid \"Always show address\"\n#~ msgstr \"Toujours afficher l'adresse\"\n\n#~ msgid \"Always show address in the checkout form\"\n#~ msgstr \"Toujours afficher l’adresse dans le formulaire de paiement\"\n\n#~ msgid \"Amount\"\n#~ msgstr \"Montant\"\n\n#~ msgid \"An error has occurred. Please contact the developer \"\n#~ msgstr \"Une erreur s’est produite. Veuillez contacter le développeur \"\n\n#~ msgid \"An error has occurred. Please see log file \"\n#~ msgstr \"Une erreur s’est produite. S’il vous plaît voir le fichier journal \"\n\n#~ msgid \"API Clé\"\n#~ msgstr \"API Clé\"\n\n#~ msgid \"API Token\"\n#~ msgstr \"API Token\"\n\n#~ msgid \"Apply\"\n#~ msgstr \"Appliquer\"\n\n#~ msgid \"Are you sure you want to clear cache ?\"\n#~ msgstr \"Êtes-vous sûr de vouloir effacer le cache ?\"\n\n#~ msgid \"Are you sure you want to clear shipping zones ?\"\n#~ msgstr \"Êtes-vous sûr de vouloir effacer zones de frais de port ?\"\n\n#~ msgid \"\"\n#~ \"Are you sure you want to delete all the custom status ? this cannot be \"\n#~ \"undone!\"\n#~ msgstr \"\"\n#~ \"Êtes-vous sûr de vouloir supprimer tous les statuts personnalisés ? Cela \"\n#~ \"ne peut pas être annulé !\"\n\n#~ msgid \"\"\n#~ \"Are you sure you want to delete this order status ? this cannot be \"\n#~ \"undone !\"\n#~ msgstr \"\"\n#~ \"Êtes-vous sûr de vouloir supprimer tous les statuts personnalisés ? Cela \"\n#~ \"ne peut pas être annulé !\"\n\n#~ msgid \"Authorization\"\n#~ msgstr \"Autorisation\"\n\n#~ msgid \"\"\n#~ \"Auto update allow you to get the latest updates from your shipping \"\n#~ \"provider in the background\"\n#~ msgstr \"\"\n#~ \"La mise à jour automatique vous permet d’obtenir les dernières mises à \"\n#~ \"jour de votre fournisseur d’expédition en arrière-plan\"\n\n#~ msgid \"Auto update orders when the actionSchedule runs\"\n#~ msgstr \"\"\n#~ \"Mise à jour automatique des commandes lors de l’exécution d’actionSchedule\"\n\n#~ msgid \"\"\n#~ \"Automatically insert orders in shipping provider when the status changed\"\n#~ msgstr \"\"\n#~ \"Insérez automatiquement les commandes dans le fournisseur d’expédition \"\n#~ \"lorsque le statut a changé\"\n\n#~ msgid \"Avec Livraison\"\n#~ msgstr \"Avec Livraison\"\n\n#~ msgid \"Avec Livraison (Livraison gratuit sera activé)\"\n#~ msgstr \"Avec Livraison (Livraison gratuit sera activé)\"\n\n#~ msgid \"Barcode Scanner Bulk Action\"\n#~ msgstr \"Scanner De Code À Barres De L'Action Globale\"\n\n#~ msgid \"Bordereau\"\n#~ msgstr \"Bordereau\"\n\n#~ msgid \"Bordereau Generator\"\n#~ msgstr \"Bordereau Generator\"\n\n#~ msgid \"Bordereau Generator requires WooCommerce to be installed and active.\"\n#~ msgstr \"Bordereau Générateur nécessite Thème à être installé et actif.\"\n\n#~ msgid \"Bordereau generator settings\"\n#~ msgstr \"Paramètres du générateur Bordereau\"\n\n#~ msgid \"Bordereau Tracking\"\n#~ msgstr \"Bordereau De Suivi\"\n\n#~ msgid \"Boukraa Mohamed\"\n#~ msgstr \"Boukraa Mohamed\"\n\n#~ msgid \"Bulk Action\"\n#~ msgstr \"Actions groupé\"\n\n#~ msgid \"Bureau de livraison\"\n#~ msgstr \"Bureau de livraison\"\n\n#~ msgid \"Cache has been cleared\"\n#~ msgstr \"Cache a été effacé\"\n\n#~ msgid \"Calcule avec commune suppliment\"\n#~ msgstr \"Calculer avec commune supplément\"\n\n#~ msgid \"Calcule sans commune suppliment\"\n#~ msgstr \"Calculer sans commune supplément\"\n\n#~ msgid \"Center field is required for local pickup.\"\n#~ msgstr \"\"\n#~ \"Le champ bureau de livraison est requis pour la livraison au bureau.\"\n\n#~ msgid \"Center ID\"\n#~ msgstr \"Centre d'ID\"\n\n#~ msgid \"Change status to awaiting shipping\"\n#~ msgstr \"Changement de statut en attente d'expédition\"\n\n#~ msgid \"Change status to dispatched\"\n#~ msgstr \"Changer de statut à distribué\"\n\n#~ msgid \"Change status to payment awaiting\"\n#~ msgstr \"Changer le statut de paiement en attente\"\n\n#~ msgid \"Change status to payment received\"\n#~ msgstr \"Changer le statut de paiement reçu\"\n\n#~ msgid \"Change tracking status to attempt delivery\"\n#~ msgstr \"Changement de l'état de suivi de tentative de livraison\"\n\n#~ msgid \"Change tracking status to delivered\"\n#~ msgstr \"Changement de statut de suivi de livraison\"\n\n#~ msgid \"Change tracking status to dispatched\"\n#~ msgstr \"Le suivi des modifications d'état à distribué\"\n\n#~ msgid \"Change tracking status to failed\"\n#~ msgstr \"Le suivi des modifications d'état de l'échec de la\"\n\n#~ msgid \"Change tracking status to returned\"\n#~ msgstr \"Changement de l'état de suivi du retour des\"\n\n#~ msgid \"Changes saved successfully!\"\n#~ msgstr \"Modifications enregistrées avec succès !\n\"\n\n#~ msgid \"characters max allowed\"\n#~ msgstr \"Nombre maximum de caractères autorisés\"\n\n#~ msgid \"Check for updates\"\n#~ msgstr \"Vérifier les mises à jour\"\n\n#~ msgid \"City\"\n#~ msgstr \"Commune\"\n\n#~ msgid \"Clear Cache\"\n#~ msgstr \"Vider le cache\"\n\n#~ msgid \"Clear Shipping Zones\"\n#~ msgstr \"Claire Zones De Frais De Port\"\n\n#~ msgid \"Client ID\"\n#~ msgstr \"Client ID\"\n\n#~ msgid \"Client Secret\"\n#~ msgstr \"Client Secret\"\n\n#~ msgid \"Comment calculer le cout total ?\"\n#~ msgstr \"Comment calculer le cout total ?\"\n\n#~ msgid \"Conditions\"\n#~ msgstr \"Conditions\"\n\n#~ msgid \"Configure\"\n#~ msgstr \"Configurer\"\n\n#~ msgid \"Cost\"\n#~ msgstr \"Coût\"\n\n#~ msgid \"Cost for flat rate.\"\n#~ msgstr \"Le coût de livraison a domicile.\"\n\n#~ msgid \"Cost for local Pickup.\"\n#~ msgstr \"Coût pour la livraison au bureau.\"\n\n#~ msgid \"Customize the order status as your need\"\n#~ msgstr \"Personnaliser le statut de la commande en fonction de vos besoins\"\n\n#~ msgid \"Customize the plugin to your need\"\n#~ msgstr \"Personnalisez le plugin selon vos besoins\"\n\n#~ msgid \"Date Range\"\n#~ msgstr \"La Plage De Dates\"\n\n#~ msgid \"Default Note\"\n#~ msgstr \"Note Par Défaut\"\n\n#~ msgid \"Default note for all the orders\"\n#~ msgstr \"Note par défaut pour toutes les commandes\"\n\n#~ msgid \"Default Order Status\"\n#~ msgstr \"Statut De Commande Par Défaut\"\n\n#~ msgid \"Default status for the commands you receive\"\n#~ msgstr \"État par défaut des commandes que vous recevez\"\n\n#~ msgid \"Disable Custom Cities\"\n#~ msgstr \"Désactiver Personnalisé Villes\"\n\n#~ msgid \"Disable custom naming the cities\"\n#~ msgstr \"Désactiver la dénomination personnalisée des villes\"\n\n#~ msgid \"Easy and speed Orders\"\n#~ msgstr \"Commandes Easy and speed\"\n\n#~ msgid \"Echèc livraison\"\n#~ msgstr \"Echèc livraison\"\n\n#~ msgid \"Ecotrack Flat Rate\"\n#~ msgstr \"Ecotrack livraison a domicile\"\n\n#~ msgid \"Ecotrack Local Pickup\"\n#~ msgstr \"Ecotrack livraison au bureau\"\n\n#~ msgid \"Elogistia Flat Rate\"\n#~ msgstr \"Elogistia livraison a domicile\"\n\n#~ msgid \"Elogistia Flat Rate Shipping method\"\n#~ msgstr \"Elogistia méthode d'Expédition livraison a domicile\"\n\n#~ msgid \"Elogistia Local Pickup\"\n#~ msgstr \"Elogistia livraison au bureau\"\n\n#~ msgid \"Elogistia Local Pickup Shipping method\"\n#~ msgstr \"Elogistia méthode d'expédition livraison au bureau\"\n\n#~ msgid \"Enable Auto update\"\n#~ msgstr \"Activer la fonction d'Auto mise à jour\"\n\n#~ msgid \"Enable Auto update Orders\"\n#~ msgstr \"Activer la mise à jour Automatique des Commandes\"\n\n#~ msgid \"Enable Automatically insert Order\"\n#~ msgstr \"Permettre d'insérer Automatiquement Afin\"\n\n#~ msgid \"Enable Custom actions\"\n#~ msgstr \"Activer les actions Personnalisées\"\n\n#~ msgid \"Enable custom status\"\n#~ msgstr \"Activer le statut personnalisé\"\n\n#~ msgid \"Enable custom status for your orders like \"attempt delivery\"\"\n#~ msgstr \"\"\n#~ \"Activez un statut personnalisé pour vos commandes, comme \"tentative de \"\n#~ \"livraison\"\n\"\n\n#~ msgid \"Enable Debug\"\n#~ msgstr \"Activer Le Débogage\"\n\n#~ msgid \"Enable debug for better logging\"\n#~ msgstr \"Activer le débogage pour une meilleure journalisation\"\n\n#~ msgid \"Enable Economic Import Shipping Rates\"\n#~ msgstr \"\"\n#~ \"Activer les tarifs d'importation économiques\n\"\n#~ \"\n\"\n\n#~ msgid \"Enable Flat Rate Import Shipping Rates\"\n#~ msgstr \"Importater les tarifs d'expédition pour livraison a domicile\"\n\n#~ msgid \"Enable green list (user rating)\"\n#~ msgstr \"Activer la liste verte (évaluation des utilisateurs)\"\n\n#~ msgid \"\"\n#~ \"Enable green list to check user rating to avoid spammers this will make \"\n#~ \"the order page slower\"\n#~ msgstr \"\"\n#~ \"Activez la liste verte pour vérifier l'évaluation des utilisateurs afin \"\n#~ \"d'éviter les spammeurs, cela rendra la page de commande plus lente.\n\"\n\n#~ msgid \"Enable local pickup agencies import\"\n#~ msgstr \"Permettre d'importation des bureaux de livraison \"\n\n#~ msgid \"Enable Local Pickup Import Shipping Rates\"\n#~ msgstr \"Activer l'Importation des farifs d'expédition livraison au bureau\"\n\n#~ msgid \"Error fetching zones\"\n#~ msgstr \"Erreur lors de la récupération des zones\n\"\n\n#~ msgid \"Error fetching zones. Please try again.\"\n#~ msgstr \"Erreur lors de la récupération des zones. Veuillez réessayer.\n\"\n\n#~ msgid \"Error saving changes. Please try again.\"\n#~ msgstr \"\"\n#~ \"Erreur lors de l'enregistrement des modifications. Veuillez réessayer.\n\"\n\n#~ msgid \"Error updating prices\"\n#~ msgstr \"Erreur lors de la mise à jour des prix\n\"\n\n#~ msgid \"Export Shipping zones\"\n#~ msgstr \"Exporter les zones de livraison\n\"\n\n#~ msgid \"Export shipping zones\"\n#~ msgstr \"Exporter les zones de livraison\n\"\n\n#~ msgid \"Filter by status\"\n#~ msgstr \"Filtrer par statut\"\n\n#~ msgid \"Flat Rate\"\n#~ msgstr \"Livraison a domicile\"\n\n#~ msgid \"Flat rate\"\n#~ msgstr \"Livraison a domicile\"\n\n#~ msgid \"Flat Rate for Ecotrack Shipping method\"\n#~ msgstr \"Méthode d’expédition Ecotrack livraison a domicile\"\n\n#~ msgid \"Flat Rate for Nord et Ouest Express Shipping method\"\n#~ msgstr \"Tarif d’expédition express Nord et Ouest pour livraison a domicile\"\n\n#~ msgid \"Flat Rate Label\"\n#~ msgstr \"Livraison a domicile étiquette\"\n\n#~ msgid \"Flat Rate Shipping method\"\n#~ msgstr \"Méthode d’expédition livraison a domicile\"\n\n#~ msgid \"General Configuration\"\n#~ msgstr \"Configuration Générale\"\n\n#~ msgid \"General Settings\"\n#~ msgstr \"Paramètres Généraux\"\n\n#~ msgid \"Generate slip automatically using Yalidine and EcoTrack API.\"\n#~ msgstr \"Générer slip automatiquement à l'aide de Yalidine et EcoTrack API.\"\n\n#~ msgid \"Google Maps Link\"\n#~ msgstr \"Lien Google Maps\"\n\n#~ msgid \"GPS\"\n#~ msgstr \"GPS\"\n\n#~ msgid \"Green List\"\n#~ msgstr \"La Liste Verte\"\n\n#~ msgid \"Guepex Orders\"\n#~ msgstr \"Commandes Guepex\"\n\n#~ msgid \"Homepage\"\n#~ msgstr \"Page d'accueil\"\n\n#~ msgid \"\"\n#~ \"If you didn't buy the extension please head to amineware.me to buy it\"\n#~ msgstr \"\"\n#~ \"Si vous n'avez pas acheté l'extension, veuillez vous rendre sur \"\n#~ \"amineware.me pour l'acheter\"\n\n#~ msgid \"If you have't found your provider in the list please contact us at\"\n#~ msgstr \"\"\n#~ \"Si vous avez pas trouvé votre fournisseur dans la liste, veuillez nous \"\n#~ \"contacter à\"\n\n#~ msgid \"Import\"\n#~ msgstr \"L'importation\"\n\n#~ msgid \"Import shipping zones\"\n#~ msgstr \"Importer des zones de livraison\n\"\n\n#~ msgid \"Importing\"\n#~ msgstr \"L'importation de\"\n\n#~ msgid \"Importing shipping class has been finished\"\n#~ msgstr \"L'importation d'expédition classe a été terminé\"\n\n#~ msgid \"Importing...\"\n#~ msgstr \"De l'importation...\"\n\n#~ msgid \"Is Economic Shipping company?.\"\n#~ msgstr \"Est-ce une société de livraison économique ?\n\"\n\n#~ msgid \"Is Economic?\"\n#~ msgstr \"Est-ce économique ?\n\"\n\n#~ msgid \"License\"\n#~ msgstr \"Licence\"\n\n#~ msgid \"License key\"\n#~ msgstr \"Clé de licence\"\n\n#~ msgid \"Loading...\"\n#~ msgstr \"Chargement...\"\n\n#~ msgid \"Local Pickup\"\n#~ msgstr \"Livraison au bureau\"\n\n#~ msgid \"Local Pickup for Ecotrack Shipping method\"\n#~ msgstr \"Ecotrack méthode d’expédition livraison au bureau\"\n\n#~ msgid \"Local Pickup for Nord et Ouest Express Shipping method\"\n#~ msgstr \"Nord et Ouest Express méthode d’expédition livraison au bureau\"\n\n#~ msgid \"Local Pickup Label\"\n#~ msgstr \"Étiquette livraison au bureau\"\n\n#~ msgid \"Local Pickup Shipping method\"\n#~ msgstr \"Méthode d’expédition livraison au bureau\"\n\n#~ msgid \"Manager your shipping zones import and export them easily\"\n#~ msgstr \"\"\n#~ \"Gérez vos zones de livraison, importez-les et exportez-les facilement\n\"\n\n#~ msgid \"Maps\"\n#~ msgstr \"Cartes\"\n\n#~| msgid \"Marsa\"\n#~ msgid \"Maps:\"\n#~ msgstr \"Cartes\"\n\n#~ msgid \"Maystro Delivery\"\n#~ msgstr \"Maystro De Livraison\"\n\n#~ msgid \"Maystro Delivery Flat Rate\"\n#~ msgstr \"Maystro Delivery livraison a domicile\"\n\n#~ msgid \"Maystro Delivery Flat Rate Shipping method\"\n#~ msgstr \"Maystro Delivery méthode d'expédition livraison a domicile\"\n\n#~ msgid \"Maystro Delivery Local Pickup\"\n#~ msgstr \"Maystro Delivery livraison au bureau\"\n\n#~ msgid \"Maystro Delivery Local Pickup Shipping method\"\n#~ msgstr \"Maystro Delivery méthode d'expédition livraison au bureau\"\n\n#~ msgid \"Name of Shipping company.\"\n#~ msgstr \"Nom de la société d'Expédition.\"\n\n#~ msgid \"No\"\n#~ msgstr \"Non\"\n\n#~ msgid \"No barcode has been added to this list, scan or type to add\"\n#~ msgstr \"\"\n#~ \"Pas de code-barres a été ajoutée à cette liste, de numérisation ou de \"\n#~ \"type à ajouter\"\n\n#~ msgid \"No orders available.\"\n#~ msgstr \"Pas de commandes disponibles.\"\n\n#~ msgid \"No tracking informations has been found\"\n#~ msgstr \"Aucune information de suivi n'a été trouvée\n\"\n\n#~ msgid \"Non\"\n#~ msgstr \"Non\"\n\n#~ msgid \"Nord et Ouest Express Flat Rate\"\n#~ msgstr \"Nord et Ouest Express livraison a domicile\"\n\n#~ msgid \"Nord et Ouest Express Local Pickup\"\n#~ msgstr \"Nord et Ouest Express livraison au bureau\"\n\n#~ msgid \"Note\"\n#~ msgstr \"Remarque\"\n\n#~ msgid \"Number\"\n#~ msgstr \"Nombre\"\n\n#~ msgid \"Option\"\n#~ msgstr \"Option\"\n\n#~ msgid \"Order\"\n#~ msgstr \"Afin\"\n\n#~ msgid \"Order Notes\"\n#~ msgstr \"Notes de commande\n\"\n\n#~ msgid \"Order Status\"\n#~ msgstr \"Statut De La Commande\"\n\n#~ msgctxt \"Order status\"\n#~ msgid \"Awaiting shipping\"\n#~ msgstr \"En attente d’expédition\"\n\n#~ msgctxt \"Order status\"\n#~ msgid \"Dispatched\"\n#~ msgstr \"Expédié\"\n\n#~ msgctxt \"Order status\"\n#~ msgid \"En cours\"\n#~ msgstr \"En cours\"\n\n#~ msgid \"Order status already exist cannot create the same twice\"\n#~ msgstr \"\"\n#~ \"Le statut de la commande existe déjà ne peut pas créer la même chose deux \"\n#~ \"fois\"\n\n#~ msgid \"Order status created successfully\"\n#~ msgstr \"Statut de la commande créée avec succès\"\n\n#~ msgid \"Order Status Manager\"\n#~ msgstr \"Statut De La Commande Gestionnaire De\"\n\n#~ msgid \"Orders List\"\n#~ msgstr \"Les Commandes De La Liste\"\n\n#~ msgid \"Orders Per Page\"\n#~ msgstr \"Les Commandes Par Page\"\n\n#~ msgid \"Oui\"\n#~ msgstr \"Oui\"\n\n#~ msgid \"Paiement effectué\"\n#~ msgstr \"Paiement effectué\"\n\n#~ msgid \"Paiement en attente\"\n#~ msgstr \"Paiement en attente\"\n\n#~ msgid \"Paiement prêt\"\n#~ msgstr \"Paiement de prêt\"\n\n#~ msgid \"Pas prêt\"\n#~ msgstr \"Pas prêt\"\n\n#~ msgid \"Password\"\n#~ msgstr \"Mot de passe\"\n\n#~ msgid \"Payment\"\n#~ msgstr \"Paiement\"\n\n#~ msgid \"Payment awaiting\"\n#~ msgstr \"Paiement en attente\"\n\n#~ msgid \"Payment not ready\"\n#~ msgstr \"Le paiement n'est pas prêt\"\n\n#~ msgid \"Payment payed\"\n#~ msgstr \"Paiement payé\"\n\n#~ msgid \"Payment ready\"\n#~ msgstr \"De paiement de prêt\"\n\n#~ msgid \"Payment receivable\"\n#~ msgstr \"Paiement à recevoir\"\n\n#~ msgid \"Payment received\"\n#~ msgstr \"Paiement reçu\"\n\n#~ msgid \"Payment Status\"\n#~ msgstr \"L'État De Paiement\"\n\n#~ msgid \"Payé\"\n#~ msgstr \"Payé\"\n\n#~ msgid \"Phone:\"\n#~ msgstr \"Téléphone\"\n\n#~ msgid \"\"\n#~ \"Please confirm if you wish to reset your shipping conditions. Be aware \"\n#~ \"that this action is irreversible.\"\n#~ msgstr \"\"\n#~ \"Merci de confirmer si vous souhaitez réinitialiser vos conditions de \"\n#~ \"livraison. Sachez que cette action est irréversible.\"\n\n#~ msgid \"\"\n#~ \"Please insert the license you receive in your email to enable the \"\n#~ \"extension\"\n#~ msgstr \"\"\n#~ \"Veuillez insérer la licence que vous avez reçue par email pour activer \"\n#~ \"l'extension\n\"\n\n#~ msgid \"Please select a center\"\n#~ msgstr \"Veuillez sélectionner un centre de\"\n\n#~ msgid \"Please select a city\"\n#~ msgstr \"Veuillez choisir une commune\"\n\n#~ msgid \"Press \"Enter\" after scanning or typing to add the barcode\"\n#~ msgstr \"\"\n#~ \"Appuyez sur \"Entrée\" après la numérisation ou la saisie d'ajouter le \"\n#~ \"code à barres\"\n\n#~ msgid \"Preview\"\n#~ msgstr \"Aperçu\"\n\n#~ msgid \"Print\"\n#~ msgstr \"Imprimer\"\n\n#~ msgid \"Print Labels\"\n#~ msgstr \"Imprimer Des Étiquettes\"\n\n#~ msgid \"Product String Format\"\n#~ msgstr \"Produit Format De Chaîne De Caractères\"\n\n#~ msgid \"Providers\"\n#~ msgstr \"Les fournisseurs de\"\n\n#~ msgid \"Quick search...\"\n#~ msgstr \"Recherche rapide...\"\n\n#~ msgid \"Refresh\"\n#~ msgstr \"Actualiser\"\n\n#~ msgid \"Reset Shipping condition\"\n#~ msgstr \"Réinitialisation de Livraison condition\"\n\n#~ msgid \"Reset status\"\n#~ msgstr \"Réinitialiser les états de la commande\"\n\n#~ msgid \"Sans Livraison\"\n#~ msgstr \"Sans Livraison\"\n\n#~ msgid \"Save Changes\"\n#~ msgstr \"Enregistrer les modifications\n\"\n\n#~ msgid \"Search By ID\"\n#~ msgstr \"Recherche Par ID\"\n\n#~ msgid \"Search By SKU\"\n#~ msgstr \"Recherche Par référence SKU\"\n\n#~ msgid \"Search by tracking\"\n#~ msgstr \"Recherche par le suivi de\"\n\n#~ msgid \"Select a state\"\n#~ msgstr \"Sélectionner une wilaya\"\n\n#~ msgid \"Select agency\"\n#~ msgstr \"Sélectionner un bureau de livraison\"\n\n#~ msgid \"Select City\"\n#~ msgstr \"Sélectionner une commune\"\n\n#~ msgid \"Select state\"\n#~ msgstr \"Sélectionner une wilaya\"\n\n#~ msgid \"Select Status\"\n#~ msgstr \"Sélectionnez Le Statut De\"\n\n#~ msgid \"\"\n#~ \"Select the status you want to use so when the order change to that status \"\n#~ \"it will be added to the shipping company\"\n#~ msgstr \"\"\n#~ \"Sélectionnez le statut que vous souhaitez utiliser, de sorte que lorsque \"\n#~ \"la commande passera à ce statut, il sera ajouté à la société de transport\"\n\n#~ msgid \"Settings\"\n#~ msgstr \"Réglages\"\n\n#~ msgid \"Settings has been saved\"\n#~ msgstr \"Les paramètres ont été enregistrés\"\n\n#~ msgid \"Settings has been updated\"\n#~ msgstr \"Paramètres a été mis à jour\"\n\n#~ msgid \"Shipping Company\"\n#~ msgstr \"Société De Transport\"\n\n#~| msgid \"Shipping Company Slug\"\n#~ msgid \"Shipping company.\"\n#~ msgstr \"Société de livraison\"\n\n#~ msgid \"Shipping Price Manager\"\n#~ msgstr \"Gestionnaire de prix de livraison\n\"\n\n#~ msgid \"Shipping Zones\"\n#~ msgstr \"Zones de livraison\n\"\n\n#~ msgid \"Shipping Zones has been cleared\"\n#~ msgstr \"L'expédition des Zones a été effacé\"\n\n#~ msgid \"Signature\"\n#~ msgstr \"Signature\"\n\n#~ msgid \"Slug of Shipping company.\"\n#~ msgstr \"Slug de la société d'Expédition.\"\n\n#~ msgid \"Speedmail Orders\"\n#~ msgstr \"Commandes Speedmail\"\n\n#~ msgid \"State\"\n#~ msgstr \"Wilaya\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"01  Adrar أدرار\"\n#~ msgstr \"01 Adrar أدرار\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"02\tChlef  الشلف\"\n#~ msgstr \"02 Chlef الشلف\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"03\tLaghouat\tالأغواط\"\n#~ msgstr \"03 Laghouat الأغواط\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"04\tOum El Bouaghi\tأم البواقي\"\n#~ msgstr \"04 Oum El Bouaghi أم البواقي\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"05\tBatna\tباتنة\"\n#~ msgstr \"05 Batna باتنة\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"06\tBéjaïa\tبجاية\"\n#~ msgstr \"06 Béjaïa بجاية\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"07\tBiskra\tبسكرة\"\n#~ msgstr \"07 Biskra بسكرة\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"08\tBéchar\tبشار\"\n#~ msgstr \"08 Béchar بشار\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"09\tBlida\tالبليدة\"\n#~ msgstr \"09 Blida البليدة\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"10\tBouïra\tالبويرة\t\"\n#~ msgstr \"10  Bouïra\tالبويرة\t\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"11\tTamanrasset\tتمنراست\"\n#~ msgstr \"11 Tamanrasset تمنراست\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"12\tTébessa\tتبسة\"\n#~ msgstr \"12 Tébessa تبسة\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"13\tTlemcen\tتلمسان\"\n#~ msgstr \"13 Tlemcen تلمسان\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"14\tTiaret\tتيارت\"\n#~ msgstr \"14 Tiaret تيارت\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"15\tTizi Ouzou\tتيزي وزو\"\n#~ msgstr \"15 Tizi Ouzou تيزي وزو\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"16\tAlger\tالجزائر\"\n#~ msgstr \"16 Alger الجزائر\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"17\tDjelfa\tالجلفة\"\n#~ msgstr \"17 Djelfa الجلفة\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"20\tSaïda\tسعيدة\"\n#~ msgstr \"20 Saïda سعيدة\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"21\tSkikda\tسكيكدة\"\n#~ msgstr \"21 Skikda سكيكدة\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"22\tSidi Bel Abbès\tسيدي بلعباس\"\n#~ msgstr \"22 Sidi Bel Abbès سيدي بلعباس\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"23\tAnnaba\tعنابة\"\n#~ msgstr \"23 Annaba عنابة\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"24\tGuelma\tقالمة\"\n#~ msgstr \"24 Guelma قالمة\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"25\tConstantine\tقسنطينة\"\n#~ msgstr \"25 Constantin قسنطينة\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"26\tMédéa\tالمدية\"\n#~ msgstr \"26 Médéa المدية\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"27\tMostaganem\tمستغانم\"\n#~ msgstr \"27 Mostaganem مستغانم\"\n\n#, fuzzy\n#~| msgid \"28\tM'Sila\tالمسيلة\"\n#~ msgctxt \"states\"\n#~ msgid \"28\tM\\'Sila\tالمسيلة\"\n#~ msgstr \"28 M Sila المسيلة\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"29\tMascara\tمعسكر\"\n#~ msgstr \"29 Mascara معسكر\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"30\tOuargla\tورقلة\"\n#~ msgstr \"30 Ouargla ورقلة\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"32\tEl Bayadh\tالبيض\"\n#~ msgstr \"32 El Bayadh البيض\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"33\tIllizi\tاليزي\"\n#~ msgstr \"33 Illizi اليزي\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"34\tBordj Bou Arréridj\tبرج بوعريريج\"\n#~ msgstr \"34 Bordj Bou Arréridj برج بوعريريج\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"35\tBoumerdès\tبومرداس\"\n#~ msgstr \"35 Boumerdès بومرداس\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"36\tEl Tarf\tالطارف\"\n#~ msgstr \"36 El Tarf الطارف\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"37\tTindouf\tتندوف\"\n#~ msgstr \"37 Tindouf تندوف\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"38\tTissemsilt\tتسمسيلت\"\n#~ msgstr \"38 Tissemsilt تسمسيلت\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"39\tEl Oued\tالوادي\"\n#~ msgstr \"39 El Oued الوادي\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"40\tKhenchela\tخنشلة\"\n#~ msgstr \"40 Khenchela خنشلة\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"41\tSouk Ahras\tسوق أهراس\"\n#~ msgstr \"41 Souk Ahras سوق أهراس\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"42\tTipaza\tتيبازة\"\n#~ msgstr \"42 Tipaza تيبازة\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"44\tAïn Defla\tعين الدفلى\"\n#~ msgstr \"44 Aïn Defla عين الدفلى\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"45\tNaâma\tالنعامة\"\n#~ msgstr \"45 Naâma النعامة\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"46\tAïn Témouchent\tعين تموشنت\"\n#~ msgstr \"46 Aïn Témouchent عين تموشنت\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"47\tGhardaïa\tغرداية\"\n#~ msgstr \"47 Ghardaïa غرداية\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"48\tRelizane\tغليزان\"\n#~ msgstr \"48 Relizane غليزان\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"49\tTimimoun\tتيميمون\"\n#~ msgstr \"49 Timimoun تيميمون\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"50\tBordj Baji Mokhtar\tبرج باجي مختار\"\n#~ msgstr \"50 Bordj Baji Mokhtar برج باجي مختار\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"51\tOuled Djellal\tأولاد جلال\"\n#~ msgstr \"51 Ouled Djellal أولاد جلال\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"52\tBéni Abbès\tبني عباس\"\n#~ msgstr \"52 Béni Abbès بني عباس\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"53\tIn Salah\tعين صالح\"\n#~ msgstr \"53 In Salah عين صالح\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"54\tIn Guezzam\tعين قزّام\"\n#~ msgstr \"54 Dans Guezzam عين قزّام\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"55\tTouggourt\tتقرت\"\n#~ msgstr \"55 Touggourt تقرت\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"57\tEl M'Ghair\tالمغير\"\n#~ msgstr \"57 El M'Ghair المغير\"\n\n#, fuzzy\n#~ msgctxt \"states\"\n#~ msgid \"58\tEl Menia\tالمنيعة\"\n#~ msgstr \"58 El Menia المنيعة\"\n\n#~ msgid \"Status\"\n#~ msgstr \"Statut\"\n\n#~ msgid \"Status background\"\n#~ msgstr \"Le statut d'arrière-plan\"\n\n#~ msgid \"Status Color\"\n#~ msgstr \"Couleur De La Condition De\"\n\n#~ msgid \"Status Name\"\n#~ msgstr \"Nom D'État\"\n\n#~ msgid \"Status slug\"\n#~ msgstr \"Le statut de slug\"\n\n#~ msgid \"Street address\"\n#~ msgstr \"Adresse\"\n\n#~ msgid \"Subtract\"\n#~ msgstr \"Soustraire\"\n\n#~ msgid \"Supplément commune\"\n#~ msgstr \"Supplément de la commune\"\n\n#~ msgid \"Sync\"\n#~ msgstr \"Synchronisation\"\n\n#~ msgid \"Sélectionner la taille de bordereau\"\n#~ msgstr \"Sélectionner la taille de bordereau\"\n\n#~ msgid \"Sélectionnez un bureau\"\n#~ msgstr \"Sélectionnez un bureau\n\"\n\n#~ msgid \"Tentative échouée\"\n#~ msgstr \"Tentative échouée\"\n\n#~ msgid \"Thank you for purchasing Bordreau Generator\"\n#~ msgstr \"Merci d'avoir acheté Bordreau Generator\n\"\n\n#~ msgid \"There is no token has been set\"\n#~ msgstr \"Il n'y a pas de jeton a été mis en\"\n\n#~ msgid \"This controls the title which the user sees during checkout.\"\n#~ msgstr \"Ceci contrôle le titre qui voit l'utilisateur lors de la commande.\"\n\n#~ msgid \"This will save the center ID for the agency.\"\n#~ msgstr \"Cela permettra d'économiser le centre d'identification de l'agence.\"\n\n#~ msgid \"This will show the address of the local pickup in the checkout.\"\n#~ msgstr \"\"\n#~ \"Cela permettra d'afficher l'adresse du local au livraison au bureau.\"\n\n#~ msgid \"This will show the geolocation lat,lng of the local pickup.\"\n#~ msgstr \"\"\n#~ \"Cela affichera la géolocalisation (lat, lng) du point de retrait local.\n\"\n\n#~ msgid \"This will show the geolocation of the local pickup.\"\n#~ msgstr \"\"\n#~ \"Cela permettra de montrer à la géolocalisation de la local de livraison \"\n#~ \"au bureau.\"\n\n#~ msgid \"This will show the link maps of the local pickup in the checkout.\"\n#~ msgstr \"\"\n#~ \"Cela affichera le lien des cartes du point de retrait local dans la \"\n#~ \"caisse.\n\"\n\n#~ msgid \"This will show the phone of the local pickup in the checkout.\"\n#~ msgstr \"\"\n#~ \"Cela affichera le numéro de téléphone du point de retrait local dans la \"\n#~ \"caisse.\n\"\n\n#~ msgid \"\"\n#~ \"Time between updates this used to set the intervan between requests to \"\n#~ \"update the tracking status for all your packages\"\n#~ msgstr \"\"\n#~ \"Temps entre les mises à jour : il permet de définir l’intervalle entre \"\n#~ \"les demandes de mise à jour de l’état de suivi de tous vos colis\"\n\n#~ msgid \"Title\"\n#~ msgstr \"Titre\"\n\n#~ msgid \"Token has been saved\"\n#~ msgstr \"Jeton a été enregistré\"\n\n#~ msgid \"Tracking\"\n#~ msgstr \"Suivi\"\n\n#~ msgid \"Tracking details\"\n#~ msgstr \"Les détails de suivi\"\n\n#~ msgid \"Tracking Number\"\n#~ msgstr \"Numéro De Suivi\"\n\n#~ msgid \"Tracking number has been deleted successfully\"\n#~ msgstr \"Numéro de suivi a été supprimé avec succès\"\n\n#~ msgid \"Tracking number has been successfully created\"\n#~ msgstr \"Numéro de suivi a été créé avec succès\"\n\n#~ msgid \"Tracking Status\"\n#~ msgstr \"L'État De Suivi\"\n\n#~ msgid \"Tutorial\"\n#~ msgstr \"Tutoriel\"\n\n#~ msgid \"Type or scan your barcode\"\n#~ msgstr \"Type ou de scan de code-barres\"\n\n#~ msgid \"Unable to reset all the order status\"\n#~ msgstr \"Impossible de réinitialiser tous les statuts de la commande\"\n\n#~ msgid \"Update\"\n#~ msgstr \"Mise à jour\"\n\n#~ msgid \"Update Interval (min)\"\n#~ msgstr \"Intervalle de mise à jour (min)\"\n\n#~ msgid \"Use customs actions to set tracking and payments status manually\"\n#~ msgstr \"\"\n#~ \"Utiliser les actions groupes pour définir manuellement le suivi et le \"\n#~ \"statut des paiements\"\n\n#~ msgid \"Username\"\n#~ msgstr \"Nom d’utilisateur\"\n\n#~ msgid \"View on Google Maps\"\n#~ msgstr \"Voir sur Google Maps\n\"\n\n#~ msgid \"Votre API ID de Maystro Delivery voir avec le service commercial\"\n#~ msgstr \"Votre API ID de Maystro Delivery voir avec le service commercial\"\n\n#~ msgid \"Votre API Key pour acceder au platform \"\n#~ msgstr \"Votre API Key pour acceder au platform \"\n\n#~ msgid \"Votre API Token de %s voir dans votre espace à Configuration API\"\n#~ msgstr \"Votre API Token de %s voir dans votre espace à Configuration API\"\n\n#~ msgid \"Votre API Token de Maystro Delivery voir avec le service commercial\"\n#~ msgstr \"Votre API Token de Maystro Delivery voir avec le service commercial\"\n\n#~ msgid \"\"\n#~ \"Votre API Token de Nord et ouest express voir dans votre espace à \"\n#~ \"Configuration API\"\n#~ msgstr \"\"\n#~ \"Votre API Token de Nord et ouest express voir dans votre espace à \"\n#~ \"Configuration API\"\n\n#~ msgid \"\"\n#~ \"Votre Client ID de %s sera visible apres cree une application voir le \"\n#~ \"video formation\"\n#~ msgstr \"\"\n#~ \"Votre Client ID de %s sera visible apres cree une application voir le \"\n#~ \"video formation\"\n\n#~ msgid \"\"\n#~ \"Votre Client Secret de %s sera visible apres cree une application voir le \"\n#~ \"video formation\"\n#~ msgstr \"\"\n#~ \"Votre Client Secret de %s sera visible apres cree une application voir le \"\n#~ \"video formation\"\n\n#~ msgid \"\"\n#~ \"Votre Guid Token de Nord et ouest express voir dans votre espace à \"\n#~ \"Configuration API\"\n#~ msgstr \"\"\n#~ \"Votre Guid Token de Nord et ouest express voir dans votre espace à \"\n#~ \"Configuration API\"\n\n#~ msgid \"Votre Mot de pass pour acceder au platform\"\n#~ msgstr \"Votre Mot de pass pour acceder au platform \"\n\n#~ msgid \"Votre Mot de pass pour acceder au platform \"\n#~ msgstr \"Votre Mot de pass pour acceder au platform \"\n\n#~ msgid \"Votre Nom d'utilisateur pour acceder au platform\"\n#~ msgstr \"Votre Nom d’utilisateur pour accéder au platform \"\n\n#~ msgid \"Votre Nom d'utilisateur pour acceder au platform \"\n#~ msgstr \"Votre Nom d’utilisateur pour accéder au platform \"\n\n#~ msgid \"Votre Number de compte pour %s\"\n#~ msgstr \"Votre numero de compt pour %s\"\n\n#~ msgid \"Votre Phone Number de compte pour %s\"\n#~ msgstr \"Votre Telephone pour %s\"\n\n#~ msgid \"Votre Store name sur %s\"\n#~ msgstr \"Nom de votre boutique sur %s\"\n\n#~ msgid \"\"\n#~ \"Voulez-vous activer le calcule le Surpoids (+5KG) pour %s  au formulaire \"\n#~ \"de checkout?\"\n#~ msgstr \"\"\n#~ \"Voulez-vous activer le calcule le Surpoids (+5KG) pour %s  au formulaire \"\n#~ \"de checkout?\"\n\n#~ msgid \"Voulez-vous activer le calcule le Surpoids (+5KG) pour %s ?\"\n#~ msgstr \"Voulez-vous activer le calcule le Surpoids (+5KG) pour %s ?\"\n\n#~ msgid \"Vous avez un stock avec %s ?\"\n#~ msgstr \"Vous avez un stock avec %s ?\"\n\n#~ msgid \"Vous avez un stock avec Nordouest ?\"\n#~ msgstr \"Vous avez un stock avec Nordouest ?\"\n\n#~ msgid \"Vous voulez active la confirmation ?\"\n#~ msgstr \"Vous voulez active la confirmation ?\"\n\n#~ msgid \"Vous voulez afficher les centers?\"\n#~ msgstr \"Vous voulez afficher les centers?\"\n\n#~ msgid \"Vous voulez geré les produits dans la commande ?\"\n#~ msgstr \"Vous voulez gérer les produits dans la commande ?\"\n\n#~ msgid \"WebHook\"\n#~ msgstr \"WebHook\"\n\n#~ msgid \"Webhook Token\"\n#~ msgstr \"Jeton de webhook\"\n\n#~ msgid \"Webhook token has been saved\"\n#~ msgstr \"Webhook jeton a été enregistré\"\n\n#~ msgid \"Welcome to bordreau Generator Wizard\"\n#~ msgstr \"\"\n#~ \"Bienvenue dans l'assistant de Bordreau Generator\n\"\n#~ \"\n\"\n\n#~ msgid \"Wilaya has not been selected\"\n#~ msgstr \"Au niveau de la Wilaya n'a pas été sélectionné\"\n\n#~ msgid \"Yalidine Flat Rate\"\n#~ msgstr \"Yalidine livraison a domicile\"\n\n#~ msgid \"Yalidine Flat Rate Shipping method\"\n#~ msgstr \"Yalidine méthode d'expédition livraison a domicile\"\n\n#~ msgid \"Yalidine Local Pickup\"\n#~ msgstr \"Yalidine livraison au bureau\"\n\n#~ msgid \"Yalidine Local Pickup Shipping method\"\n#~ msgstr \"Yalidine méthode d'expédition livraison au bureau\"\n\n#~ msgid \"Yalidine Orders\"\n#~ msgstr \"Commandes Yalidine\"\n\n#~ msgid \"Yalitec Orders\"\n#~ msgstr \"Commandes Yalitec\"\n\n#~ msgid \"Yes\"\n#~ msgstr \"Oui\"\n\n#~ msgid \"Your products has been synced with Maystro delivery\"\n#~ msgstr \"Vos produits ont été synchronisées avec Maystro de livraison\"\n\n#~ msgid \"ZR Express Flat Rate\"\n#~ msgstr \"ZR Express livraison a domicile\"\n\n#~ msgid \"ZR Express Flat Rate Shipping method\"\n#~ msgstr \"ZR Express méthode d'Expédition livraison a domicile\"\n\n#~ msgid \"ZR Express Local Pickup\"\n#~ msgstr \"ZR Express, méthode d'expédition livraison au bureau\"\n\n#~ msgid \"ZR Express Local Pickup Shipping method\"\n#~ msgstr \"ZR Express, méthode d'expédition livraison au bureau\"\n\n#: src\/admin\/js\/pages\/homepage.jsx:92\nmsgid \"Homepage": [
+                "Accueil"
+            ],
+            "Duplicated": [
+                "Dupliqué"
+            ],
+            "Active": [
+                "Actif"
+            ],
+            "Visit Website": [
+                "Visiter le site"
+            ],
+            "Off": [
+                "Désactivé"
+            ],
+            "On": [
+                "Activé"
+            ],
+            "Enable provider": [
+                "Activer le fournisseur"
+            ],
+            "Import Orders": [
+                "Importer les commandes"
+            ],
+            "Provider Settings": [
+                "Paramètres du fournisseur"
+            ],
+            "Sync Products": [
+                "Synchroniser les produits"
+            ],
+            "Configure Webhook": [
+                "Configurer le Webhook"
+            ],
+            "Close panel": [
+                "Fermer le panneau"
+            ],
+            "API Credentials": [
+                "Identifiants API"
+            ],
+            "Enter your API credentials to connect with this provider": [
+                "Entrez vos identifiants API pour vous connecter avec ce fournisseur"
+            ],
+            "Configure provider credentials and options": [
+                "Configurer les identifiants et options du fournisseur"
+            ],
+            "Saving...": [
+                "Enregistrement..."
+            ],
+            "Save Settings": [
+                "Enregistrer les paramètres"
+            ],
+            "Import Options": [
+                "Options d'importation"
+            ],
+            "Select which shipping rates to import": [
+                "Sélectionnez les tarifs d'expédition à importer"
+            ],
+            "Flat Rate Shipping": [
+                "Expédition forfaitaire"
+            ],
+            "Import flat rate shipping prices": [
+                "Importer les prix d'expédition forfaitaires"
+            ],
+            "Local Pickup": [
+                "Retrait local"
+            ],
+            "Import local pickup (stopdesk) shipping prices": [
+                "Importer les prix d'expédition de retrait local"
+            ],
+            "Import by Agency": [
+                "Importer par agence"
+            ],
+            "Create separate shipping zones for each agency": [
+                "Créer des zones d'expédition séparées pour chaque agence"
+            ],
+            "Shipping Labels": [
+                "Étiquettes d'expédition"
+            ],
+            "Customize the labels shown to customers": [
+                "Personnaliser les étiquettes affichées aux clients"
+            ],
+            "Import shipping rates and zones from provider": [
+                "Importer les tarifs et zones d'expédition du fournisseur"
+            ],
+            "Import Rates": [
+                "Importer les tarifs"
+            ],
+            "Webhook URL": [
+                "URL du Webhook"
+            ],
+            "Copy this URL and paste it in your provider's webhook settings": [
+                "Copiez cette URL et collez-la dans les paramètres webhook de votre fournisseur"
+            ],
+            "Copied!": [
+                "Copié!"
+            ],
+            "Copy": [
+                "Copier"
+            ],
+            "How to use": [
+                "Comment utiliser"
+            ],
+            "Copy the webhook URL above": [
+                "Copiez l'URL du webhook ci-dessus"
+            ],
+            "Go to your provider's dashboard": [
+                "Allez dans le tableau de bord de votre fournisseur"
+            ],
+            "Find the webhook\/integration settings": [
+                "Trouvez les paramètres webhook\/intégration"
+            ],
+            "Paste the URL and save": [
+                "Collez l'URL et enregistrez"
+            ],
+            "Security Settings": [
+                "Paramètres de sécurité"
+            ],
+            "Optional security token for webhook verification": [
+                "Jeton de sécurité optionnel pour la vérification du webhook"
+            ],
+            "Secret Key": [
+                "Clé secrète"
+            ],
+            "Set up automatic order status updates": [
+                "Configurer les mises à jour automatiques du statut des commandes"
+            ],
+            "Save Webhook": [
+                "Enregistrer le Webhook"
+            ],
+            "Import Shipping Prices": [
+                "Importer les tarifs d'expédition"
+            ],
+            "Prices": [
+                "Tarifs"
+            ],
+            "Homepage": [
+                "Accueil"
+            ],
+            "Shipping Providers": [
+                "Transporteurs"
+            ],
+            "Settings": [
+                "Paramètres"
+            ],
+            "Tutorial": [
+                "Tutoriel"
+            ],
+            "Welcome back!": [
+                "Bienvenue !"
+            ],
+            "Manage your shipping labels and track your orders from one place.": [
+                "Gérez vos bordereaux d'expédition et suivez vos commandes depuis un seul endroit."
+            ],
+            "Create New Label": [
+                "Créer un nouveau bordereau"
+            ],
+            "Quick Actions": [
+                "Actions rapides"
+            ],
+            "Create Shipping Label": [
+                "Créer un bordereau"
+            ],
+            "Generate a new label for an order": [
+                "Générer un nouveau bordereau pour une commande"
+            ],
+            "View Orders": [
+                "Voir les commandes"
+            ],
+            "Manage all your orders": [
+                "Gérer toutes vos commandes"
+            ],
+            "Configure Providers": [
+                "Configurer les transporteurs"
+            ],
+            "Set up shipping companies": [
+                "Configurer les sociétés de livraison"
+            ],
+            "Import Shipping Rates": [
+                "Importer les tarifs de livraison"
+            ],
+            "Sync rates from providers": [
+                "Synchroniser les tarifs des transporteurs"
+            ],
+            "Active Providers": [
+                "Transporteurs actifs"
+            ],
+            "Manage": [
+                "Gérer"
+            ],
+            "more": [
+                "plus"
+            ],
+            "No providers configured yet": [
+                "Aucun transporteur configuré"
+            ],
+            "Add Provider": [
+                "Ajouter un transporteur"
+            ],
+            "Getting Started": [
+                "Démarrage"
+            ],
+            "Watch this quick tutorial to learn how to use Bordereau Generator": [
+                "Regardez ce tutoriel rapide pour apprendre à utiliser Bordereau Generator"
+            ],
+            "Setup Checklist": [
+                "Liste de configuration"
+            ],
+            "Activate License": [
+                "Activer la licence"
+            ],
+            "Enter your license key": [
+                "Entrez votre clé de licence"
+            ],
+            "Configure a shipping company": [
+                "Configurer une société de livraison"
+            ],
+            "Import Rates": [
+                "Importer les tarifs"
+            ],
+            "Sync shipping zones & prices": [
+                "Synchroniser les zones et prix de livraison"
+            ],
+            "Resources": [
+                "Ressources"
+            ],
+            "Documentation": [
+                "Documentation"
+            ],
+            "Learn how to use all features": [
+                "Apprenez à utiliser toutes les fonctionnalités"
+            ],
+            "Contact Support": [
+                "Contacter le support"
+            ],
+            "Get help from our team": [
+                "Obtenez de l'aide de notre équipe"
+            ],
+            "Video Tutorials": [
+                "Tutoriels vidéo"
+            ],
+            "Step-by-step guides": [
+                "Guides étape par étape"
+            ],
+            "What's New": [
+                "Nouveautés"
+            ],
+            "Version %s": [
+                "Version %s"
+            ],
+            "New onboarding wizard": [
+                "Nouvel assistant de configuration"
+            ],
+            "Improved dashboard": [
+                "Tableau de bord amélioré"
+            ],
+            "Bug fixes & performance": [
+                "Corrections et performances"
+            ],
+            "Are you sure you want to clear cache?": [
+                "Êtes-vous sûr de vouloir vider le cache ?"
+            ],
+            "Cache has been cleared": [
+                "Le cache a été vidé"
+            ],
+            "Error occurred, contact the developer": [
+                "Une erreur s'est produite, contactez le développeur"
+            ],
+            "Clear Cache": [
+                "Vider le cache"
+            ],
+            "by Amineware": [
+                "par Amineware"
+            ],
+            "Support": [
+                "Support"
+            ],
+            "Welcome to Bordereau Generator": [
+                "Bienvenue dans Bordereau Generator"
+            ],
+            "We will help you set up the plugin to connect your store with shipping companies in a few simple steps": [
+                "Nous vous aiderons à configurer le plugin pour connecter votre boutique aux transporteurs en quelques étapes simples"
+            ],
+            "Let's Start": [
+                "Commencer"
+            ],
+            "Please enter your license key": [
+                "Veuillez entrer votre clé de licence"
+            ],
+            "License activated successfully": [
+                "Licence activée avec succès"
+            ],
+            "License activation failed": [
+                "Échec de l'activation de la licence"
+            ],
+            "An error occurred while activating the license": [
+                "Une erreur s'est produite lors de l'activation de la licence"
+            ],
+            "License is active": [
+                "Licence active"
+            ],
+            "License Key": [
+                "Clé de licence"
+            ],
+            "Activating...": [
+                "Activation en cours..."
+            ],
+            "Activate": [
+                "Activer"
+            ],
+            "Back": [
+                "Retour"
+            ],
+            "Next": [
+                "Suivant"
+            ],
+            "Choose Shipping Provider": [
+                "Choisir un transporteur"
+            ],
+            "Select the main shipping company you want to set up": [
+                "Sélectionnez le transporteur principal que vous souhaitez configurer"
+            ],
+            "Search for a company...": [
+                "Rechercher une société..."
+            ],
+            "Configure": [
+                "Configurer"
+            ],
+            "Enter API credentials to connect with the company": [
+                "Entrez les identifiants API pour vous connecter à la société"
+            ],
+            "Settings saved successfully": [
+                "Paramètres enregistrés avec succès"
+            ],
+            "An error occurred while saving": [
+                "Une erreur s'est produite lors de l'enregistrement"
+            ],
+            "Saving...": [
+                "Enregistrement..."
+            ],
+            "Save Settings": [
+                "Enregistrer les paramètres"
+            ],
+            "Where can I find API credentials?": [
+                "Où puis-je trouver les identifiants API ?"
+            ],
+            "Contact Maystro team to get API credentials": [
+                "Contactez l'équipe Maystro pour obtenir les identifiants API"
+            ],
+            "Check the company dashboard or contact support": [
+                "Consultez le tableau de bord de la société ou contactez le support"
+            ],
+            "Import shipping rates and zones from": [
+                "Importer les tarifs et zones de livraison depuis"
+            ],
+            "Import completed successfully": [
+                "Importation terminée avec succès"
+            ],
+            "Rates imported successfully": [
+                "Tarifs importés avec succès"
+            ],
+            "An error occurred while importing": [
+                "Une erreur s'est produite lors de l'importation"
+            ],
+            "Home Delivery": [
+                "Livraison à domicile"
+            ],
+            "Office Pickup": [
+                "Retrait en bureau"
+            ],
+            "Home Delivery Label": [
+                "Libellé livraison à domicile"
+            ],
+            "Example: Home Delivery": [
+                "Exemple: Livraison à domicile"
+            ],
+            "Office Pickup Label": [
+                "Libellé retrait en bureau"
+            ],
+            "Example: Office Pickup": [
+                "Exemple: Retrait en bureau"
+            ],
+            "Importing...": [
+                "Importation en cours..."
+            ],
+            "Skip": [
+                "Passer"
+            ],
+            "Setup Complete!": [
+                "Configuration terminée !"
+            ],
+            "Your store is now ready to receive orders and create shipping labels": [
+                "Votre boutique est maintenant prête à recevoir des commandes et créer des bordereaux"
+            ],
+            "Go to Dashboard": [
+                "Aller au tableau de bord"
+            ],
+            "Start": [
+                "Début"
+            ],
+            "License": [
+                "Licence"
+            ],
+            "Provider": [
+                "Transporteur"
+            ],
+            "Import": [
+                "Importer"
+            ],
+            "Complete": [
+                "Terminé"
+            ],
+            "Do you want to skip setup? You can complete it later.": [
+                "Voulez-vous passer la configuration ? Vous pouvez la compléter plus tard."
+            ],
+            "Learning Center": [
+                "Centre d'apprentissage"
+            ],
+            "Master Bordereau Generator with video tutorials and guides": [
+                "Maîtrisez Bordereau Generator avec des tutoriels vidéo et des guides"
+            ],
+            "Video Tutorials": [
+                "Tutoriels Vidéo"
+            ],
+            "Your Progress": [
+                "Votre Progression"
+            ],
+            "lessons completed": [
+                "leçons terminées"
+            ],
+            "completed": [
+                "terminé"
+            ],
+            "Free": [
+                "Gratuit"
+            ],
+            "Mark Complete": [
+                "Marquer comme terminé"
+            ],
+            "Completed": [
+                "Terminé"
+            ],
+            "Free Lesson": [
+                "Leçon Gratuite"
+            ],
+            "Previous": [
+                "Précédent"
+            ],
+            "Search FAQ...": [
+                "Rechercher dans la FAQ..."
+            ],
+            "Can't find what you're looking for?": [
+                "Vous ne trouvez pas ce que vous cherchez ?"
+            ],
+            "Our support team is here to help you.": [
+                "Notre équipe de support est là pour vous aider."
+            ],
+            "Introduction to Bordereau Generator": [
+                "Introduction à Bordereau Generator"
+            ],
+            "Learn what Bordereau Generator is and how it can help automate your shipping workflow.": [
+                "Découvrez ce qu'est Bordereau Generator et comment il peut vous aider à automatiser votre flux d'expédition."
+            ],
+            "Installation & Activation": [
+                "Installation et Activation"
+            ],
+            "Step-by-step guide to install and activate your license.": [
+                "Guide étape par étape pour installer et activer votre licence."
+            ],
+            "Dashboard Overview": [
+                "Aperçu du Tableau de Bord"
+            ],
+            "Tour of the main dashboard and navigation.": [
+                "Visite du tableau de bord principal et de la navigation."
+            ],
+            "Adding a Shipping Provider": [
+                "Ajouter un Transporteur"
+            ],
+            "How to connect your first shipping company.": [
+                "Comment connecter votre première société de transport."
+            ],
+            "Getting API Credentials": [
+                "Obtenir les Identifiants API"
+            ],
+            "Where to find API tokens for Yalidine, ZR Express, Maystro, and others.": [
+                "Où trouver les jetons API pour Yalidine, ZR Express, Maystro et autres."
+            ],
+            "Importing Shipping Rates": [
+                "Importer les Tarifs d'Expédition"
+            ],
+            "Import cities, prices, and pickup points from providers.": [
+                "Importer les villes, prix et points de retrait des transporteurs."
+            ],
+            "Setting Up Webhooks": [
+                "Configuration des Webhooks"
+            ],
+            "Enable real-time tracking updates with webhooks.": [
+                "Activer les mises à jour de suivi en temps réel avec les webhooks."
+            ],
+            "Managing Orders": [
+                "Gestion des Commandes"
+            ],
+            "Creating Shipping Labels": [
+                "Création des Bordereaux"
+            ],
+            "Generate bordereau for your orders step by step.": [
+                "Générer des bordereaux pour vos commandes étape par étape."
+            ],
+            "Bulk Label Printing": [
+                "Impression en Masse"
+            ],
+            "Print multiple shipping labels at once.": [
+                "Imprimer plusieurs bordereaux d'expédition à la fois."
+            ],
+            "Order Tracking": [
+                "Suivi des Commandes"
+            ],
+            "Monitor package status and delivery updates.": [
+                "Surveiller l'état des colis et les mises à jour de livraison."
+            ],
+            "Settings & Automation": [
+                "Paramètres et Automatisation"
+            ],
+            "Auto Update Configuration": [
+                "Configuration de la Mise à Jour Automatique"
+            ],
+            "Set up automatic tracking status updates.": [
+                "Configurer les mises à jour automatiques du statut de suivi."
+            ],
+            "Automatic Order Insertion": [
+                "Insertion Automatique des Commandes"
+            ],
+            "Automatically send orders to shipping providers.": [
+                "Envoyer automatiquement les commandes aux transporteurs."
+            ],
+            "Checkout Customization": [
+                "Personnalisation du Paiement"
+            ],
+            "Customize the checkout experience for customers.": [
+                "Personnaliser l'expérience de paiement pour les clients."
+            ],
+            "Advanced Features": [
+                "Fonctionnalités Avancées"
+            ],
+            "Custom Order Statuses": [
+                "Statuts de Commande Personnalisés"
+            ],
+            "Create and manage custom order statuses.": [
+                "Créer et gérer des statuts de commande personnalisés."
+            ],
+            "Troubleshooting Common Issues": [
+                "Résolution des Problèmes Courants"
+            ],
+            "Solutions for common problems and errors.": [
+                "Solutions pour les problèmes et erreurs courants."
+            ],
+            "What is Bordereau Generator?": [
+                "Qu'est-ce que Bordereau Generator ?"
+            ],
+            "Bordereau Generator is a WooCommerce plugin that connects your store with 100+ Algerian shipping companies. It allows you to create shipping labels, track packages, and automate your delivery workflow.": [
+                "Bordereau Generator est un plugin WooCommerce qui connecte votre boutique à plus de 100 sociétés de transport algériennes. Il vous permet de créer des bordereaux, suivre les colis et automatiser votre flux de livraison."
+            ],
+            "How do I install the plugin?": [
+                "Comment installer le plugin ?"
+            ],
+            "Upload the plugin files to /wp-content/plugins/, activate from WordPress Plugins menu, then go to Bordereau Generator > Settings > License to enter your license key.": [
+                "Téléchargez les fichiers du plugin dans /wp-content/plugins/, activez depuis le menu Plugins WordPress, puis allez dans Bordereau Generator > Paramètres > Licence pour entrer votre clé de licence."
+            ],
+            "What are the system requirements?": [
+                "Quelles sont les exigences système ?"
+            ],
+            "WordPress 5.0+, WooCommerce 4.0+, PHP 7.4+, and an active internet connection for API communication.": [
+                "WordPress 5.0+, WooCommerce 4.0+, PHP 7.4+, et une connexion internet active pour la communication API."
+            ],
+            "Which shipping companies are supported?": [
+                "Quelles sociétés de transport sont prises en charge ?"
+            ],
+            "We support 100+ providers including Yalidine, ZR Express, Maystro Delivery, Yalitec, Guepex, SpeedMail, EcoTrack, Noest, and many more.": [
+                "Nous prenons en charge plus de 100 transporteurs dont Yalidine, ZR Express, Maystro Delivery, Yalitec, Guepex, SpeedMail, EcoTrack, Noest et bien d'autres."
+            ],
+            "Where do I get API credentials?": [
+                "Où obtenir les identifiants API ?"
+            ],
+            "Login to your shipping provider dashboard. For Yalidine: Développement > Tableau de bord. For ZR Express: API Rest > Jetons API. For others, contact their support team.": [
+                "Connectez-vous au tableau de bord de votre transporteur. Pour Yalidine : Développement > Tableau de bord. Pour ZR Express : API Rest > Jetons API. Pour les autres, contactez leur équipe de support."
+            ],
+            "Can I use multiple providers?": [
+                "Puis-je utiliser plusieurs transporteurs ?"
+            ],
+            "Yes! You can enable multiple shipping providers. Customers will see available options based on their location during checkout.": [
+                "Oui ! Vous pouvez activer plusieurs transporteurs. Les clients verront les options disponibles en fonction de leur emplacement lors du paiement."
+            ],
+            "Orders & Labels": [
+                "Commandes et Bordereaux"
+            ],
+            "How do I create a shipping label?": [
+                "Comment créer un bordereau d'expédition ?"
+            ],
+            "Open the order in WooCommerce, find the Bordereau Generator box, select your provider, verify customer details, and click Create Bordereau.": [
+                "Ouvrez la commande dans WooCommerce, trouvez la boîte Bordereau Generator, sélectionnez votre transporteur, vérifiez les détails du client et cliquez sur Créer Bordereau."
+            ],
+            "How does tracking work?": [
+                "Comment fonctionne le suivi ?"
+            ],
+            "Enable Auto Update in Settings for periodic updates, or set up Webhooks for real-time tracking. You can also manually refresh from the order page.": [
+                "Activez la Mise à Jour Automatique dans les Paramètres pour des mises à jour périodiques, ou configurez les Webhooks pour un suivi en temps réel. Vous pouvez également actualiser manuellement depuis la page de commande."
+            ],
+            "What is COD (Cash on Delivery)?": [
+                "Qu'est-ce que le COD (Paiement à la Livraison) ?"
+            ],
+            "COD means the customer pays upon delivery. The shipping company collects the payment and transfers it to you (minus their commission).": [
+                "COD signifie que le client paie à la livraison. La société de transport collecte le paiement et vous le transfère (moins leur commission)."
+            ],
+            "Orders are not being sent to the provider": [
+                "Les commandes ne sont pas envoyées au transporteur"
+            ],
+            "Verify API credentials are correct, ensure the provider is enabled (ON), check internet connection, and try enabling Debug Mode for detailed error logs.": [
+                "Vérifiez que les identifiants API sont corrects, assurez-vous que le transporteur est activé (ON), vérifiez la connexion internet et essayez d'activer le Mode Débogage pour des journaux d'erreurs détaillés."
+            ],
+            "Shipping rates not showing at checkout": [
+                "Les tarifs d'expédition ne s'affichent pas au paiement"
+            ],
+            "Click Import to fetch rates, clear cache and re-import, verify shipping zones in WooCommerce, and check if the customer location is covered.": [
+                "Cliquez sur Importer pour récupérer les tarifs, videz le cache et réimportez, vérifiez les zones d'expédition dans WooCommerce et vérifiez si l'emplacement du client est couvert."
+            ],
+            "How do I contact support?": [
+                "Comment contacter le support ?"
+            ],
+            "Email us at support@amineware.me or visit amineware.me for documentation and help.": [
+                "Envoyez-nous un email à support@amineware.me ou visitez amineware.me pour la documentation et l'aide."
+            ],
+            "1. Upload the plugin files to /wp-content/plugins/\n2. Activate the plugin through the Plugins menu in WordPress\n3. Navigate to Bordereau Generator in your admin menu\n4. Go to Settings > License to enter your license key": [
+                "1. Téléchargez les fichiers du plugin dans /wp-content/plugins/\n2. Activez le plugin via le menu Extensions de WordPress\n3. Accédez à Bordereau Generator dans votre menu admin\n4. Allez dans Paramètres > Licence pour entrer votre clé"
+            ],
+            "Is this plugin free?": [
+                "Ce plugin est-il gratuit ?"
+            ],
+            "No, Bordereau Generator is a paid plugin. Visit amineware.me to purchase a license or contact us via WhatsApp at +213783018210. If you obtained this plugin from another source, you have stolen 3 years of work and are not eligible for any support.": [
+                "Non, Bordereau Generator est un plugin payant. Visitez amineware.me pour acheter une licence ou contactez-nous via WhatsApp au +213783018210. Si vous avez obtenu ce plugin d'une autre source, vous avez volé 3 ans de travail et n'êtes pas éligible à aucun support."
+            ],
+            "How do I activate my license key?": [
+                "Comment activer ma clé de licence ?"
+            ],
+            "Go to Bordereau Generator > Settings > License tab, enter the license key you received after purchase, and click Activate.": [
+                "Allez dans Bordereau Generator > Paramètres > onglet Licence, entrez la clé de licence reçue après l'achat et cliquez sur Activer."
+            ],
+            "How do I add a new shipping provider?": [
+                "Comment ajouter un nouveau transporteur ?"
+            ],
+            "1. Go to the Shipping Providers tab\n2. Click on the provider card you want to enable\n3. Enter your API credentials\n4. Toggle the provider ON\n5. Click Save Settings": [
+                "1. Allez dans l'onglet Transporteurs\n2. Cliquez sur la carte du transporteur à activer\n3. Entrez vos identifiants API\n4. Activez le transporteur\n5. Cliquez sur Enregistrer"
+            ],
+            "Login to your shipping provider dashboard:\n• Yalidine: Développement > Tableau de bord\n• ZR Express: API Rest > Jetons API\n• Maystro: Contact their team directly\n• Others: Check their dashboard or contact support": [
+                "Connectez-vous au tableau de bord du transporteur :\n• Yalidine : Développement > Tableau de bord\n• ZR Express : API Rest > Jetons API\n• Maystro : Contactez leur équipe directement\n• Autres : Vérifiez leur tableau de bord ou contactez le support"
+            ],
+            "Can I use multiple providers at once?": [
+                "Puis-je utiliser plusieurs transporteurs en même temps ?"
+            ],
+            "Yes! You can enable and configure multiple shipping providers simultaneously. Customers can choose their preferred provider at checkout based on their location.": [
+                "Oui ! Vous pouvez activer et configurer plusieurs transporteurs simultanément. Les clients peuvent choisir leur transporteur préféré au paiement selon leur emplacement."
+            ],
+            "What does the Import button do?": [
+                "Que fait le bouton Importer ?"
+            ],
+            "The Import button fetches shipping rates, cities, and pickup points from the provider and creates WooCommerce shipping zones automatically. This saves you from manually configuring each zone.": [
+                "Le bouton Importer récupère les tarifs, villes et points de retrait du transporteur et crée automatiquement les zones d'expédition WooCommerce. Cela vous évite de configurer chaque zone manuellement."
+            ],
+            "1. Go to WooCommerce > Orders\n2. Open the order you want to ship\n3. Find the Bordereau Generator metabox\n4. Select your shipping provider\n5. Verify customer details\n6. Click Create Bordereau": [
+                "1. Allez dans WooCommerce > Commandes\n2. Ouvrez la commande à expédier\n3. Trouvez la boîte Bordereau Generator\n4. Sélectionnez votre transporteur\n5. Vérifiez les détails du client\n6. Cliquez sur Créer Bordereau"
+            ],
+            "There are 3 ways to get tracking updates:\n1. Auto Update: Enable in Settings for periodic background updates\n2. Webhooks: Configure for real-time updates from the provider\n3. Manual: Click the Refresh button on the order page": [
+                "Il y a 3 façons d'obtenir des mises à jour de suivi :\n1. Mise à jour auto : Activez dans Paramètres pour des mises à jour périodiques\n2. Webhooks : Configurez pour des mises à jour en temps réel\n3. Manuel : Cliquez sur Actualiser dans la page commande"
+            ],
+            "COD means the customer pays upon delivery. The shipping company collects the payment and transfers it to you (minus their commission). This is the most common payment method in Algeria.": [
+                "COD signifie que le client paie à la livraison. Le transporteur collecte le paiement et vous le transfère (moins leur commission). C'est le mode de paiement le plus courant en Algérie."
+            ],
+            "Can I print multiple labels at once?": [
+                "Puis-je imprimer plusieurs bordereaux à la fois ?"
+            ],
+            "Yes! Use the bulk actions feature in WooCommerce Orders. Select multiple orders, choose \"Print Bordereaux\" from the bulk actions dropdown, and click Apply.": [
+                "Oui ! Utilisez les actions groupées dans Commandes WooCommerce. Sélectionnez plusieurs commandes, choisissez \"Imprimer Bordereaux\" dans le menu déroulant et cliquez sur Appliquer."
+            ],
+            "Order Tracking Shortcodes": [
+                "Shortcodes de Suivi de Commande"
+            ],
+            "How do I create a tracking page for customers?": [
+                "Comment créer une page de suivi pour les clients ?"
+            ],
+            "Create a new page in WordPress and add one of our tracking shortcodes. You can then add this page to your menu so customers can easily track their orders.": [
+                "Créez une nouvelle page WordPress et ajoutez un de nos shortcodes de suivi. Vous pouvez ensuite ajouter cette page à votre menu pour que les clients puissent suivre leurs commandes facilement."
+            ],
+            "What is the [bordreau_tracking] shortcode?": [
+                "Qu'est-ce que le shortcode [bordreau_tracking] ?"
+            ],
+            "This shortcode creates a tracking form where customers enter their Order ID and Phone Number to track their order. Add it to any page:\n\n[bordreau_tracking]\n\nCustomers will need their order number (e.g., #1234) and the billing phone number.": [
+                "Ce shortcode crée un formulaire de suivi où les clients entrent leur numéro de commande et téléphone pour suivre leur commande. Ajoutez-le à n'importe quelle page :\n\n[bordreau_tracking]\n\nLes clients auront besoin de leur numéro de commande (ex: #1234) et du téléphone de facturation."
+            ],
+            "What is the [bordreau_tracking_by_tracking_number] shortcode?": [
+                "Qu'est-ce que le shortcode [bordreau_tracking_by_tracking_number] ?"
+            ],
+            "This shortcode creates a simpler tracking form where customers only need the shipping tracking number:\n\n[bordreau_tracking_by_tracking_number]\n\nThis is useful when you send customers the tracking number directly.": [
+                "Ce shortcode crée un formulaire de suivi plus simple où les clients n'ont besoin que du numéro de suivi :\n\n[bordreau_tracking_by_tracking_number]\n\nC'est utile quand vous envoyez directement le numéro de suivi aux clients."
+            ],
+            "Can I customize the shortcode tag?": [
+                "Puis-je personnaliser le tag du shortcode ?"
+            ],
+            "Yes! Use WordPress filters to change the shortcode tag:\n\nadd_filter('bordreau_tracking_shortcode_tag', function() {\n    return 'my_custom_tracking';\n});": [
+                "Oui ! Utilisez les filtres WordPress pour changer le tag du shortcode :\n\nadd_filter('bordreau_tracking_shortcode_tag', function() {\n    return 'my_custom_tracking';\n});"
+            ],
+            "What is Auto Update and should I enable it?": [
+                "Qu'est-ce que la Mise à Jour Auto et dois-je l'activer ?"
+            ],
+            "Auto Update automatically fetches tracking status updates from shipping providers in the background. Enable it if you want order statuses to update without manual intervention. Set the interval based on your order volume.": [
+                "La Mise à Jour Auto récupère automatiquement les mises à jour de suivi des transporteurs en arrière-plan. Activez-la si vous voulez que les statuts se mettent à jour sans intervention manuelle. Définissez l'intervalle selon votre volume de commandes."
+            ],
+            "What does Auto Insert Orders do?": [
+                "Que fait l'Insertion Auto des Commandes ?"
+            ],
+            "When enabled, orders are automatically sent to the shipping provider when they reach a specific status (e.g., Processing). This eliminates the need to manually create bordereaux for each order.": [
+                "Lorsqu'activé, les commandes sont automatiquement envoyées au transporteur quand elles atteignent un statut spécifique (ex: En cours). Cela élimine le besoin de créer manuellement des bordereaux pour chaque commande."
+            ],
+            "How do I customize the product string format?": [
+                "Comment personnaliser le format de chaîne produit ?"
+            ],
+            "Go to Settings > Advanced and modify the Product String Format. Available placeholders:\n• {title} - Product name\n• {qty} - Quantity\n• {sku} - SKU code\n• {attributes} - Product variations\n• {id} - Product ID": [
+                "Allez dans Paramètres > Avancé et modifiez le Format de Chaîne Produit. Placeholders disponibles :\n• {title} - Nom du produit\n• {qty} - Quantité\n• {sku} - Code SKU\n• {attributes} - Variations du produit\n• {id} - ID du produit"
+            ],
+            "What happens when I clear the cache?": [
+                "Que se passe-t-il quand je vide le cache ?"
+            ],
+            "Clearing cache removes stored cities, shipping rates, and provider responses. This is useful when:\n• Provider updates their rates\n• You see outdated information\n• Troubleshooting issues\n\nYou may need to re-import shipping rates after clearing.": [
+                "Vider le cache supprime les villes, tarifs et réponses des transporteurs stockés. C'est utile quand :\n• Le transporteur met à jour ses tarifs\n• Vous voyez des informations obsolètes\n• Résolution de problèmes\n\nVous devrez peut-être réimporter les tarifs après."
+            ],
+            "Technical Questions": [
+                "Questions Techniques"
+            ],
+            "Does it work with HPOS?": [
+                "Est-ce compatible avec HPOS ?"
+            ],
+            "Yes, the plugin is fully compatible with WooCommerce High-Performance Order Storage (HPOS). No additional configuration is needed.": [
+                "Oui, le plugin est entièrement compatible avec le stockage haute performance des commandes WooCommerce (HPOS). Aucune configuration supplémentaire n'est nécessaire."
+            ],
+            "Can I customize the label format?": [
+                "Puis-je personnaliser le format du bordereau ?"
+            ],
+            "Yes, the plugin provides filters and hooks for developers to customize label generation and formatting. Check our developer documentation for available hooks.": [
+                "Oui, le plugin fournit des filtres et hooks pour que les développeurs personnalisent la génération et le formatage des bordereaux. Consultez notre documentation développeur pour les hooks disponibles."
+            ],
+            "Is there a REST API?": [
+                "Y a-t-il une API REST ?"
+            ],
+            "Yes! The plugin provides REST API endpoints:\n• POST /wp-json/bordereau/v1/create-label - Create shipping label\n• GET /wp-json/bordereau/v1/tracking/{number} - Get tracking status\n\nSee API Reference in documentation.": [
+                "Oui ! Le plugin fournit des endpoints API REST :\n• POST /wp-json/bordereau/v1/create-label - Créer un bordereau\n• GET /wp-json/bordereau/v1/tracking/{number} - Obtenir le statut de suivi\n\nVoir la Référence API dans la documentation."
+            ],
+            "Check these common causes:\n1. Verify API credentials are correct\n2. Ensure the provider is enabled (toggled ON)\n3. Check your internet connection\n4. Enable Debug Mode in Settings > Advanced for detailed error logs\n5. Check WordPress error logs": [
+                "Vérifiez ces causes courantes :\n1. Vérifiez que les identifiants API sont corrects\n2. Assurez-vous que le transporteur est activé (ON)\n3. Vérifiez votre connexion internet\n4. Activez le Mode Débogage dans Paramètres > Avancé pour des logs détaillés\n5. Vérifiez les logs d'erreur WordPress"
+            ],
+            "Try these solutions:\n1. Click Import to fetch/refresh rates\n2. Clear cache and re-import\n3. Verify shipping zones in WooCommerce > Settings > Shipping\n4. Check if the customer location is covered by your zones\n5. Ensure the provider is enabled": [
+                "Essayez ces solutions :\n1. Cliquez sur Importer pour récupérer/actualiser les tarifs\n2. Videz le cache et réimportez\n3. Vérifiez les zones d'expédition dans WooCommerce > Paramètres > Expédition\n4. Vérifiez si l'emplacement du client est couvert par vos zones\n5. Assurez-vous que le transporteur est activé"
+            ],
+            "Tracking status is not updating": [
+                "Le statut de suivi ne se met pas à jour"
+            ],
+            "Check these:\n1. Verify webhook URL is configured correctly in provider dashboard\n2. Check if Auto Update is enabled in Settings\n3. Try manually triggering a status update from the order page\n4. Check if the tracking number is valid": [
+                "Vérifiez ceci :\n1. Vérifiez que l'URL du webhook est configurée correctement dans le tableau de bord du transporteur\n2. Vérifiez si la Mise à Jour Auto est activée dans les Paramètres\n3. Essayez de déclencher manuellement une mise à jour depuis la page commande\n4. Vérifiez si le numéro de suivi est valide"
+            ],
+            "Email us at support@amineware.me or visit amineware.me for documentation and help. Include your WordPress version, WooCommerce version, and any error messages.": [
+                "Envoyez-nous un email à support@amineware.me ou visitez amineware.me pour la documentation et l'aide. Incluez votre version WordPress, version WooCommerce et tout message d'erreur."
+            ]
+        }
+    }
+}

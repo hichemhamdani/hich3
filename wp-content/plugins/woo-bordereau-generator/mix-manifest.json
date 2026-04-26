@@ -1,0 +1,12 @@
+{
+    "/admin/js/wc-bordereau-generator-admin.js": "/admin/js/wc-bordereau-generator-admin.js",
+    "/public/js/wc-bordereau-generator.js": "/public/js/wc-bordereau-generator.js",
+    "/public/js/wc-bordereau-generator-public.js": "/public/js/wc-bordereau-generator-public.js",
+    "/public/js/wc-bordereau-generator-ecotrack.js": "/public/js/wc-bordereau-generator-ecotrack.js",
+    "/public/js/wc-bordereau-generator-updated.js": "/public/js/wc-bordereau-generator-updated.js",
+    "/public/js/wc-bordereau-generator-checkout-public.js": "/public/js/wc-bordereau-generator-checkout-public.js",
+    "/public/js/wc-bordereau-generator-checkout.js": "/public/js/wc-bordereau-generator-checkout.js",
+    "/admin/js/wc-bordereau-generator-admin-order-edit.js": "/admin/js/wc-bordereau-generator-admin-order-edit.js",
+    "/admin/css/wc-bordereau-generator-admin.css": "/admin/css/wc-bordereau-generator-admin.css",
+    "/public/css/wc-bordereau-generator.css": "/public/css/wc-bordereau-generator.css"
+}

@@ -1,0 +1,424 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bordereau Generator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-20 09:25+0000\n"
+"PO-Revision-Date: 2023-11-20 09:43+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.2\n"
+"X-Domain: woo-bordereau-generator"
+
+#: admin/BordereauGeneratorAdmin.php:1840
+msgid "A vérifier"
+msgstr "To be checked"
+
+#: admin/Partials/ShippingOrdersTable.php:27
+msgid "Action"
+msgstr "Action"
+
+#: admin/BordereauGeneratorAdmin.php:1855
+msgid "Alerte résolue"
+msgstr "Alert Resolved"
+
+#: admin/Shipping/PicoSolution.php:173
+msgid "An error has occurred. Please contact the developer "
+msgstr "An error has occurred. For assistance, please contact the development team."
+
+#: admin/Shipping/EcoTrackShipping.php:187
+#: admin/Shipping/EcoTrackShipping.php:195
+#: admin/Shipping/EcoTrackShipping.php:205
+#: admin/Shipping/EcoTrackShipping.php:215
+#: admin/Shipping/EcoTrackShipping.php:317
+#: admin/Shipping/EcoTrackShipping.php:325
+#: admin/Shipping/EcoTrackShipping.php:335
+#: admin/Shipping/EcoTrackShipping.php:345
+#: admin/Shipping/EcoTrackShipping.php:568
+#: admin/Shipping/EcoTrackShipping.php:577
+#: admin/Shipping/EcoTrackShipping.php:618
+#: admin/Shipping/EcoTrackShipping.php:626
+#: admin/Shipping/MaestroShippingSettings.php:750
+#: admin/Shipping/MaestroShippingSettings.php:759
+#: admin/Shipping/MaestroShippingSettings.php:768
+#: admin/Shipping/MaestroShippingSettings.php:775
+#: admin/Shipping/MaestroShippingSettings.php:785
+#: admin/Shipping/MaystroShipping.php:223
+#: admin/Shipping/MaystroShipping.php:232
+#: admin/Shipping/MaystroShipping.php:241
+#: admin/Shipping/MaystroShipping.php:248
+#: admin/Shipping/MaystroShipping.php:258
+msgid "An error has occurred. Please see log file "
+msgstr "An error has occurred. Please refer to the log file for details."
+
+#: admin/BordereauGeneratorAdmin.php:618
+msgid "Bordereau"
+msgstr "Shipping Slip"
+
+#. Name of the plugin
+#: admin/BordereauGeneratorAdmin.php:595 admin/BordereauGeneratorAdmin.php:618
+msgid "Bordereau Generator"
+msgstr "Shipping Slip Generator"
+
+#: woocommerce-bordereau-generator.php:76
+msgid "Bordereau Generator requires WooCommerce to be installed and active."
+msgstr "The Shipping Slip Generator requires that WooCommerce is installed and active."
+
+#: admin/BordereauGeneratorAdmin.php:600
+msgid "Bordereau Tracking"
+msgstr "Shipping Slip Tracking"
+
+#. Author of the plugin
+msgid "Boukraa Mohamed"
+msgstr ""
+
+#: admin/BordereauGeneratorAdmin.php:1847
+msgid "Centre"
+msgstr ""
+
+#: admin/BordereauGeneratorAdmin.php:1406
+msgid "Change status to awaiting shipping"
+msgstr "Change Status to 'Awaiting Shipping'"
+
+#: admin/BordereauGeneratorAdmin.php:1409
+msgid "Change status to dispatched"
+msgstr "Change Status to 'Dispatched'"
+
+#: admin/BordereauGeneratorAdmin.php:1408
+msgid "Change status to payment awaiting"
+msgstr "Change Status to 'Payment Awaiting'"
+
+#: admin/BordereauGeneratorAdmin.php:1407
+msgid "Change status to payment received"
+msgstr "Change Status to 'Payment Received'"
+
+#: admin/BordereauGeneratorAdmin.php:1412
+msgid "Change tracking status to attempt delivery"
+msgstr "Change Tracking Status to 'Attempt Delivery'"
+
+#: admin/BordereauGeneratorAdmin.php:1414
+msgid "Change tracking status to delivered"
+msgstr "Change Tracking Status to 'Delivered'"
+
+#: admin/BordereauGeneratorAdmin.php:1410
+msgid "Change tracking status to dispatched"
+msgstr "Change Tracking Status to 'Dispatched'"
+
+#: admin/BordereauGeneratorAdmin.php:1411
+msgid "Change tracking status to failed"
+msgstr "Change Tracking Status to 'Failed'"
+
+#: admin/BordereauGeneratorAdmin.php:1413
+msgid "Change tracking status to returned"
+msgstr "Change Tracking Status to 'Returned'"
+
+#: admin/BordereauGeneratorAdmin.php:758
+msgid "Check for updates"
+msgstr "Check for Updates"
+
+#: admin/Partials/ShippingOrdersTable.php:24
+msgid "City"
+msgstr "City"
+
+#: admin/BordereauGeneratorAdmin.php:740
+msgid "Configure"
+msgstr "Configure Settings"
+
+#: admin/BordereauGeneratorAdmin.php:1828
+#: admin/Partials/views/table_list_orders_header.php:10
+msgid "Date Range"
+msgstr "Date Range"
+
+#: admin/BordereauGeneratorAdmin.php:1866
+msgid "Echange échoué"
+msgstr "Exchange Failed"
+
+#: admin/BordereauGeneratorAdmin.php:477 admin/BordereauGeneratorAdmin.php:1858
+msgid "Echèc livraison"
+msgstr "Delivery Failure"
+
+#: admin/BordereauGeneratorAdmin.php:1854
+msgid "En alerte"
+msgstr "On Alert"
+
+#: admin/BordereauGeneratorAdmin.php:1853
+msgid "En attente"
+msgstr "Pending"
+
+#: admin/BordereauGeneratorAdmin.php:1851
+msgid "En attente du client"
+msgstr "Awaiting Customer"
+
+#: admin/BordereauGeneratorAdmin.php:1835
+msgid "En Livraison"
+msgstr "In Delivery"
+
+#: admin/BordereauGeneratorAdmin.php:1848
+msgid "En localisation"
+msgstr "In Localization"
+
+#: admin/BordereauGeneratorAdmin.php:1833
+msgid "En Préparation"
+msgstr "In Preparation"
+
+#: admin/BordereauGeneratorAdmin.php:1841
+msgid "En préparation"
+msgstr "In Preparation"
+
+#: admin/BordereauGeneratorAdmin.php:1834
+#: admin/BordereauGeneratorAdmin.php:1846
+msgid "Expédié"
+msgstr "Dispatched"
+
+#: admin/BordereauGeneratorAdmin.php:756
+msgid "FAQ"
+msgstr "FAQ"
+
+#: admin/Partials/views/table_list_orders_header.php:12
+msgid "Filter by status"
+msgstr "Filter by Status"
+
+#: admin/Shipping/PicoSolutionSettings.php:284
+#: admin/Shipping/YalidineShippingSettings.php:215
+msgid "Flat rate"
+msgstr "Flat Rate"
+
+#: admin/Partials/wc-bordereau-generator-settings-provider.php:11
+#: admin/Partials/wc-bordereau-generator-settings-provider.php:16
+#: admin/Partials/wc-bordereau-generator-settings-provider.php:21
+msgid "General Configuration"
+msgstr "General Configuration"
+
+#. Description of the plugin
+msgid "Generate slip automatically using Yalidine and EcoTrack API."
+msgstr "Fastest way to generate Slip for more than 70 shipping companies."
+
+#: admin/BordereauGeneratorAdmin.php:370
+msgid "Green List"
+msgstr "Green List"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://amineware.me"
+msgstr ""
+
+#: admin/Partials/ShippingOrdersTable.php:26
+msgid "Latest Update"
+msgstr "Latest Update"
+
+#: admin/BordereauGeneratorAdmin.php:474 admin/BordereauGeneratorAdmin.php:1836
+#: admin/BordereauGeneratorAdmin.php:1857
+msgid "Livré"
+msgstr "Delivered"
+
+#: admin/Shipping/PicoSolutionSettings.php:303
+#: admin/Shipping/YalidineShippingSettings.php:234
+msgid "Local Pickup"
+msgstr "Delivered"
+
+#: admin/Partials/BordereauGeneratorProviders.php:271
+msgid "Maystro Delivery"
+msgstr "Maystro Delivery"
+
+#: admin/Partials/ShippingOrdersTable.php:22
+msgid "Name"
+msgstr "Name"
+
+#: admin/Partials/ShippingOrdersTable.php:33
+msgid "No orders available."
+msgstr "No Orders Available"
+
+#: admin/Partials/BordereauGeneratorProviders.php:196
+msgid "Nord et ouest express"
+msgstr "Nord et ouest express"
+
+#: admin/BordereauGeneratorAdmin.php:620
+msgid "Orders"
+msgstr "Orders"
+
+#: admin/views/partials-wp-list-table-display.php:3
+msgid "Orders List"
+msgstr "Orders List"
+
+#: admin/BordereauGeneratorAdmin.php:651
+msgid "Orders Per Page"
+msgstr "Orders Per Page"
+
+#: admin/BordereauGeneratorAdmin.php:505
+msgid "Paiement effectué"
+msgstr "Payment Completed"
+
+#: admin/BordereauGeneratorAdmin.php:508
+msgid "Paiement en attente"
+msgstr "Payment Pending"
+
+#: admin/BordereauGeneratorAdmin.php:1839
+msgid "Pas encore expédié"
+msgstr "Not Yet Dispatched"
+
+#: admin/BordereauGeneratorAdmin.php:1842
+msgid "Pas encore ramassé"
+msgstr "Not Yet Collected"
+
+#: admin/BordereauGeneratorAdmin.php:369
+msgid "Payment"
+msgstr "Payment"
+
+#: admin/BordereauGeneratorAdmin.php:1871
+msgid "Payment awaiting"
+msgstr "Payment Awaiting"
+
+#: admin/BordereauGeneratorAdmin.php:1872
+msgid "Payment received"
+msgstr "Payment Received"
+
+#: admin/BordereauGeneratorAdmin.php:1870
+msgid "Payment Status"
+msgstr "Payment Status"
+
+#: admin/Partials/ShippingOrdersTable.php:23
+msgid "Phone"
+msgstr "Phone"
+
+#: admin/Partials/ShippingOrdersTable.php:226
+msgid "Print Labels"
+msgstr "Print Labels"
+
+#: admin/BordereauGeneratorAdmin.php:1843
+msgid "Prêt à expédier"
+msgstr "Ready to Ship"
+
+#: admin/BordereauGeneratorAdmin.php:1844
+msgid "Ramassé"
+msgstr "Collected"
+
+#: admin/Partials/ShippingOrdersTable.php:225
+msgid "Refresh"
+msgstr "Refresh"
+
+#: admin/BordereauGeneratorAdmin.php:1862
+msgid "Retour groupé"
+msgstr "Grouped Return"
+
+#: admin/BordereauGeneratorAdmin.php:1861
+msgid "Retour transfert"
+msgstr "Return Transfer"
+
+#: admin/BordereauGeneratorAdmin.php:1859
+msgid "Retour vers centre"
+msgstr "Return to Centre"
+
+#: admin/BordereauGeneratorAdmin.php:1864
+msgid "Retour vers vendeur"
+msgstr "Return to Seller"
+
+#: admin/BordereauGeneratorAdmin.php:1863
+msgid "Retour à retirer"
+msgstr "Return to Withdraw"
+
+#: admin/BordereauGeneratorAdmin.php:1860
+msgid "Retourné au centre"
+msgstr "Returned to Centre"
+
+#: admin/BordereauGeneratorAdmin.php:1865
+msgid "Retourné au vendeur"
+msgstr "Returned to Seller"
+
+#: admin/BordereauGeneratorAdmin.php:1838
+msgid "Returned"
+msgstr "Returned"
+
+#: admin/BordereauGeneratorAdmin.php:1850
+msgid "Reçu à Wilaya"
+msgstr "Received at Wilaya"
+
+#: admin/Partials/views/table_list_orders_header.php:4
+msgid "Search by tracking"
+msgstr "Search by Tracking"
+
+#: admin/BordereauGeneratorAdmin.php:619 admin/BordereauGeneratorAdmin.php:812
+msgid "Settings"
+msgstr "Settings"
+
+#: admin/BordereauGeneratorAdmin.php:1228
+#: admin/BordereauGeneratorAdmin.php:1327
+msgid "Settings has been saved"
+msgstr "Settings Have Been Saved"
+
+#: admin/BordereauGeneratorAdmin.php:1852
+msgid "Sorti en livraison"
+msgstr "Out for Delivery"
+
+#: admin/Partials/ShippingOrdersTable.php:25
+msgid "State"
+msgstr "State"
+
+#: admin/Partials/ShippingOrdersTable.php:21
+msgid "Status"
+msgstr "Status"
+
+#: public/BordereauGeneratorPublic.php:345
+msgid "Supplément commune"
+msgstr "Additional Municipal Fee"
+
+#: admin/BordereauGeneratorAdmin.php:757
+msgid "Support"
+msgstr "Support"
+
+#: public/BordereauGeneratorPublic.php:411
+msgid "Surpoids (+5KG)"
+msgstr "Overweight (+5KG)"
+
+#: admin/BordereauGeneratorAdmin.php:481 admin/BordereauGeneratorAdmin.php:1837
+#: admin/BordereauGeneratorAdmin.php:1856
+msgid "Tentative échouée"
+msgstr "Attempt Failed"
+
+#: admin/Shipping/EcoTrackShipping.php:586
+#: admin/Shipping/EcoTrackShipping.php:652
+msgid "There is no token has been set"
+msgstr "No token has been set."
+
+#: admin/Partials/ShippingOrdersTable.php:20
+msgid "Tracking"
+msgstr "Tracking"
+
+#: admin/BordereauGeneratorAdmin.php:367
+msgid "Tracking Number"
+msgstr "Tracking Number"
+
+#: admin/MetaBox/BordereauGeneratorMetaBox.php:175
+msgid "Tracking number has been deleted successfully"
+msgstr "The tracking number has been successfully deleted."
+
+#: admin/Shipping/EcoTrackShipping.php:284 admin/Shipping/PicoSolution.php:221
+#: admin/Shipping/MaystroShipping.php:314
+msgid "Tracking number has been successfully created"
+msgstr "The tracking number has been successfully created."
+
+#: admin/BordereauGeneratorAdmin.php:368 admin/BordereauGeneratorAdmin.php:1832
+msgid "Tracking Status"
+msgstr "Tracking Status"
+
+#: admin/BordereauGeneratorAdmin.php:1845
+msgid "Transfert"
+msgstr "Transfer"
+
+#: admin/BordereauGeneratorAdmin.php:1849
+msgid "Vers Wilaya"
+msgstr "Towards Wilaya"
+
+#: admin/Shipping/EcoTrackShipping.php:91
+#: admin/Shipping/MaestroShippingSettings.php:638
+#: admin/Shipping/MaystroShipping.php:94
+msgid "Wilaya has not been selected"
+msgstr "Wilaya has not been selected."
+
+#: admin/Shipping/MaestroShippingSettings.php:314
+msgid "Your products has been synced with Maystro delivery"
+msgstr "Your products have been synchronized with Maystro delivery."

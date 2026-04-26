@@ -1,0 +1,26 @@
+# Normalisation des fins de lignes pour équipe cross-plateforme
+* text=auto
+
+# PHP et fichiers web → LF
+*.php text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.xml text eol=lf
+*.htaccess text eol=lf
+
+# Binaires → pas de conversion
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
+*.zip binary

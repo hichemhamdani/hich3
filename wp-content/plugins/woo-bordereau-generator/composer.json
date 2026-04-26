@@ -1,0 +1,45 @@
+{
+    "name": "bm2ilabs/woo-bordereau-generator",
+    "description": "Import orders to the shipping platform",
+    "type": "wordpress-plugin",
+    "version": "4.0.3",
+    "autoload": {
+        "psr-4": {
+            "WooBordereauGenerator\\": "includes/",
+            "WooBordereauGenerator\\Shippingmethods\\": "shipping_methods/",
+            "WooBordereauGenerator\\Admin\\": "admin/",
+            "WooBordereauGenerator\\Frontend\\": "public/",
+            "WooBordereauGenerator\\Cli\\": "cli/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Boukraa Mohamed",
+            "email": "contact@amineware.me"
+        }
+    ],
+    "require": {
+        "yahnis-elsts/plugin-update-checker": "^5.0",
+        "guzzlehttp/guzzle": "^7.0",
+        "woocommerce/action-scheduler": "^3.5",
+        "ext-json": "*",
+        "ext-curl": "*",
+        "ext-dom": "*",
+        "shuchkin/simplexls": "^0.10.3",
+        "behat/transliterator": "^1.5",
+        "pear/http_request2": "^2.6"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4.0"
+        },
+        "allow-plugins": {
+            "wikimedia/composer-merge-plugin": true
+        }
+    },
+    "support": {
+        "issues": "https://amineware.me/"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

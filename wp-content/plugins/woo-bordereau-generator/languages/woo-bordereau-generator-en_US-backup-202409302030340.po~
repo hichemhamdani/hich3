@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bordereau Generator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-20 09:25+0000\n"
+"PO-Revision-Date: 2024-09-17 10:29+0000\n"
+"Last-Translator: Spiringo\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: woo-bordereau-generator"
+
+#: src/admin/js/pages/ShippingPriceManager.jsx:118
+msgid "Add"
+msgstr "Add"
+
+#: src/admin/js/pages/ShippingPriceManager.jsx:132
+msgid "Apply"
+msgstr "Apply"
+
+#: src/admin/js/pages/ShippingPriceManager.jsx:111
+msgid "Bulk Action"
+msgstr "Bulk Action"
+
+#: src/admin/js/pages/ShippingPriceManager.jsx:90
+msgid "Changes saved successfully!"
+msgstr "Changes saved successfully!"
+
+#: src/admin/js/pages/ShippingPriceManager.jsx:33
+msgid "Error fetching zones"
+msgstr "Error fetching zones"
+
+#: src/admin/js/pages/ShippingPriceManager.jsx:37
+msgid "Error fetching zones. Please try again."
+msgstr "Error fetching zones. Please try again."
+
+#: src/admin/js/pages/ShippingPriceManager.jsx:96
+msgid "Error saving changes. Please try again."
+msgstr "Error saving changes. Please try again."
+
+#: src/admin/js/pages/ShippingPriceManager.jsx:92
+msgid "Error updating prices"
+msgstr "Error updating prices"
+
+#: src/admin/js/pages/ShippingPriceManager.jsx:164
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: src/admin/js/pages/ShippingPriceManager.jsx:102
+msgid "Shipping Price Manager"
+msgstr "Shipping Price Manager"
+
+#: src/admin/js/pages/ShippingPriceManager.jsx:119
+msgid "Subtract"
+msgstr "Subtract"

@@ -1,0 +1,1 @@
+jQuery((function(n){function i(){n('input[name^="shipping_method"]').each((function(){var i=n(this),e=i.closest("li").find(".boredreau-additional-info");i.is(":checked")&&i.attr("id").includes("local_pickup")?e.slideDown():e.slideUp()}))}console.log("Logged in"),n(document).on("change",'input[name^="shipping_method"]',i),n(document).on("updated_checkout",i),i()}));

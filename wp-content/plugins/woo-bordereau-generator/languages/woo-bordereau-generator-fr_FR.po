@@ -1,0 +1,2344 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bordereau Generator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-20 09:25+0000\n"
+"PO-Revision-Date: 2024-09-30 20:30+0000\n"
+"Last-Translator: Spiringo\n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: woo-bordereau-generator\n"
+
+#: src/admin/js/pages/homepage.jsx
+msgid "Homepage"
+msgstr "Accueil"
+
+#: src/admin/js/pages/homepage.jsx
+msgid "Shipping Providers"
+msgstr "Transporteurs"
+
+#: src/admin/js/pages/homepage.jsx
+msgid "Settings"
+msgstr "Paramètres"
+
+#: src/admin/js/pages/homepage.jsx
+msgid "Tutorial"
+msgstr "Tutoriel"
+
+#: src/admin/js/pages/homepage.jsx
+msgid "Are you sure you want to clear cache?"
+msgstr "Êtes-vous sûr de vouloir vider le cache ?"
+
+#: src/admin/js/pages/homepage.jsx
+msgid "Cache has been cleared"
+msgstr "Le cache a été vidé"
+
+#: src/admin/js/pages/homepage.jsx
+msgid "Error occurred, contact the developer"
+msgstr "Une erreur s'est produite, contactez le développeur"
+
+#: src/admin/js/pages/homepage.jsx
+msgid "Clear Cache"
+msgstr "Vider le cache"
+
+#: src/admin/js/pages/homepage.jsx
+msgid "by Amineware"
+msgstr "par Amineware"
+
+#: src/admin/js/pages/homepage.jsx
+msgid "Support"
+msgstr "Support"
+
+#: src/admin/js/pages/homepage.jsx
+msgid "Documentation"
+msgstr "Documentation"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Welcome back!"
+msgstr "Bienvenue !"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Manage your shipping labels and track your orders from one place."
+msgstr "Gérez vos bordereaux d'expédition et suivez vos commandes depuis un seul endroit."
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Create New Label"
+msgstr "Créer un nouveau bordereau"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Quick Actions"
+msgstr "Actions rapides"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Create Shipping Label"
+msgstr "Créer un bordereau"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Generate a new label for an order"
+msgstr "Générer un nouveau bordereau pour une commande"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "View Orders"
+msgstr "Voir les commandes"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Manage all your orders"
+msgstr "Gérer toutes vos commandes"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Configure Providers"
+msgstr "Configurer les transporteurs"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Set up shipping companies"
+msgstr "Configurer les sociétés de livraison"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Import Shipping Rates"
+msgstr "Importer les tarifs de livraison"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Sync rates from providers"
+msgstr "Synchroniser les tarifs des transporteurs"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Active Providers"
+msgstr "Transporteurs actifs"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Manage"
+msgstr "Gérer"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "more"
+msgstr "plus"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "No providers configured yet"
+msgstr "Aucun transporteur configuré"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Add Provider"
+msgstr "Ajouter un transporteur"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Getting Started"
+msgstr "Démarrage"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Watch this quick tutorial to learn how to use Bordereau Generator"
+msgstr "Regardez ce tutoriel rapide pour apprendre à utiliser Bordereau Generator"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Setup Checklist"
+msgstr "Liste de configuration"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Activate License"
+msgstr "Activer la licence"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Enter your license key"
+msgstr "Entrez votre clé de licence"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Configure a shipping company"
+msgstr "Configurer une société de livraison"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Import Rates"
+msgstr "Importer les tarifs"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Sync shipping zones & prices"
+msgstr "Synchroniser les zones et prix de livraison"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Resources"
+msgstr "Ressources"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Learn how to use all features"
+msgstr "Apprenez à utiliser toutes les fonctionnalités"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Contact Support"
+msgstr "Contacter le support"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Get help from our team"
+msgstr "Obtenez de l'aide de notre équipe"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Video Tutorials"
+msgstr "Tutoriels vidéo"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Step-by-step guides"
+msgstr "Guides étape par étape"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "What's New"
+msgstr "Nouveautés"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Version %s"
+msgstr "Version %s"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "New onboarding wizard"
+msgstr "Nouvel assistant de configuration"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Improved dashboard"
+msgstr "Tableau de bord amélioré"
+
+#: src/admin/js/pages/Welcome.jsx
+msgid "Bug fixes & performance"
+msgstr "Corrections et performances"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Welcome to Bordereau Generator"
+msgstr "Bienvenue dans Bordereau Generator"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "We will help you set up the plugin to connect your store with shipping companies in a few simple steps"
+msgstr "Nous vous aiderons à configurer le plugin pour connecter votre boutique aux transporteurs en quelques étapes simples"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Let's Start"
+msgstr "Commencer"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Please enter your license key"
+msgstr "Veuillez entrer votre clé de licence"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "License activated successfully"
+msgstr "Licence activée avec succès"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "License activation failed"
+msgstr "Échec de l'activation de la licence"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "An error occurred while activating the license"
+msgstr "Une erreur s'est produite lors de l'activation de la licence"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "License is active"
+msgstr "Licence active"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "License Key"
+msgstr "Clé de licence"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Activating..."
+msgstr "Activation en cours..."
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Activate"
+msgstr "Activer"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Back"
+msgstr "Retour"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Next"
+msgstr "Suivant"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Choose Shipping Provider"
+msgstr "Choisir un transporteur"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Select the main shipping company you want to set up"
+msgstr "Sélectionnez le transporteur principal que vous souhaitez configurer"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Search for a company..."
+msgstr "Rechercher une société..."
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Configure"
+msgstr "Configurer"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Enter API credentials to connect with the company"
+msgstr "Entrez les identifiants API pour vous connecter à la société"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Settings saved successfully"
+msgstr "Paramètres enregistrés avec succès"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "An error occurred while saving"
+msgstr "Une erreur s'est produite lors de l'enregistrement"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Saving..."
+msgstr "Enregistrement..."
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Save Settings"
+msgstr "Enregistrer les paramètres"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Where can I find API credentials?"
+msgstr "Où puis-je trouver les identifiants API ?"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Contact Maystro team to get API credentials"
+msgstr "Contactez l'équipe Maystro pour obtenir les identifiants API"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Check the company dashboard or contact support"
+msgstr "Consultez le tableau de bord de la société ou contactez le support"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Import shipping rates and zones from"
+msgstr "Importer les tarifs et zones de livraison depuis"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Import completed successfully"
+msgstr "Importation terminée avec succès"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Rates imported successfully"
+msgstr "Tarifs importés avec succès"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "An error occurred while importing"
+msgstr "Une erreur s'est produite lors de l'importation"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Home Delivery"
+msgstr "Livraison à domicile"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Office Pickup"
+msgstr "Retrait en bureau"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Home Delivery Label"
+msgstr "Libellé livraison à domicile"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Example: Home Delivery"
+msgstr "Exemple: Livraison à domicile"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Office Pickup Label"
+msgstr "Libellé retrait en bureau"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Example: Office Pickup"
+msgstr "Exemple: Retrait en bureau"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Importing..."
+msgstr "Importation en cours..."
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Skip"
+msgstr "Passer"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Setup Complete!"
+msgstr "Configuration terminée !"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Your store is now ready to receive orders and create shipping labels"
+msgstr "Votre boutique est maintenant prête à recevoir des commandes et créer des bordereaux"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Go to Dashboard"
+msgstr "Aller au tableau de bord"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Start"
+msgstr "Début"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "License"
+msgstr "Licence"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Provider"
+msgstr "Transporteur"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Import"
+msgstr "Importer"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Complete"
+msgstr "Terminé"
+
+#: src/admin/js/components/OnboardingWizard.jsx
+msgid "Do you want to skip setup? You can complete it later."
+msgstr "Voulez-vous passer la configuration ? Vous pouvez la compléter plus tard."
+
+#: src/admin/js/components/BordereauSelector.jsx:1079
+msgid "Pickup"
+msgstr "Ramassage"
+
+#: src/admin/js/components/BordereauSelector.jsx:1083
+msgid "Recouvrement"
+msgstr "Recouvrement de l'"
+
+#: src/admin/js/components/BordereauSelector.jsx:1093
+msgid "Livraison"
+msgstr "Livraison"
+
+#: src/admin/js/components/BordereauSelector.jsx:1097
+msgid "Echange"
+msgstr "Echange"
+
+#: src/admin/js/components/BordereauSelector.jsx:1125
+msgid "Ecommerce"
+msgstr ""
+
+#: src/admin/js/components/BordereauSelector.jsx:1129
+msgid "Warehouse"
+msgstr ""
+
+#: src/admin/js/components/BordereauSelector.jsx:1133
+msgid "Dropship"
+msgstr ""
+
+#: src/admin/js/components/BordereauSelector.jsx:1142
+msgid "Assurer le colis ?"
+msgstr "Assurer le colis ?"
+
+#: src/admin/js/components/BordereauSelector.jsx:1149
+msgid "Valeur déclarée"
+msgstr "Valeur déclarée"
+
+#: src/admin/js/components/BordereauSelector.jsx:1152
+msgid ""
+"Il est préférable de désactiver l'assurance si la valeur de votre colis est "
+"inférieure à 5000 DA."
+msgstr ""
+"Il est préférable de désactiver l'assurance si la valeur de votre colis est "
+"inférieure à 5000 DA."
+
+#: src/admin/js/components/BordereauSelector.jsx:1353
+msgid "Are you sure you want to clear the cache ?"
+msgstr "Êtes-vous sûr de vouloir effacer le cache ?"
+
+#: src/admin/js/components/BordereauSelector.jsx:1369
+msgid "The product cache has been cleared you can reload the page now"
+msgstr ""
+
+#: src/admin/js/components/BordereauSelector.jsx:1502
+msgid "Copy billing address"
+msgstr "Copier l'adresse de facturation"
+
+#: src/admin/js/components/BordereauSelector.jsx:1506
+msgid "Nom"
+msgstr "Nom"
+
+#: src/admin/js/components/BordereauSelector.jsx:1510
+msgid "Prénom"
+msgstr "Prénom"
+
+#: src/admin/js/components/BordereauSelector.jsx:1514
+msgid "Téléphone"
+msgstr "Téléphone"
+
+#: src/admin/js/components/BordereauSelector.jsx:1518
+msgid "Téléphone 2"
+msgstr "Téléphone 2"
+
+#: src/admin/js/components/BordereauSelector.jsx:1522
+msgid "Type de livraison"
+msgstr "Type de livraison"
+
+#: src/admin/js/components/BordereauSelector.jsx:1525
+msgid "Livraison à domicile"
+msgstr "Livraison à domicile"
+
+#: src/admin/js/components/BordereauSelector.jsx:1530
+msgid "Livraison en point relais"
+msgstr "Livraison en point relais"
+
+#: src/admin/js/components/BordereauSelector.jsx:1541
+#, fuzzy
+msgid "From Wilaya"
+msgstr "Au niveau de la Wilaya"
+
+#: src/admin/js/components/BordereauSelector.jsx:1549
+msgid ""
+"Select From Wilaya in case you want to change the default wilaya of your "
+"store"
+msgstr ""
+
+#: src/admin/js/components/BordereauSelector.jsx:1555
+msgid "Wilaya"
+msgstr "Au niveau de la Wilaya"
+
+#: src/admin/js/components/BordereauSelector.jsx:1565
+msgid "Commune"
+msgstr "Commune"
+
+#: src/admin/js/components/BordereauSelector.jsx:1570
+msgid "Choisir une commune"
+msgstr "Choisir une commune"
+
+#: src/admin/js/components/BordereauSelector.jsx:1577
+msgid "Adresse"
+msgstr "Adresse"
+
+#: src/admin/js/components/BordereauSelector.jsx:1587
+msgid "Centers"
+msgstr "Les centres de"
+
+#: src/admin/js/components/BordereauSelector.jsx:1592
+msgid "Choisir un Center"
+msgstr "Choisir des nations unies Centre"
+
+#: src/admin/js/components/BordereauSelector.jsx:1602
+msgid "Produit(s)"
+msgstr "Produit(s)"
+
+#: src/admin/js/components/BordereauSelector.jsx:1617
+msgid "Numéro de commande"
+msgstr "Numéro de commande"
+
+#: src/admin/js/components/BordereauSelector.jsx:1624
+msgid "Prix du colis"
+msgstr "Prix du colis"
+
+#: src/admin/js/components/BordereauSelector.jsx:1631
+msgid "Type d'opération"
+msgstr "Type d'opération"
+
+#: src/admin/js/components/BordereauSelector.jsx:1640
+msgid "Remarque"
+msgstr "Remarque"
+
+#: src/admin/js/components/BordereauSelector.jsx:1649
+msgid "Produit à récuperer"
+msgstr "Produit à récuperer"
+
+#: src/admin/js/components/BordereauSelector.jsx:1663
+msgid "Livraison gratuite?"
+msgstr "Livraison gratuite?"
+
+#: src/admin/js/components/BordereauSelector.jsx:1679
+msgid "Envoi économique ?"
+msgstr "Envoi économique ?"
+
+#: src/admin/js/components/BordereauSelector.jsx:1691
+msgid "Open parcel"
+msgstr "Colis ouvert"
+
+#: src/admin/js/components/BordereauSelector.jsx:1702
+msgid "Try Product"
+msgstr "Essayez De Produit"
+
+#: src/admin/js/components/BordereauSelector.jsx:1712
+msgid "Fragile Parcel"
+msgstr "Fragile Colis"
+
+#: src/admin/js/components/BordereauSelector.jsx:1720
+msgid "Expédition sélectionnée"
+msgstr "Expédition sélectionnée"
+
+#: src/admin/js/components/BordereauSelector.jsx:1725
+msgid "Code Suivi"
+msgstr "Code De Suivi"
+
+#: src/admin/js/components/BordereauSelector.jsx:1732
+msgid "Statut"
+msgstr "Statut"
+
+#: src/admin/js/components/BordereauSelector.jsx:1738
+msgid "Choisis une option"
+msgstr "Choisis une option"
+
+#: src/admin/js/components/BordereauSelector.jsx:1744
+#, fuzzy
+msgid "Livreur"
+msgstr "Livré"
+
+#: src/admin/js/components/BordereauSelector.jsx:1747
+#, fuzzy
+msgid "Choisis une livreur"
+msgstr "Choisis une option"
+
+#: src/admin/js/components/BordereauSelector.jsx:1758
+msgid "Sélectionner"
+msgstr "Sélectionner"
+
+#: src/admin/js/components/BordereauSelector.jsx:1760
+msgid "Loading"
+msgstr "Chargement"
+
+#: src/admin/js/components/BordereauSelector.jsx:1761
+msgid "Modifier"
+msgstr "Modificateur"
+
+#: src/admin/js/components/BordereauSelector.jsx:1761
+msgid "Ajouter"
+msgstr "Ajouter"
+
+#: src/admin/js/components/BordereauSelector.jsx:1789
+msgid "Delete Tracking Number"
+msgstr "Supprimer Un Numéro De Suivi"
+
+#: src/admin/js/components/BordereauSelector.jsx:1809
+msgid "Delete"
+msgstr "Supprimer"
+
+#: src/admin/js/components/BordereauSelector.jsx:1812
+#: src/admin/js/components/WebhookPopup.jsx:164
+msgid "Close"
+msgstr "Fermer"
+
+#: src/admin/js/components/BordereauSelector.jsx:1828
+msgid "Imprimer le bordereau"
+msgstr "Imprimer le bordereau"
+
+#: src/admin/js/components/BordereauSelector.jsx:914
+msgid "Colis dépasse les 5 KG?"
+msgstr "Colis dépasse les 5 KG?"
+
+#: src/admin/js/components/BordereauSelector.jsx:919
+msgid "Longueur"
+msgstr "Longueur"
+
+#: src/admin/js/components/BordereauSelector.jsx:923
+msgid "Largeur"
+msgstr "Largeur"
+
+#: src/admin/js/components/BordereauSelector.jsx:927
+msgid "Hauteur"
+msgstr "Hauteur"
+
+#: src/admin/js/components/BordereauSelector.jsx:931
+msgid "Poids"
+msgstr "Poids"
+
+#: src/admin/js/components/BordereauSelector.jsx:937
+msgid "Surpoids (+5KG)"
+msgstr "Surpoids (+5KG)"
+
+#: src/admin/js/components/BordereauSelector.jsx:993
+msgid "Select warehouse product"
+msgstr ""
+
+#: src/admin/js/components/WebhookPopup.jsx:109
+msgid "Webhook"
+msgstr "Webhook"
+
+#: src/admin/js/components/WebhookPopup.jsx:122
+msgid ""
+"This webhook URL will be automatically registered with ZR Express 2.0. You "
+"can optionally provide a security token."
+msgstr ""
+
+#: src/admin/js/components/WebhookPopup.jsx:126
+msgid "Webhook url you can copy it to use in"
+msgstr "Webhook url, vous pouvez le copier à utiliser dans"
+
+#: src/admin/js/components/WebhookPopup.jsx:136
+msgid "Webhook Signing Secret"
+msgstr ""
+
+#: src/admin/js/components/WebhookPopup.jsx:138
+msgid "Optional"
+msgstr "En option"
+
+#: src/admin/js/components/WebhookPopup.jsx:142
+msgid "Signing secret from ZR Express dashboard"
+msgstr ""
+
+#: src/admin/js/components/WebhookPopup.jsx:143
+msgid "Clé secrète"
+msgstr "Clé secrète"
+
+#: src/admin/js/components/WebhookPopup.jsx:151
+msgid ""
+"The signing secret will be saved automatically if returned by the API, or "
+"you can enter it manually from your ZR Express webhook settings"
+msgstr ""
+
+#: src/admin/js/components/WebhookPopup.jsx:172
+msgid "Save"
+msgstr "Enregistrer"
+
+#: src/admin/js/components/WebhookPopup.jsx:59
+msgid "Webhook url has been copied"
+msgstr "Webhook url a été copié"
+
+#: src/admin/js/components/WebhookPopup.jsx:92
+#, fuzzy
+msgid "Webhook has been configured successfully"
+msgstr "Webhook url a été copié"
+
+#: src/admin/js/components/WebhookPopup.jsx:94
+msgid "Failed to configure webhook"
+msgstr ""
+
+#: src/admin/js/components/WebhookPopup.jsx:98
+msgid "Error occurred contact the developer"
+msgstr "Erreur s'est produite contacter le développeur"
+
+#: src/admin/js/pages/Welcome.jsx:10
+msgid "Welcome !"
+msgstr "Bienvenu!"
+
+#: src/admin/js/pages/Welcome.jsx:11
+msgid ""
+"Bordereau Generator is here to redefine your shipping experience, "
+"consolidating complex tasks into intuitive actions, all while saving time "
+"and reducing errors."
+msgstr ""
+"Bordereau Generator est là pour redéfinir votre expérience d’expédition, en "
+"consolidant les tâches complexes en actions intuitives, tout en gagnant du "
+"temps et en réduisant les erreurs."
+
+#: src/admin/js/pages/Welcome.jsx:21
+msgid "Quick Start Guide"
+msgstr "Guide de Démarrage Rapide"
+
+#: src/admin/js/pages/Welcome.jsx:22
+msgid "New to Bordereau Generator? Follow these steps to get started:"
+msgstr "Nouveau sur Bordereau Generator ? Suivez ces étapes pour commencer :"
+
+#: src/admin/js/pages/Welcome.jsx:24
+msgid "Configure shipping providers"
+msgstr "Configurer les fournisseurs d'expédition"
+
+#: src/admin/js/pages/Welcome.jsx:25
+msgid "Set up your default settings"
+msgstr "Configurer vos paramètres par défaut"
+
+#: src/admin/js/pages/Welcome.jsx:26
+msgid "Generate your first shipping label"
+msgstr "Générer votre première étiquette d'expédition"
+
+#: src/admin/js/pages/Welcome.jsx:29
+msgid "View full documentation →"
+msgstr "Voir la documentation complète →"
+
+#: src/admin/js/pages/Welcome.jsx:33
+msgid "Latest Updates"
+msgstr "Dernières Mises à Jour"
+
+#: src/admin/js/pages/Welcome.jsx:34
+msgid "Version %s includes:"
+msgstr "La version %s inclut :"
+
+#: src/admin/js/pages/Welcome.jsx:36
+msgid "Improved UPS integration"
+msgstr "Amélioration de l'intégration UPS"
+
+#: src/admin/js/pages/Welcome.jsx:37
+msgid "Fixed PDF generation bugs"
+msgstr "Correction des bugs de génération PDF"
+
+#: src/admin/js/pages/Welcome.jsx:38
+msgid "Added support for bulk label printing"
+msgstr "Ajout du support d'impression d'étiquettes en masse"
+
+#: src/admin/js/pages/Welcome.jsx:41
+msgid "View changelog →"
+msgstr "Voir le journal des modifications →"
+
+#: src/admin/js/pages/Welcome.jsx:45
+msgid "Need Help?"
+msgstr "Besoin d'Aide ?"
+
+#: src/admin/js/pages/Welcome.jsx:46
+msgid "Our support team is ready to assist you with any questions or issues."
+msgstr "Notre équipe de support est prête à vous aider avec toutes vos questions ou problèmes."
+
+#: src/admin/js/pages/Welcome.jsx:55
+msgid "FAQ"
+msgstr "FAQ"
+
+#: src/admin/js/pages/Welcome.jsx:63
+msgid "Contact Support"
+msgstr "Contacter le Support"
+
+#: src/admin/js/pages/Welcome.jsx:72
+msgid "Developer Docs"
+msgstr "Documentation Développeur"
+
+#: src/public/js/public.js:27
+#: src/public/js/wc-bordereau-generator-checkout.js:41
+msgid "Select a City"
+msgstr "Sélectionner une commune"
+
+#: src/admin/js/components/DriverRepeater.jsx:82
+msgid "Name"
+msgstr "Nom"
+
+#: src/admin/js/components/DriverRepeater.jsx:89
+msgid "Enter name"
+msgstr "Entrez le nom"
+
+#: src/admin/js/components/DriverRepeater.jsx:95
+msgid "Phone"
+msgstr "Téléphone"
+
+#: src/admin/js/components/DriverRepeater.jsx:102
+msgid "Enter phone number"
+msgstr "Entrez le numéro de téléphone"
+
+#: src/admin/js/components/DriverRepeater.jsx:110
+msgid "Remove contact"
+msgstr "Supprimer le contact"
+
+#: src/admin/js/components/DriverRepeater.jsx:123
+msgid "Add Contact"
+msgstr "Ajouter un contact"
+
+#: src/admin/js/components/BordereauSelector.jsx:1040
+msgid "Select a product"
+msgstr "Sélectionner un produit"
+
+#: src/admin/js/components/BordereauSelector.jsx:1041
+msgid "Qty"
+msgstr "Qté"
+
+#: src/admin/js/components/BordereauSelector.jsx:1190
+#: src/admin/js/components/BordereauSelector.jsx:1226
+msgid "Frais remboursement: %s DA"
+msgstr "Frais de remboursement: %s DA"
+
+#: src/admin/js/components/BordereauSelector.jsx:1872
+#: src/admin/js/components/WebhookPopup.jsx:112
+#: src/admin/js/components/ImportPopup.jsx:113
+#: src/admin/js/components/TrackingModal.jsx:150
+#: src/admin/js/components/CredentialsPopup.jsx:158
+#: src/admin/js/components/BarcodeScanner.jsx:276
+#: src/admin/js/components/OrderStatusTab.jsx:394
+msgid "Close modal panel"
+msgstr "Fermer le panneau modal"
+
+#: src/admin/js/components/BarcodeScanner.jsx:123
+msgid "Duplicate barcode!"
+msgstr "Code-barres dupliqué !"
+
+#: src/admin/js/components/BarcodeScanner.jsx:157
+msgid "Order Not Found check if it's an ID or SKU"
+msgstr "Commande introuvable, vérifiez si c'est un ID ou SKU"
+
+#: src/admin/js/components/BarcodeScanner.jsx:371
+msgid "Bulk actions"
+msgstr "Actions groupées"
+
+#: src/admin/js/pages/homepage.jsx:206
+#: src/admin/js/components/Checking.jsx:135
+msgid "version"
+msgstr "version"
+
+#: src/admin/js/pages/homepage.jsx:208
+#: src/admin/js/components/Checking.jsx:137
+msgid "About"
+msgstr "À propos"
+
+#: src/admin/js/pages/homepage.jsx:209
+#: src/admin/js/components/Checking.jsx:138
+msgid "Contact"
+msgstr "Contact"
+
+#: src/admin/js/app.js:213
+msgid "Cancelled"
+msgstr "Annulé"
+
+#: src/admin/js/app.js:213
+msgid "Delivered"
+msgstr "Livré"
+
+#~ msgid "3M Express Flat Rate"
+#~ msgstr "3M Express livraison a domicile"
+
+#~ msgid "3M Express Flat Rate Shipping method"
+#~ msgstr "3M Express méthode d'Expédition livraison a domicile"
+
+#~ msgid "3M Express Local Pickup"
+#~ msgstr "3M Express livraison au bureau"
+
+#~ msgid "3M Express Local Pickup Shipping method"
+#~ msgstr "3M Express méthode d'expédition livraison au bureau"
+
+#~ msgid "Account Number"
+#~ msgstr "Numéro de compte"
+
+#~ msgid "Action"
+#~ msgstr "Action"
+
+#~ msgid "Active mode economic pour Guepex ?"
+#~ msgstr "Active mode economic pour Guepex ?"
+
+#~ msgid "Add"
+#~ msgstr "Ajouter"
+
+#~ msgid "Add New Status"
+#~ msgstr "Ajouter un nouveau statut"
+
+#~ msgid "Add new status"
+#~ msgstr "Ajouter un nouveau statut"
+
+#~ msgid "Add to bulk action"
+#~ msgstr "Ajouter à l'action globale"
+
+#~ msgid "Address"
+#~ msgstr "Adresse"
+
+#~ msgid "address-line1"
+#~ msgstr "adresse-ligne 1"
+
+#~ msgid "Address:"
+#~ msgstr "Adresse"
+
+#~ msgid "Ajouter le frais des communes suppliments ?"
+#~ msgstr "Ajouter le frais des communes suppliments ?"
+
+#~ msgid "Always show address"
+#~ msgstr "Toujours afficher l'adresse"
+
+#~ msgid "Always show address in the checkout form"
+#~ msgstr "Toujours afficher l’adresse dans le formulaire de paiement"
+
+#~ msgid "Amount"
+#~ msgstr "Montant"
+
+#~ msgid "An error has occurred. Please contact the developer "
+#~ msgstr "Une erreur s’est produite. Veuillez contacter le développeur "
+
+#~ msgid "An error has occurred. Please see log file "
+#~ msgstr "Une erreur s’est produite. S’il vous plaît voir le fichier journal "
+
+#~ msgid "API Clé"
+#~ msgstr "API Clé"
+
+#~ msgid "API Token"
+#~ msgstr "API Token"
+
+#~ msgid "Apply"
+#~ msgstr "Appliquer"
+
+#~ msgid "Are you sure you want to clear cache ?"
+#~ msgstr "Êtes-vous sûr de vouloir effacer le cache ?"
+
+#~ msgid "Are you sure you want to clear shipping zones ?"
+#~ msgstr "Êtes-vous sûr de vouloir effacer zones de frais de port ?"
+
+#~ msgid ""
+#~ "Are you sure you want to delete all the custom status ? this cannot be "
+#~ "undone!"
+#~ msgstr ""
+#~ "Êtes-vous sûr de vouloir supprimer tous les statuts personnalisés ? Cela "
+#~ "ne peut pas être annulé !"
+
+#~ msgid ""
+#~ "Are you sure you want to delete this order status ? this cannot be "
+#~ "undone !"
+#~ msgstr ""
+#~ "Êtes-vous sûr de vouloir supprimer tous les statuts personnalisés ? Cela "
+#~ "ne peut pas être annulé !"
+
+#~ msgid "Authorization"
+#~ msgstr "Autorisation"
+
+#~ msgid ""
+#~ "Auto update allow you to get the latest updates from your shipping "
+#~ "provider in the background"
+#~ msgstr ""
+#~ "La mise à jour automatique vous permet d’obtenir les dernières mises à "
+#~ "jour de votre fournisseur d’expédition en arrière-plan"
+
+#~ msgid "Auto update orders when the actionSchedule runs"
+#~ msgstr ""
+#~ "Mise à jour automatique des commandes lors de l’exécution d’actionSchedule"
+
+#~ msgid ""
+#~ "Automatically insert orders in shipping provider when the status changed"
+#~ msgstr ""
+#~ "Insérez automatiquement les commandes dans le fournisseur d’expédition "
+#~ "lorsque le statut a changé"
+
+#~ msgid "Avec Livraison"
+#~ msgstr "Avec Livraison"
+
+#~ msgid "Avec Livraison (Livraison gratuit sera activé)"
+#~ msgstr "Avec Livraison (Livraison gratuit sera activé)"
+
+#~ msgid "Barcode Scanner Bulk Action"
+#~ msgstr "Scanner De Code À Barres De L'Action Globale"
+
+#~ msgid "Bordereau"
+#~ msgstr "Bordereau"
+
+#~ msgid "Bordereau Generator"
+#~ msgstr "Bordereau Generator"
+
+#~ msgid "Bordereau Generator requires WooCommerce to be installed and active."
+#~ msgstr "Bordereau Générateur nécessite Thème à être installé et actif."
+
+#~ msgid "Bordereau generator settings"
+#~ msgstr "Paramètres du générateur Bordereau"
+
+#~ msgid "Bordereau Tracking"
+#~ msgstr "Bordereau De Suivi"
+
+#~ msgid "Boukraa Mohamed"
+#~ msgstr "Boukraa Mohamed"
+
+#~ msgid "Bulk Action"
+#~ msgstr "Actions groupé"
+
+#~ msgid "Bureau de livraison"
+#~ msgstr "Bureau de livraison"
+
+#~ msgid "Cache has been cleared"
+#~ msgstr "Cache a été effacé"
+
+#~ msgid "Calcule avec commune suppliment"
+#~ msgstr "Calculer avec commune supplément"
+
+#~ msgid "Calcule sans commune suppliment"
+#~ msgstr "Calculer sans commune supplément"
+
+#~ msgid "Center field is required for local pickup."
+#~ msgstr ""
+#~ "Le champ bureau de livraison est requis pour la livraison au bureau."
+
+#~ msgid "Center ID"
+#~ msgstr "Centre d'ID"
+
+#~ msgid "Change status to awaiting shipping"
+#~ msgstr "Changement de statut en attente d'expédition"
+
+#~ msgid "Change status to dispatched"
+#~ msgstr "Changer de statut à distribué"
+
+#~ msgid "Change status to payment awaiting"
+#~ msgstr "Changer le statut de paiement en attente"
+
+#~ msgid "Change status to payment received"
+#~ msgstr "Changer le statut de paiement reçu"
+
+#~ msgid "Change tracking status to attempt delivery"
+#~ msgstr "Changement de l'état de suivi de tentative de livraison"
+
+#~ msgid "Change tracking status to delivered"
+#~ msgstr "Changement de statut de suivi de livraison"
+
+#~ msgid "Change tracking status to dispatched"
+#~ msgstr "Le suivi des modifications d'état à distribué"
+
+#~ msgid "Change tracking status to failed"
+#~ msgstr "Le suivi des modifications d'état de l'échec de la"
+
+#~ msgid "Change tracking status to returned"
+#~ msgstr "Changement de l'état de suivi du retour des"
+
+#~ msgid "Changes saved successfully!"
+#~ msgstr "Modifications enregistrées avec succès !\n"
+
+#~ msgid "characters max allowed"
+#~ msgstr "Nombre maximum de caractères autorisés"
+
+#~ msgid "Check for updates"
+#~ msgstr "Vérifier les mises à jour"
+
+#~ msgid "City"
+#~ msgstr "Commune"
+
+#~ msgid "Clear Cache"
+#~ msgstr "Vider le cache"
+
+#~ msgid "Clear Shipping Zones"
+#~ msgstr "Claire Zones De Frais De Port"
+
+#~ msgid "Client ID"
+#~ msgstr "Client ID"
+
+#~ msgid "Client Secret"
+#~ msgstr "Client Secret"
+
+#~ msgid "Comment calculer le cout total ?"
+#~ msgstr "Comment calculer le cout total ?"
+
+#~ msgid "Conditions"
+#~ msgstr "Conditions"
+
+#~ msgid "Configure"
+#~ msgstr "Configurer"
+
+#~ msgid "Cost"
+#~ msgstr "Coût"
+
+#~ msgid "Cost for flat rate."
+#~ msgstr "Le coût de livraison a domicile."
+
+#~ msgid "Cost for local Pickup."
+#~ msgstr "Coût pour la livraison au bureau."
+
+#~ msgid "Customize the order status as your need"
+#~ msgstr "Personnaliser le statut de la commande en fonction de vos besoins"
+
+#~ msgid "Customize the plugin to your need"
+#~ msgstr "Personnalisez le plugin selon vos besoins"
+
+#~ msgid "Date Range"
+#~ msgstr "La Plage De Dates"
+
+#~ msgid "Default Note"
+#~ msgstr "Note Par Défaut"
+
+#~ msgid "Default note for all the orders"
+#~ msgstr "Note par défaut pour toutes les commandes"
+
+#~ msgid "Default Order Status"
+#~ msgstr "Statut De Commande Par Défaut"
+
+#~ msgid "Default status for the commands you receive"
+#~ msgstr "État par défaut des commandes que vous recevez"
+
+#~ msgid "Disable Custom Cities"
+#~ msgstr "Désactiver Personnalisé Villes"
+
+#~ msgid "Disable custom naming the cities"
+#~ msgstr "Désactiver la dénomination personnalisée des villes"
+
+#~ msgid "Easy and speed Orders"
+#~ msgstr "Commandes Easy and speed"
+
+#~ msgid "Echèc livraison"
+#~ msgstr "Echèc livraison"
+
+#~ msgid "Ecotrack Flat Rate"
+#~ msgstr "Ecotrack livraison a domicile"
+
+#~ msgid "Ecotrack Local Pickup"
+#~ msgstr "Ecotrack livraison au bureau"
+
+#~ msgid "Elogistia Flat Rate"
+#~ msgstr "Elogistia livraison a domicile"
+
+#~ msgid "Elogistia Flat Rate Shipping method"
+#~ msgstr "Elogistia méthode d'Expédition livraison a domicile"
+
+#~ msgid "Elogistia Local Pickup"
+#~ msgstr "Elogistia livraison au bureau"
+
+#~ msgid "Elogistia Local Pickup Shipping method"
+#~ msgstr "Elogistia méthode d'expédition livraison au bureau"
+
+#~ msgid "Enable Auto update"
+#~ msgstr "Activer la fonction d'Auto mise à jour"
+
+#~ msgid "Enable Auto update Orders"
+#~ msgstr "Activer la mise à jour Automatique des Commandes"
+
+#~ msgid "Enable Automatically insert Order"
+#~ msgstr "Permettre d'insérer Automatiquement Afin"
+
+#~ msgid "Enable Custom actions"
+#~ msgstr "Activer les actions Personnalisées"
+
+#~ msgid "Enable custom status"
+#~ msgstr "Activer le statut personnalisé"
+
+#~ msgid "Enable custom status for your orders like \"attempt delivery\""
+#~ msgstr ""
+#~ "Activez un statut personnalisé pour vos commandes, comme \"tentative de "
+#~ "livraison\"\n"
+
+#~ msgid "Enable Debug"
+#~ msgstr "Activer Le Débogage"
+
+#~ msgid "Enable debug for better logging"
+#~ msgstr "Activer le débogage pour une meilleure journalisation"
+
+#~ msgid "Enable Economic Import Shipping Rates"
+#~ msgstr ""
+#~ "Activer les tarifs d'importation économiques\n"
+#~ "\n"
+
+#~ msgid "Enable Flat Rate Import Shipping Rates"
+#~ msgstr "Importater les tarifs d'expédition pour livraison a domicile"
+
+#~ msgid "Enable green list (user rating)"
+#~ msgstr "Activer la liste verte (évaluation des utilisateurs)"
+
+#~ msgid ""
+#~ "Enable green list to check user rating to avoid spammers this will make "
+#~ "the order page slower"
+#~ msgstr ""
+#~ "Activez la liste verte pour vérifier l'évaluation des utilisateurs afin "
+#~ "d'éviter les spammeurs, cela rendra la page de commande plus lente.\n"
+
+#~ msgid "Enable local pickup agencies import"
+#~ msgstr "Permettre d'importation des bureaux de livraison "
+
+#~ msgid "Enable Local Pickup Import Shipping Rates"
+#~ msgstr "Activer l'Importation des farifs d'expédition livraison au bureau"
+
+#~ msgid "Error fetching zones"
+#~ msgstr "Erreur lors de la récupération des zones\n"
+
+#~ msgid "Error fetching zones. Please try again."
+#~ msgstr "Erreur lors de la récupération des zones. Veuillez réessayer.\n"
+
+#~ msgid "Error saving changes. Please try again."
+#~ msgstr ""
+#~ "Erreur lors de l'enregistrement des modifications. Veuillez réessayer.\n"
+
+#~ msgid "Error updating prices"
+#~ msgstr "Erreur lors de la mise à jour des prix\n"
+
+#~ msgid "Export Shipping zones"
+#~ msgstr "Exporter les zones de livraison\n"
+
+#~ msgid "Export shipping zones"
+#~ msgstr "Exporter les zones de livraison\n"
+
+#~ msgid "Filter by status"
+#~ msgstr "Filtrer par statut"
+
+#~ msgid "Flat Rate"
+#~ msgstr "Livraison a domicile"
+
+#~ msgid "Flat rate"
+#~ msgstr "Livraison a domicile"
+
+#~ msgid "Flat Rate for Ecotrack Shipping method"
+#~ msgstr "Méthode d’expédition Ecotrack livraison a domicile"
+
+#~ msgid "Flat Rate for Nord et Ouest Express Shipping method"
+#~ msgstr "Tarif d’expédition express Nord et Ouest pour livraison a domicile"
+
+#~ msgid "Flat Rate Label"
+#~ msgstr "Livraison a domicile étiquette"
+
+#~ msgid "Flat Rate Shipping method"
+#~ msgstr "Méthode d’expédition livraison a domicile"
+
+#~ msgid "General Configuration"
+#~ msgstr "Configuration Générale"
+
+#~ msgid "General Settings"
+#~ msgstr "Paramètres Généraux"
+
+#~ msgid "Generate slip automatically using Yalidine and EcoTrack API."
+#~ msgstr "Générer slip automatiquement à l'aide de Yalidine et EcoTrack API."
+
+#~ msgid "Google Maps Link"
+#~ msgstr "Lien Google Maps"
+
+#~ msgid "GPS"
+#~ msgstr "GPS"
+
+#~ msgid "Green List"
+#~ msgstr "La Liste Verte"
+
+#~ msgid "Guepex Orders"
+#~ msgstr "Commandes Guepex"
+
+#~ msgid "Homepage"
+#~ msgstr "Page d'accueil"
+
+#~ msgid ""
+#~ "If you didn't buy the extension please head to amineware.me to buy it"
+#~ msgstr ""
+#~ "Si vous n'avez pas acheté l'extension, veuillez vous rendre sur "
+#~ "amineware.me pour l'acheter"
+
+#~ msgid "If you have't found your provider in the list please contact us at"
+#~ msgstr ""
+#~ "Si vous avez pas trouvé votre fournisseur dans la liste, veuillez nous "
+#~ "contacter à"
+
+#~ msgid "Import"
+#~ msgstr "L'importation"
+
+#~ msgid "Import shipping zones"
+#~ msgstr "Importer des zones de livraison\n"
+
+#~ msgid "Importing"
+#~ msgstr "L'importation de"
+
+#~ msgid "Importing shipping class has been finished"
+#~ msgstr "L'importation d'expédition classe a été terminé"
+
+#~ msgid "Importing..."
+#~ msgstr "De l'importation..."
+
+#~ msgid "Is Economic Shipping company?."
+#~ msgstr "Est-ce une société de livraison économique ?\n"
+
+#~ msgid "Is Economic?"
+#~ msgstr "Est-ce économique ?\n"
+
+#~ msgid "License"
+#~ msgstr "Licence"
+
+#~ msgid "License key"
+#~ msgstr "Clé de licence"
+
+#~ msgid "Loading..."
+#~ msgstr "Chargement..."
+
+#~ msgid "Local Pickup"
+#~ msgstr "Livraison au bureau"
+
+#~ msgid "Local Pickup for Ecotrack Shipping method"
+#~ msgstr "Ecotrack méthode d’expédition livraison au bureau"
+
+#~ msgid "Local Pickup for Nord et Ouest Express Shipping method"
+#~ msgstr "Nord et Ouest Express méthode d’expédition livraison au bureau"
+
+#~ msgid "Local Pickup Label"
+#~ msgstr "Étiquette livraison au bureau"
+
+#~ msgid "Local Pickup Shipping method"
+#~ msgstr "Méthode d’expédition livraison au bureau"
+
+#~ msgid "Manager your shipping zones import and export them easily"
+#~ msgstr ""
+#~ "Gérez vos zones de livraison, importez-les et exportez-les facilement\n"
+
+#~ msgid "Maps"
+#~ msgstr "Cartes"
+
+#~| msgid "Marsa"
+#~ msgid "Maps:"
+#~ msgstr "Cartes"
+
+#~ msgid "Maystro Delivery"
+#~ msgstr "Maystro De Livraison"
+
+#~ msgid "Maystro Delivery Flat Rate"
+#~ msgstr "Maystro Delivery livraison a domicile"
+
+#~ msgid "Maystro Delivery Flat Rate Shipping method"
+#~ msgstr "Maystro Delivery méthode d'expédition livraison a domicile"
+
+#~ msgid "Maystro Delivery Local Pickup"
+#~ msgstr "Maystro Delivery livraison au bureau"
+
+#~ msgid "Maystro Delivery Local Pickup Shipping method"
+#~ msgstr "Maystro Delivery méthode d'expédition livraison au bureau"
+
+#~ msgid "Name of Shipping company."
+#~ msgstr "Nom de la société d'Expédition."
+
+#~ msgid "No"
+#~ msgstr "Non"
+
+#~ msgid "No barcode has been added to this list, scan or type to add"
+#~ msgstr ""
+#~ "Pas de code-barres a été ajoutée à cette liste, de numérisation ou de "
+#~ "type à ajouter"
+
+#~ msgid "No orders available."
+#~ msgstr "Pas de commandes disponibles."
+
+#~ msgid "No tracking informations has been found"
+#~ msgstr "Aucune information de suivi n'a été trouvée\n"
+
+#~ msgid "Non"
+#~ msgstr "Non"
+
+#~ msgid "Nord et Ouest Express Flat Rate"
+#~ msgstr "Nord et Ouest Express livraison a domicile"
+
+#~ msgid "Nord et Ouest Express Local Pickup"
+#~ msgstr "Nord et Ouest Express livraison au bureau"
+
+#~ msgid "Note"
+#~ msgstr "Remarque"
+
+#~ msgid "Number"
+#~ msgstr "Nombre"
+
+#~ msgid "Option"
+#~ msgstr "Option"
+
+#~ msgid "Order"
+#~ msgstr "Afin"
+
+#~ msgid "Order Notes"
+#~ msgstr "Notes de commande\n"
+
+#~ msgid "Order Status"
+#~ msgstr "Statut De La Commande"
+
+#~ msgctxt "Order status"
+#~ msgid "Awaiting shipping"
+#~ msgstr "En attente d’expédition"
+
+#~ msgctxt "Order status"
+#~ msgid "Dispatched"
+#~ msgstr "Expédié"
+
+#~ msgctxt "Order status"
+#~ msgid "En cours"
+#~ msgstr "En cours"
+
+#~ msgid "Order status already exist cannot create the same twice"
+#~ msgstr ""
+#~ "Le statut de la commande existe déjà ne peut pas créer la même chose deux "
+#~ "fois"
+
+#~ msgid "Order status created successfully"
+#~ msgstr "Statut de la commande créée avec succès"
+
+#~ msgid "Order Status Manager"
+#~ msgstr "Statut De La Commande Gestionnaire De"
+
+#~ msgid "Orders List"
+#~ msgstr "Les Commandes De La Liste"
+
+#~ msgid "Orders Per Page"
+#~ msgstr "Les Commandes Par Page"
+
+#~ msgid "Oui"
+#~ msgstr "Oui"
+
+#~ msgid "Paiement effectué"
+#~ msgstr "Paiement effectué"
+
+#~ msgid "Paiement en attente"
+#~ msgstr "Paiement en attente"
+
+#~ msgid "Paiement prêt"
+#~ msgstr "Paiement de prêt"
+
+#~ msgid "Pas prêt"
+#~ msgstr "Pas prêt"
+
+#~ msgid "Password"
+#~ msgstr "Mot de passe"
+
+#~ msgid "Payment"
+#~ msgstr "Paiement"
+
+#~ msgid "Payment awaiting"
+#~ msgstr "Paiement en attente"
+
+#~ msgid "Payment not ready"
+#~ msgstr "Le paiement n'est pas prêt"
+
+#~ msgid "Payment payed"
+#~ msgstr "Paiement payé"
+
+#~ msgid "Payment ready"
+#~ msgstr "De paiement de prêt"
+
+#~ msgid "Payment receivable"
+#~ msgstr "Paiement à recevoir"
+
+#~ msgid "Payment received"
+#~ msgstr "Paiement reçu"
+
+#~ msgid "Payment Status"
+#~ msgstr "L'État De Paiement"
+
+#~ msgid "Payé"
+#~ msgstr "Payé"
+
+#~ msgid "Phone:"
+#~ msgstr "Téléphone"
+
+#~ msgid ""
+#~ "Please confirm if you wish to reset your shipping conditions. Be aware "
+#~ "that this action is irreversible."
+#~ msgstr ""
+#~ "Merci de confirmer si vous souhaitez réinitialiser vos conditions de "
+#~ "livraison. Sachez que cette action est irréversible."
+
+#~ msgid ""
+#~ "Please insert the license you receive in your email to enable the "
+#~ "extension"
+#~ msgstr ""
+#~ "Veuillez insérer la licence que vous avez reçue par email pour activer "
+#~ "l'extension\n"
+
+#~ msgid "Please select a center"
+#~ msgstr "Veuillez sélectionner un centre de"
+
+#~ msgid "Please select a city"
+#~ msgstr "Veuillez choisir une commune"
+
+#~ msgid "Press \"Enter\" after scanning or typing to add the barcode"
+#~ msgstr ""
+#~ "Appuyez sur \"Entrée\" après la numérisation ou la saisie d'ajouter le "
+#~ "code à barres"
+
+#~ msgid "Preview"
+#~ msgstr "Aperçu"
+
+#~ msgid "Print"
+#~ msgstr "Imprimer"
+
+#~ msgid "Print Labels"
+#~ msgstr "Imprimer Des Étiquettes"
+
+#~ msgid "Product String Format"
+#~ msgstr "Produit Format De Chaîne De Caractères"
+
+#~ msgid "Providers"
+#~ msgstr "Les fournisseurs de"
+
+#~ msgid "Quick search..."
+#~ msgstr "Recherche rapide..."
+
+#~ msgid "Refresh"
+#~ msgstr "Actualiser"
+
+#~ msgid "Reset Shipping condition"
+#~ msgstr "Réinitialisation de Livraison condition"
+
+#~ msgid "Reset status"
+#~ msgstr "Réinitialiser les états de la commande"
+
+#~ msgid "Sans Livraison"
+#~ msgstr "Sans Livraison"
+
+#~ msgid "Save Changes"
+#~ msgstr "Enregistrer les modifications\n"
+
+#~ msgid "Search By ID"
+#~ msgstr "Recherche Par ID"
+
+#~ msgid "Search By SKU"
+#~ msgstr "Recherche Par référence SKU"
+
+#~ msgid "Search by tracking"
+#~ msgstr "Recherche par le suivi de"
+
+#~ msgid "Select a state"
+#~ msgstr "Sélectionner une wilaya"
+
+#~ msgid "Select agency"
+#~ msgstr "Sélectionner un bureau de livraison"
+
+#~ msgid "Select City"
+#~ msgstr "Sélectionner une commune"
+
+#~ msgid "Select state"
+#~ msgstr "Sélectionner une wilaya"
+
+#~ msgid "Select Status"
+#~ msgstr "Sélectionnez Le Statut De"
+
+#~ msgid ""
+#~ "Select the status you want to use so when the order change to that status "
+#~ "it will be added to the shipping company"
+#~ msgstr ""
+#~ "Sélectionnez le statut que vous souhaitez utiliser, de sorte que lorsque "
+#~ "la commande passera à ce statut, il sera ajouté à la société de transport"
+
+#~ msgid "Settings"
+#~ msgstr "Réglages"
+
+#~ msgid "Settings has been saved"
+#~ msgstr "Les paramètres ont été enregistrés"
+
+#~ msgid "Settings has been updated"
+#~ msgstr "Paramètres a été mis à jour"
+
+#~ msgid "Shipping Company"
+#~ msgstr "Société De Transport"
+
+#~| msgid "Shipping Company Slug"
+#~ msgid "Shipping company."
+#~ msgstr "Société de livraison"
+
+#~ msgid "Shipping Price Manager"
+#~ msgstr "Gestionnaire de prix de livraison\n"
+
+#~ msgid "Shipping Zones"
+#~ msgstr "Zones de livraison\n"
+
+#~ msgid "Shipping Zones has been cleared"
+#~ msgstr "L'expédition des Zones a été effacé"
+
+#~ msgid "Signature"
+#~ msgstr "Signature"
+
+#~ msgid "Slug of Shipping company."
+#~ msgstr "Slug de la société d'Expédition."
+
+#~ msgid "Speedmail Orders"
+#~ msgstr "Commandes Speedmail"
+
+#~ msgid "State"
+#~ msgstr "Wilaya"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "01  Adrar أدرار"
+#~ msgstr "01 Adrar أدرار"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "02\tChlef  الشلف"
+#~ msgstr "02 Chlef الشلف"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "03\tLaghouat\tالأغواط"
+#~ msgstr "03 Laghouat الأغواط"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "04\tOum El Bouaghi\tأم البواقي"
+#~ msgstr "04 Oum El Bouaghi أم البواقي"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "05\tBatna\tباتنة"
+#~ msgstr "05 Batna باتنة"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "06\tBéjaïa\tبجاية"
+#~ msgstr "06 Béjaïa بجاية"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "07\tBiskra\tبسكرة"
+#~ msgstr "07 Biskra بسكرة"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "08\tBéchar\tبشار"
+#~ msgstr "08 Béchar بشار"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "09\tBlida\tالبليدة"
+#~ msgstr "09 Blida البليدة"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "10\tBouïra\tالبويرة\t"
+#~ msgstr "10  Bouïra\tالبويرة\t"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "11\tTamanrasset\tتمنراست"
+#~ msgstr "11 Tamanrasset تمنراست"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "12\tTébessa\tتبسة"
+#~ msgstr "12 Tébessa تبسة"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "13\tTlemcen\tتلمسان"
+#~ msgstr "13 Tlemcen تلمسان"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "14\tTiaret\tتيارت"
+#~ msgstr "14 Tiaret تيارت"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "15\tTizi Ouzou\tتيزي وزو"
+#~ msgstr "15 Tizi Ouzou تيزي وزو"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "16\tAlger\tالجزائر"
+#~ msgstr "16 Alger الجزائر"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "17\tDjelfa\tالجلفة"
+#~ msgstr "17 Djelfa الجلفة"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "20\tSaïda\tسعيدة"
+#~ msgstr "20 Saïda سعيدة"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "21\tSkikda\tسكيكدة"
+#~ msgstr "21 Skikda سكيكدة"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "22\tSidi Bel Abbès\tسيدي بلعباس"
+#~ msgstr "22 Sidi Bel Abbès سيدي بلعباس"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "23\tAnnaba\tعنابة"
+#~ msgstr "23 Annaba عنابة"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "24\tGuelma\tقالمة"
+#~ msgstr "24 Guelma قالمة"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "25\tConstantine\tقسنطينة"
+#~ msgstr "25 Constantin قسنطينة"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "26\tMédéa\tالمدية"
+#~ msgstr "26 Médéa المدية"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "27\tMostaganem\tمستغانم"
+#~ msgstr "27 Mostaganem مستغانم"
+
+#, fuzzy
+#~| msgid "28\tM'Sila\tالمسيلة"
+#~ msgctxt "states"
+#~ msgid "28\tM\\'Sila\tالمسيلة"
+#~ msgstr "28 M Sila المسيلة"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "29\tMascara\tمعسكر"
+#~ msgstr "29 Mascara معسكر"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "30\tOuargla\tورقلة"
+#~ msgstr "30 Ouargla ورقلة"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "32\tEl Bayadh\tالبيض"
+#~ msgstr "32 El Bayadh البيض"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "33\tIllizi\tاليزي"
+#~ msgstr "33 Illizi اليزي"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "34\tBordj Bou Arréridj\tبرج بوعريريج"
+#~ msgstr "34 Bordj Bou Arréridj برج بوعريريج"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "35\tBoumerdès\tبومرداس"
+#~ msgstr "35 Boumerdès بومرداس"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "36\tEl Tarf\tالطارف"
+#~ msgstr "36 El Tarf الطارف"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "37\tTindouf\tتندوف"
+#~ msgstr "37 Tindouf تندوف"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "38\tTissemsilt\tتسمسيلت"
+#~ msgstr "38 Tissemsilt تسمسيلت"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "39\tEl Oued\tالوادي"
+#~ msgstr "39 El Oued الوادي"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "40\tKhenchela\tخنشلة"
+#~ msgstr "40 Khenchela خنشلة"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "41\tSouk Ahras\tسوق أهراس"
+#~ msgstr "41 Souk Ahras سوق أهراس"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "42\tTipaza\tتيبازة"
+#~ msgstr "42 Tipaza تيبازة"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "44\tAïn Defla\tعين الدفلى"
+#~ msgstr "44 Aïn Defla عين الدفلى"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "45\tNaâma\tالنعامة"
+#~ msgstr "45 Naâma النعامة"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "46\tAïn Témouchent\tعين تموشنت"
+#~ msgstr "46 Aïn Témouchent عين تموشنت"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "47\tGhardaïa\tغرداية"
+#~ msgstr "47 Ghardaïa غرداية"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "48\tRelizane\tغليزان"
+#~ msgstr "48 Relizane غليزان"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "49\tTimimoun\tتيميمون"
+#~ msgstr "49 Timimoun تيميمون"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "50\tBordj Baji Mokhtar\tبرج باجي مختار"
+#~ msgstr "50 Bordj Baji Mokhtar برج باجي مختار"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "51\tOuled Djellal\tأولاد جلال"
+#~ msgstr "51 Ouled Djellal أولاد جلال"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "52\tBéni Abbès\tبني عباس"
+#~ msgstr "52 Béni Abbès بني عباس"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "53\tIn Salah\tعين صالح"
+#~ msgstr "53 In Salah عين صالح"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "54\tIn Guezzam\tعين قزّام"
+#~ msgstr "54 Dans Guezzam عين قزّام"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "55\tTouggourt\tتقرت"
+#~ msgstr "55 Touggourt تقرت"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "57\tEl M'Ghair\tالمغير"
+#~ msgstr "57 El M'Ghair المغير"
+
+#, fuzzy
+#~ msgctxt "states"
+#~ msgid "58\tEl Menia\tالمنيعة"
+#~ msgstr "58 El Menia المنيعة"
+
+#~ msgid "Status"
+#~ msgstr "Statut"
+
+#~ msgid "Status background"
+#~ msgstr "Le statut d'arrière-plan"
+
+#~ msgid "Status Color"
+#~ msgstr "Couleur De La Condition De"
+
+#~ msgid "Status Name"
+#~ msgstr "Nom D'État"
+
+#~ msgid "Status slug"
+#~ msgstr "Le statut de slug"
+
+#~ msgid "Street address"
+#~ msgstr "Adresse"
+
+#~ msgid "Subtract"
+#~ msgstr "Soustraire"
+
+#~ msgid "Supplément commune"
+#~ msgstr "Supplément de la commune"
+
+#~ msgid "Sync"
+#~ msgstr "Synchronisation"
+
+#~ msgid "Sélectionner la taille de bordereau"
+#~ msgstr "Sélectionner la taille de bordereau"
+
+#~ msgid "Sélectionnez un bureau"
+#~ msgstr "Sélectionnez un bureau\n"
+
+#~ msgid "Tentative échouée"
+#~ msgstr "Tentative échouée"
+
+#~ msgid "Thank you for purchasing Bordreau Generator"
+#~ msgstr "Merci d'avoir acheté Bordreau Generator\n"
+
+#~ msgid "There is no token has been set"
+#~ msgstr "Il n'y a pas de jeton a été mis en"
+
+#~ msgid "This controls the title which the user sees during checkout."
+#~ msgstr "Ceci contrôle le titre qui voit l'utilisateur lors de la commande."
+
+#~ msgid "This will save the center ID for the agency."
+#~ msgstr "Cela permettra d'économiser le centre d'identification de l'agence."
+
+#~ msgid "This will show the address of the local pickup in the checkout."
+#~ msgstr ""
+#~ "Cela permettra d'afficher l'adresse du local au livraison au bureau."
+
+#~ msgid "This will show the geolocation lat,lng of the local pickup."
+#~ msgstr ""
+#~ "Cela affichera la géolocalisation (lat, lng) du point de retrait local.\n"
+
+#~ msgid "This will show the geolocation of the local pickup."
+#~ msgstr ""
+#~ "Cela permettra de montrer à la géolocalisation de la local de livraison "
+#~ "au bureau."
+
+#~ msgid "This will show the link maps of the local pickup in the checkout."
+#~ msgstr ""
+#~ "Cela affichera le lien des cartes du point de retrait local dans la "
+#~ "caisse.\n"
+
+#~ msgid "This will show the phone of the local pickup in the checkout."
+#~ msgstr ""
+#~ "Cela affichera le numéro de téléphone du point de retrait local dans la "
+#~ "caisse.\n"
+
+#~ msgid ""
+#~ "Time between updates this used to set the intervan between requests to "
+#~ "update the tracking status for all your packages"
+#~ msgstr ""
+#~ "Temps entre les mises à jour : il permet de définir l’intervalle entre "
+#~ "les demandes de mise à jour de l’état de suivi de tous vos colis"
+
+#~ msgid "Title"
+#~ msgstr "Titre"
+
+#~ msgid "Token has been saved"
+#~ msgstr "Jeton a été enregistré"
+
+#~ msgid "Tracking"
+#~ msgstr "Suivi"
+
+#~ msgid "Tracking details"
+#~ msgstr "Les détails de suivi"
+
+#~ msgid "Tracking Number"
+#~ msgstr "Numéro De Suivi"
+
+#~ msgid "Tracking number has been deleted successfully"
+#~ msgstr "Numéro de suivi a été supprimé avec succès"
+
+#~ msgid "Tracking number has been successfully created"
+#~ msgstr "Numéro de suivi a été créé avec succès"
+
+#~ msgid "Tracking Status"
+#~ msgstr "L'État De Suivi"
+
+#~ msgid "Tutorial"
+#~ msgstr "Tutoriel"
+
+#~ msgid "Type or scan your barcode"
+#~ msgstr "Type ou de scan de code-barres"
+
+#~ msgid "Unable to reset all the order status"
+#~ msgstr "Impossible de réinitialiser tous les statuts de la commande"
+
+#~ msgid "Update"
+#~ msgstr "Mise à jour"
+
+#~ msgid "Update Interval (min)"
+#~ msgstr "Intervalle de mise à jour (min)"
+
+#~ msgid "Use customs actions to set tracking and payments status manually"
+#~ msgstr ""
+#~ "Utiliser les actions groupes pour définir manuellement le suivi et le "
+#~ "statut des paiements"
+
+#~ msgid "Username"
+#~ msgstr "Nom d’utilisateur"
+
+#~ msgid "View on Google Maps"
+#~ msgstr "Voir sur Google Maps\n"
+
+#~ msgid "Votre API ID de Maystro Delivery voir avec le service commercial"
+#~ msgstr "Votre API ID de Maystro Delivery voir avec le service commercial"
+
+#~ msgid "Votre API Key pour acceder au platform "
+#~ msgstr "Votre API Key pour acceder au platform "
+
+#~ msgid "Votre API Token de %s voir dans votre espace à Configuration API"
+#~ msgstr "Votre API Token de %s voir dans votre espace à Configuration API"
+
+#~ msgid "Votre API Token de Maystro Delivery voir avec le service commercial"
+#~ msgstr "Votre API Token de Maystro Delivery voir avec le service commercial"
+
+#~ msgid ""
+#~ "Votre API Token de Nord et ouest express voir dans votre espace à "
+#~ "Configuration API"
+#~ msgstr ""
+#~ "Votre API Token de Nord et ouest express voir dans votre espace à "
+#~ "Configuration API"
+
+#~ msgid ""
+#~ "Votre Client ID de %s sera visible apres cree une application voir le "
+#~ "video formation"
+#~ msgstr ""
+#~ "Votre Client ID de %s sera visible apres cree une application voir le "
+#~ "video formation"
+
+#~ msgid ""
+#~ "Votre Client Secret de %s sera visible apres cree une application voir le "
+#~ "video formation"
+#~ msgstr ""
+#~ "Votre Client Secret de %s sera visible apres cree une application voir le "
+#~ "video formation"
+
+#~ msgid ""
+#~ "Votre Guid Token de Nord et ouest express voir dans votre espace à "
+#~ "Configuration API"
+#~ msgstr ""
+#~ "Votre Guid Token de Nord et ouest express voir dans votre espace à "
+#~ "Configuration API"
+
+#~ msgid "Votre Mot de pass pour acceder au platform"
+#~ msgstr "Votre Mot de pass pour acceder au platform "
+
+#~ msgid "Votre Mot de pass pour acceder au platform "
+#~ msgstr "Votre Mot de pass pour acceder au platform "
+
+#~ msgid "Votre Nom d'utilisateur pour acceder au platform"
+#~ msgstr "Votre Nom d’utilisateur pour accéder au platform "
+
+#~ msgid "Votre Nom d'utilisateur pour acceder au platform "
+#~ msgstr "Votre Nom d’utilisateur pour accéder au platform "
+
+#~ msgid "Votre Number de compte pour %s"
+#~ msgstr "Votre numero de compt pour %s"
+
+#~ msgid "Votre Phone Number de compte pour %s"
+#~ msgstr "Votre Telephone pour %s"
+
+#~ msgid "Votre Store name sur %s"
+#~ msgstr "Nom de votre boutique sur %s"
+
+#~ msgid ""
+#~ "Voulez-vous activer le calcule le Surpoids (+5KG) pour %s  au formulaire "
+#~ "de checkout?"
+#~ msgstr ""
+#~ "Voulez-vous activer le calcule le Surpoids (+5KG) pour %s  au formulaire "
+#~ "de checkout?"
+
+#~ msgid "Voulez-vous activer le calcule le Surpoids (+5KG) pour %s ?"
+#~ msgstr "Voulez-vous activer le calcule le Surpoids (+5KG) pour %s ?"
+
+#~ msgid "Vous avez un stock avec %s ?"
+#~ msgstr "Vous avez un stock avec %s ?"
+
+#~ msgid "Vous avez un stock avec Nordouest ?"
+#~ msgstr "Vous avez un stock avec Nordouest ?"
+
+#~ msgid "Vous voulez active la confirmation ?"
+#~ msgstr "Vous voulez active la confirmation ?"
+
+#~ msgid "Vous voulez afficher les centers?"
+#~ msgstr "Vous voulez afficher les centers?"
+
+#~ msgid "Vous voulez geré les produits dans la commande ?"
+#~ msgstr "Vous voulez gérer les produits dans la commande ?"
+
+#~ msgid "WebHook"
+#~ msgstr "WebHook"
+
+#~ msgid "Webhook Token"
+#~ msgstr "Jeton de webhook"
+
+#~ msgid "Webhook token has been saved"
+#~ msgstr "Webhook jeton a été enregistré"
+
+#~ msgid "Welcome to bordreau Generator Wizard"
+#~ msgstr ""
+#~ "Bienvenue dans l'assistant de Bordreau Generator\n"
+#~ "\n"
+
+#~ msgid "Wilaya has not been selected"
+#~ msgstr "Au niveau de la Wilaya n'a pas été sélectionné"
+
+#~ msgid "Yalidine Flat Rate"
+#~ msgstr "Yalidine livraison a domicile"
+
+#~ msgid "Yalidine Flat Rate Shipping method"
+#~ msgstr "Yalidine méthode d'expédition livraison a domicile"
+
+#~ msgid "Yalidine Local Pickup"
+#~ msgstr "Yalidine livraison au bureau"
+
+#~ msgid "Yalidine Local Pickup Shipping method"
+#~ msgstr "Yalidine méthode d'expédition livraison au bureau"
+
+#~ msgid "Yalidine Orders"
+#~ msgstr "Commandes Yalidine"
+
+#~ msgid "Yalitec Orders"
+#~ msgstr "Commandes Yalitec"
+
+#~ msgid "Yes"
+#~ msgstr "Oui"
+
+#~ msgid "Your products has been synced with Maystro delivery"
+#~ msgstr "Vos produits ont été synchronisées avec Maystro de livraison"
+
+#~ msgid "ZR Express Flat Rate"
+#~ msgstr "ZR Express livraison a domicile"
+
+#~ msgid "ZR Express Flat Rate Shipping method"
+#~ msgstr "ZR Express méthode d'Expédition livraison a domicile"
+
+#~ msgid "ZR Express Local Pickup"
+#~ msgstr "ZR Express, méthode d'expédition livraison au bureau"
+
+#~ msgid "ZR Express Local Pickup Shipping method"
+#~ msgstr "ZR Express, méthode d'expédition livraison au bureau"
+
+#: src/admin/js/pages/homepage.jsx:92
+msgid "Homepage"
+msgstr "Accueil"
+
+#: src/admin/js/pages/homepage.jsx:107
+#: src/admin/js/components/BordereauProvidersList.jsx:345
+msgid "Shipping Providers"
+msgstr "Fournisseurs de livraison"
+
+#: src/admin/js/pages/homepage.jsx:122
+msgid "Settings"
+msgstr "Paramètres"
+
+#: src/admin/js/pages/homepage.jsx:137
+msgid "Tutorial"
+msgstr "Tutoriel"
+
+#: src/admin/js/pages/homepage.jsx:154
+#: src/admin/js/components/DocsTab.jsx:42
+msgid "Docs"
+msgstr "Documentation"
+
+#: src/admin/js/components/DocsTab.jsx:15
+msgid "Getting Started"
+msgstr "Commencer"
+
+#: src/admin/js/components/DocsTab.jsx:24
+msgid "API Reference"
+msgstr "Référence API"
+
+#: src/admin/js/components/DocsTab.jsx:28
+msgid "Troubleshooting"
+msgstr "Dépannage"
+
+#: src/admin/js/components/DocsTab.jsx:32
+msgid "FAQ"
+msgstr "FAQ"
+
+#: src/admin/js/components/DocsTab.jsx:44
+msgid "Documentation"
+msgstr "Documentation"
+
+#: src/admin/js/components/DocsTab.jsx:69
+msgid "Search documentation..."
+msgstr "Rechercher dans la documentation..."
+
+#: src/admin/js/components/CompanyCard.jsx
+msgid "Duplicated"
+msgstr "Dupliqué"
+
+#: src/admin/js/components/CompanyCard.jsx
+msgid "Active"
+msgstr "Actif"
+
+#: src/admin/js/components/CompanyCard.jsx
+msgid "Visit Website"
+msgstr "Visiter le site"
+
+#: src/admin/js/components/CompanyCard.jsx
+msgid "Off"
+msgstr "Désactivé"
+
+#: src/admin/js/components/CompanyCard.jsx
+msgid "On"
+msgstr "Activé"
+
+#: src/admin/js/components/CompanyCard.jsx
+msgid "Enable provider"
+msgstr "Activer le fournisseur"
+
+#: src/admin/js/components/CompanyCard.jsx
+msgid "Import Orders"
+msgstr "Importer les commandes"
+
+#: src/admin/js/components/CompanyCard.jsx
+msgid "Provider Settings"
+msgstr "Paramètres du fournisseur"
+
+#: src/admin/js/components/CompanyCard.jsx
+msgid "Sync Products"
+msgstr "Synchroniser les produits"
+
+#: src/admin/js/components/CompanyCard.jsx
+msgid "Configure Webhook"
+msgstr "Configurer le Webhook"
+
+#: src/admin/js/components/SlideModal.jsx
+msgid "Close panel"
+msgstr "Fermer le panneau"
+
+#: src/admin/js/components/SlideModal.jsx
+msgid "Loading..."
+msgstr "Chargement..."
+
+#: src/admin/js/components/CredentialsPopup.jsx
+msgid "API Credentials"
+msgstr "Identifiants API"
+
+#: src/admin/js/components/CredentialsPopup.jsx
+msgid "Enter your API credentials to connect with this provider"
+msgstr "Entrez vos identifiants API pour vous connecter avec ce fournisseur"
+
+#: src/admin/js/components/CredentialsPopup.jsx
+msgid "Configure provider credentials and options"
+msgstr "Configurer les identifiants et options du fournisseur"
+
+#: src/admin/js/components/CredentialsPopup.jsx
+msgid "Saving..."
+msgstr "Enregistrement..."
+
+#: src/admin/js/components/CredentialsPopup.jsx
+msgid "Save Settings"
+msgstr "Enregistrer les paramètres"
+
+#: src/admin/js/components/ImportPopup.jsx
+msgid "Import Options"
+msgstr "Options d'importation"
+
+#: src/admin/js/components/ImportPopup.jsx
+msgid "Select which shipping rates to import"
+msgstr "Sélectionnez les tarifs d'expédition à importer"
+
+#: src/admin/js/components/ImportPopup.jsx
+msgid "Flat Rate Shipping"
+msgstr "Expédition forfaitaire"
+
+#: src/admin/js/components/ImportPopup.jsx
+msgid "Import flat rate shipping prices"
+msgstr "Importer les prix d'expédition forfaitaires"
+
+#: src/admin/js/components/ImportPopup.jsx
+msgid "Local Pickup"
+msgstr "Retrait local"
+
+#: src/admin/js/components/ImportPopup.jsx
+msgid "Import local pickup (stopdesk) shipping prices"
+msgstr "Importer les prix d'expédition de retrait local"
+
+#: src/admin/js/components/ImportPopup.jsx
+msgid "Import by Agency"
+msgstr "Importer par agence"
+
+#: src/admin/js/components/ImportPopup.jsx
+msgid "Create separate shipping zones for each agency"
+msgstr "Créer des zones d'expédition séparées pour chaque agence"
+
+#: src/admin/js/components/ImportPopup.jsx
+msgid "Shipping Labels"
+msgstr "Étiquettes d'expédition"
+
+#: src/admin/js/components/ImportPopup.jsx
+msgid "Customize the labels shown to customers"
+msgstr "Personnaliser les étiquettes affichées aux clients"
+
+#: src/admin/js/components/ImportPopup.jsx
+msgid "Import shipping rates and zones from provider"
+msgstr "Importer les tarifs et zones d'expédition du fournisseur"
+
+#: src/admin/js/components/ImportPopup.jsx
+msgid "Import Rates"
+msgstr "Importer les tarifs"
+
+#: src/admin/js/components/WebhookPopup.jsx
+msgid "Webhook URL"
+msgstr "URL du Webhook"
+
+#: src/admin/js/components/WebhookPopup.jsx
+msgid "Copy this URL and paste it in your provider's webhook settings"
+msgstr "Copiez cette URL et collez-la dans les paramètres webhook de votre fournisseur"
+
+#: src/admin/js/components/WebhookPopup.jsx
+msgid "Copied!"
+msgstr "Copié!"
+
+#: src/admin/js/components/WebhookPopup.jsx
+msgid "Copy"
+msgstr "Copier"
+
+#: src/admin/js/components/WebhookPopup.jsx
+msgid "How to use"
+msgstr "Comment utiliser"
+
+#: src/admin/js/components/WebhookPopup.jsx
+msgid "Copy the webhook URL above"
+msgstr "Copiez l'URL du webhook ci-dessus"
+
+#: src/admin/js/components/WebhookPopup.jsx
+msgid "Go to your provider's dashboard"
+msgstr "Allez dans le tableau de bord de votre fournisseur"
+
+#: src/admin/js/components/WebhookPopup.jsx
+msgid "Find the webhook/integration settings"
+msgstr "Trouvez les paramètres webhook/intégration"
+
+#: src/admin/js/components/WebhookPopup.jsx
+msgid "Paste the URL and save"
+msgstr "Collez l'URL et enregistrez"
+
+#: src/admin/js/components/WebhookPopup.jsx
+msgid "Security Settings"
+msgstr "Paramètres de sécurité"
+
+#: src/admin/js/components/WebhookPopup.jsx
+msgid "Optional security token for webhook verification"
+msgstr "Jeton de sécurité optionnel pour la vérification du webhook"
+
+#: src/admin/js/components/WebhookPopup.jsx
+msgid "Secret Key"
+msgstr "Clé secrète"
+
+#: src/admin/js/components/WebhookPopup.jsx
+msgid "Set up automatic order status updates"
+msgstr "Configurer les mises à jour automatiques du statut des commandes"
+
+#: src/admin/js/components/WebhookPopup.jsx
+msgid "Save Webhook"
+msgstr "Enregistrer le Webhook"
+
+#: src/admin/js/components/CompanyCard.jsx
+msgid "Import Shipping Prices"
+msgstr "Importer les tarifs d'expédition"
+
+#: src/admin/js/components/CompanyCard.jsx
+msgid "Prices"
+msgstr "Tarifs"

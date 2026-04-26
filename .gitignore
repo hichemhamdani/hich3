@@ -1,0 +1,63 @@
+# ===========================
+# WordPress — BP Blueprint
+# ===========================
+
+# Fichier de configuration (contient les credentials DB)
+wp-config.php
+
+# Fichiers de log et debug
+debug.log
+php_errorlog
+*.log
+
+# Scripts one-off (nettoyage, import, debug)
+debug_overflow.php
+fetch_brand_logos.php
+fetch_brand_logos_v3.php
+fetch_brand_logos_v4.php
+fetch_real_logos.php
+fix-create-categories.php
+fix-products-no-category.php
+fix-products-no-price.php
+import_brand_logos.php
+import_seeklogo_brands.php
+upload_logo.php
+audit_images_mismatch.txt
+images_to_download.txt
+
+# Uploads utilisateurs (médias)
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/upgrade-temp-backup/
+
+# Clé de chiffrement SiteGround (spécifique à l'hébergement)
+wp-content/sgs_encrypt_key.php
+
+# Cache
+wp-content/cache/
+wp-content/w3tc-config/
+
+# Node / build tools
+node_modules/
+.npm/
+dist/
+.cache/
+
+# Environnement local
+.env
+.env.local
+*.local
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs Claude Code (traçabilité locale, non partagée)
+.claude/logs/*.log

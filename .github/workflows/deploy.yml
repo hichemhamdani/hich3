@@ -1,0 +1,22 @@
+name: Deploy to SiteGround Staging
+
+on:
+  push:
+    branches:
+      - dev
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USERNAME }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          port: ${{ secrets.SSH_PORT }}
+          script: |
+            cd ${{ secrets.SSH_PATH }}
+            git pull https://hichemhamdani:${{ secrets.GH_TOKEN }}@github.com/hichemhamdani/NOM-DU-REPO.git dev
+            echo "Deploiement termine"
