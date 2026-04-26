@@ -3,7 +3,7 @@ name: Deploy to SiteGround Staging
 on:
   push:
     branches:
-      - dev
+      - main
 
 jobs:
   deploy:
@@ -18,5 +18,5 @@ jobs:
           port: ${{ secrets.SSH_PORT }}
           script: |
             cd ${{ secrets.SSH_PATH }}
-            git pull https://hichemhamdani:${{ secrets.GH_TOKEN }}@github.com/hichemhamdani/NOM-DU-REPO.git dev
+            git pull https://hichemhamdani:${{ secrets.GH_TOKEN }}@github.com/hichemhamdani/hich3.git main
             echo "Deploiement termine"

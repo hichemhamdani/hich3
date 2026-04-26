@@ -13,7 +13,7 @@ $img = get_template_directory_uri() . '/assets/img/';
     <div class="about-hero-overlay"></div>
     <div class="about-hero-content">
         <span class="about-eyebrow">Notre histoire</span>
-        <h1>Toutes choses beauté,<br><em>tout en un seul endroit</em></h1>
+        <h1>Toutes choses Cosmé,<br><em>tout en un seul endroit</em></h1>
         <p class="about-hero-sub">Depuis Kouba au coeur d'Alger, Jimee Cosmetics rend la beauté accessible à toutes et tous en Algérie.</p>
     </div>
 </div>
